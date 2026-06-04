@@ -1,0 +1,299 @@
+===== 翻译.pdf | PAGE 1 =====
+P1:L1: 三、英译汉（3×10’）【2 课内+1 课外】
+P1:L2: 四、汉译英（2×10’）
+P1:L3: ——Times New Roman+华文行楷为PPT 上句子，Clibri+宋体为仅作业中
+P1:L4: 有的句子。
+P1:L5: Unit 1
+P1:L6: Passage1
+P1:L7: 3)"Our model provides a biologically plausible way for artificial neural networks
+P1:L8: to learn new visual concepts from a small number of examples," says Riesenhuber.
+P1:L9: "We can get computers to learn much better from few examples by leveraging prior
+P1:L10: learning in a way that we think mirrors what the brain is doing."
+P1:L11: 里森胡伯（Riesenhuber）说：“我们的模型为人工神经网络从少量的例子中学习
+P1:L12: 新的视觉概念提供了一种生物学上可行的方法。我们可以利用先前的学习方式，
+P1:L13: 即以我们认为能够反映大脑活动的方式，使计算机从很少的示例中学习得更好。”
+P1:L14: 5)The big change needed was in designing software to identify relationships between
+P1:L15: entire visual categories, instead of trying the more standard approach of identifying
+P1:L16: an object using only low-level and intermediate information, such as shape and color,
+P1:L17: Riesenhuber says.
+P1:L18: 里森胡伯（Riesenhuber）说：“需要做的重大改变是设计软件来识别整个视觉类
+P1:L19: 别之间的关系，而不是尝试使用更标准的方法，即仅使用形状和颜色等低级和中
+P1:L20: 间信息来识别一个对象”。
+P1:L21: 5)The computational power of the brain's hierarchy lies in the potential to
+P1:L22: simplify learning by leveraging previously learned representations from a
+P1:L23: databank, as it were, full of concepts about objects.
+P1:L24: 大脑层级结构的计算能力在于通过利用以前从数据库中学习到的表征来简化学
+P1:L25: 习的潜力，因为数据库中充满了关于物体的概念。
+P1:L26: 11) "Our findings not only suggest techniques that could help computers learn
+P1:L27: more quickly and efficiently, they can also lead to improved neuroscience
+P1:L28: experiments aimed at understanding how people learn so quickly, which is not yet
+P1:L29: well understood," Riesenhuber concludes.
+P1:L30: 里森胡伯（Riesenhuber）总结道：“我们的发现不仅表明技术可以帮助计算机更
+P1:L31: 快、更有效地学习的技术，还可以改进神经科学实验，这些实验的目标是了解人
+P1:L32: 们是如何如此快速地学习的，因为这一点目前还没有得到很好的理解。”
+P1:L33: Passage 2
+P1:L34: 1)While there’s been considerable work on inferring the goals and desires of
+P1:L35: agents, much of this work has assumed that agents act optimally to achieve their
+P1:L36: goals.
+P1:L37: 虽然在推断人们的目标和欲望方面，已经有了相当多的工作，但这些工作大多假
+P1:L38: 设人们为了达到目标，会采取最佳行动。
+P1:L39: 6 ) " One of our early insights was that if you want to infer someone ' s goals, you don '
+P1:L40: t need to think further ahead than they do. We realized this could be used not just
+P1:L41: to speed up goal inference , but also to infer intended goals from actions that are
+P1:L42: too shortsighted to succeed , leading us to shift from scaling up algorithms to
+P1:L43: exploring ways to resolve more fundamental limitations of current AI systems, "
+P1:L44: says Vikash Mansinghka, a principal research scientist at MIT and one of Tan Zhi - Xuan
+P1:L45: ' s co - advisors , along with Joshua Tenenbaum , MIT professor in brain and cognitive
+P1:L46: sciences . " This is part of our larger moonshot - to reverse - engineer 18 - month -
+P1:L47: old human common sense. "
+P1:L48: “我们早期的一个见解是，如果你想推断某人的目标，你不需要比他们想得更远。
+P1:L49: 我们意识到，这不仅可以用来加速目标推理，还可以从因目光短浅而无法成功的
+P1:L50: 行动中推断出预期目标，从而引导我们从扩展算法规模转向去探索解决当前人工
+P1:L51: 智能系统更根本局限性的方法。”麻省理工学院首席研究科学家暨谭志轩的联合
+P1:L52: 顾问之一维卡什·曼辛卡(vikash mansinghka)与麻省理工学院大脑与认知科学教授
+P1:L53: 约书亚·特南鲍姆(joshua tenenbaum)说道，“这是我们更大的冒险计划的一部分
+P1:L54: ——对18 个月大的人类常识进行反向工程。”
+P1:L55: 9 ) Though this work represents only a small initial step, my hope is that this research
+===== 翻译.pdf | PAGE 2 =====
+P2:L1: will lay some of the philosophical and conceptual groundwork necessary to build
+P2:L2: machines that truly understand human goals, plans and values, " says Xuan. " This
+P2:L3: basic approach of modeling humans as imperfect reasoners feels very promising.
+P2:L4: It now allows us to infer when plans are mistaken, and perhaps it will eventually
+P2:L5: allow us to infer when people hold mistaken beliefs, assumptions, and guiding
+P2:L6: principles as well. "
+P2:L7: 9）“尽管这项工作只是一个小小的开始，但我希望这项研究能为建造真正理解人
+P2:L8: 类目标、计划和价值观的机器奠定一些必要的哲学和概念基础，”宣（Xuan）说，
+P2:L9: “这种将人类建模为不完美推理者的基本方法是非常有前途的，它现在让我们可
+P2:L10: 以推断出什么时候计划是错误的，也许它最终能让我们推断出什么时候人们持有
+P2:L11: 错误的信念、假设和指导原则。”
+P2:L12: Unit2
+P2:L13: Passage 1
+P2:L14: 4)Boston Consulting Group (BCG), a management consultancy, foresees quantum
+P2:L15: computers improving the operating income of their users by between $450bn and
+P2:L16: $850bn a year by 2050. Unfortunately, big, stable quantum computers do not yet
+P2:L17: exist. But small, ornery, unstable ones do.
+P2:L18: 管理咨询公司波士顿咨询集团(bcg)预计，到2050 年，量子计算机将使用户的运营
+P2:L19: 收入每年增加4500 亿至8500 亿美元。不幸的是，还没有大型稳定的量子计算机，
+P2:L20: 但是有小型不完备、不稳定的量子计算机。
+P2:L21: 7) These firms are hunting for "quantum advantage"—a way in which even today's
+P2:L22: limited machines might have an impact on their bottom lines, or those of their
+P2:L23: customers. For most of the field's history, quantum-computing research has been
+P2:L24: backed by governments or big information-technology firms. Increasingly, though, the
+P2:L25: venture-capital (VC) industry is showing an interest.
+P2:L26: 这些公司正在寻找“量子优势”——即使是今天有局限性的机器也可能对他们或
+P2:L27: 他们客户的底线产生影响。在这个领域的大部分历史中，量子计算机的研究一直
+P2:L28: 得到政府或大型信息技术公司的支持。然而，风险投资（VC）行业对此也越来越
+P2:L29: 感兴趣了。
+P2:L30: 15)Microsoft (whose own topological machines are still at an early stage of
+P2:L31: development) offers access via Azure, its cloud-computing service, to machines from
+P2:L32: IonQ, Honeywell and a company called Quantum Circuits. Amazon hosts machines
+P2:L33: from Rigetti, IonQ and D-Wave, a Canadian company that builds specialised,
+P2:L34: fixed-purpose computers called quantum annealers.
+P2:L35: 微软（其自己的拓扑计算机仍处于开发的早期阶段）可以通过其云计算服务Azure
+P2:L36: 来访问IonQ，霍尼韦尔（Honeywell)和一家名为Quantum Circuits 公司的机器计算
+P2:L37: 机。亚马逊托管着来自加拿大的Rigetti，IonQ 和D-Wave 的机器，D-Wave 制造专
+P2:L38: 门的固定用途计算机，称为量子退火器。
+P2:L39: 19) The big question is what all this is leading up to. Despite the excitement, the
+P2:L40: industry's commercial pioneers have their work cut out for them. There is plenty of
+P2:L41: promise, but, as yet, no certainty. Finding algorithms that are both commercially
+P2:L42: useful and simple enough to work within a NISQ machine's limitations is not easy.
+P2:L43: 最大的问题是，这一切将导致什么。尽管激动人心，量子计算机行业的商业先驱
+P2:L44: 们还有许多的工作要做。前景一片光明，但到目前为止还存在不确定性。要找到
+P2:L45: 既有商业价值又足够简单的算法在嘈杂中型量子计算（NISQ）机器的限制下工作
+P2:L46: 并不容易。
+P2:L47: 20)A report published last year by America's National Academy of Sciences
+P2:L48: reminded readers that no commercial applications are currently known to
+P2:L49: exist.The first step, then, is to go looking.
+P2:L50: 美国国家科学院去年发表的一份报告提醒读者，目前尚未发现任何【嘈杂中型量
+P2:L51: 子计算（NISQ）】的商业应用。那么，第一步就是去寻找这样的算法。
+P2:L52: 21)The industry has been cheered by Google's demonstration last year of
+P2:L53: "quantumsupremacy",in which it used a NISQ machine to perform, with minutes
+P2:L54: of computing time,a calculation that would have taken thousands of years on
+P2:L55: classical hardware.Google's calculation was highly contrived and of little use in
+P2:L56: the real world.But it proved a point.
+P2:L57: 谷歌去年展示的“量子优势（QuantumSupremy）”让业界欢呼雀跃，它使用一台嘈
+===== 翻译.pdf | PAGE 3 =====
+P3:L1: 杂中型量子计算（NISQ）机器，用几分钟的计算时间来完成了一项在传统硬件上
+P3:L2: 可能需要数千年时间的计算。谷歌的计算非常做作，在现实世界中用处不大。但
+P3:L3: 这却证实了一个点子。
+P3:L4: Passage 2
+P3:L5: 8)Unlike most of its peripatetic predecessors, though, ByteDance has built its empire
+P3:L6: by making products that appeal beyond China. It is China's first global software giant.
+P3:L7: It has also courted foreign investors.
+P3:L8: 不过，与大多数游历的前辈不同的是，字节跳动通过生产出对中国以外地区有吸
+P3:L9: 引力的产品，建立了自己的帝国。它是中国第一个全球软件巨头，还吸引了外国
+P3:L10: 投资者。
+P3:L11: 17)In statements, TikTok has said that it stores all American “user data in the United
+P3:L12: States ”
+P3:L13: and that its American operations are “ not influenced by any foreign
+P3:L14: government, including the Chinese government”. The firm is trying to mollify critics
+P3:L15: and has hired prominent security and legal experts in America to help it.
+P3:L16: 抖音（TikTok）在声明中表示，它已经将所有“美国用户数据”存储在了美国，
+P3:L17: 其在美国的业务“不受任何外国政府（包括中国政府）的影响”。该公司正试图
+P3:L18: 平息批评，并聘请了美国著名的安全和法律专家来帮助它。
+P3:L19: 19)That, most lawyers and technologists reckon, may help get CFIUS off its back.
+P3:L20: Listing ByteDance in Hong Kong, which is under consideration, may also foster trust.
+P3:L21: So would anointing a non-Chinese successor—though, at 37, Mr Zhang may not be
+P3:L22: ready to retire.
+P3:L23: 大多数律师和技术专家认为，这可能有助于美国外资投资委员会（CFIUS）摆脱
+P3:L24: 困境。正考虑的字节跳动（ByteDance）公司在香港上市也可能促进信任。所以要
+P3:L25: 任命一位非中国籍的接班人也是如此——尽管年仅37 岁的张尚武（张先生）可能
+P3:L26: 还没有准备好退休。
+P3:L27: Unit3
+P3:L28: Passage 1
+P3:L29: 1)Major carriers are in the process of rolling out ultra-high-speed mobile-phone
+P3:L30: networks that use fifth-generation (5G) technology, transmitting data up to 50 times
+P3:L31: faster than current phone networks.
+P3:L32: 主要运营商正在推出使用第五代（5G）技术的超高速移动电话网络，5G 网络传
+P3:L33: 输数据的速度比目前的电话网络快50 倍。
+P3:L34: 2) This deluge of data flooding through our society will enable a host of new services,
+P3:L35: including connecting new devices and equipment.
+P3:L36: 洪水般涌入我们社会的数据洪流将带来一系列新的服务，包括连接新的终端和设
+P3:L37: 备。
+P3:L38: 8) But 5G networks can zip data back and forth quickly enough to mean that much of
+P3:L39: the processing can move to the cloud.
+P3:L40: 但5G 网络可以快速地来回压缩数据，这意味着大部分处理可以转移到云端。
+P3:L41: 9)Around the home, that could be tomato plants in the garden that can ask for water,
+P3:L42: roofs that warn of weaknesses after extreme weather, jackets that keep parents updated
+P3:L43: on a child’s location, trash cans that ask to be emptied, and milk cartons that point out
+P3:L44: expiration dates.
+P3:L45: 在家附近，物联网可以是花园里能够请求浇水的西红柿植物，能够对极端天气后
+P3:L46: 的弱点进行警告的屋顶，能够让父母随时了解孩子位置的夹克，能够请求清空的
+P3:L47: 垃圾桶，能够指出保质期的牛奶箱。
+P3:L48: Passage 2
+P3:L49: 3)Traditionally, Qualcomm has developed and manufactured chipsets and modems that
+P3:L50: can connect to 5G networks, but now it wants to play a bigger role in the actual
+P3:L51: infrastructure behind 5G.
+P3:L52: 传统上，高通公司已经开发和制造了可以连接到5G 网络的芯片组和调制解调器，
+P3:L53: 但现在它希望在5G 背后的实际基础设施中扮演更重要的角色。
+P3:L54: 5)The speed was achieved with a bunch of fancy tech on a mmWave network and
+===== 翻译.pdf | PAGE 4 =====
+P4:L1: using what’s called carrier aggregation, which combines multiple channels to make for
+P4:L2: faster speeds.
+P4:L3: 这一速度是通过在毫米波网络上使用一系列奇特的技术，并使用所谓的载波聚合
+P4:L4: （carrier aggregation）来实现的，这种聚合结合了多个信道以获得更快的速度。
+P4:L5: Unit4
+P4:L6: Passage 1
+P4:L7: 4)However, they are drawing the line somewhere, with the ethics committee's report
+P4:L8: forbidding the use of modifications or implants that might "affect their sense of
+P4:L9: humanity" or their ability to manage the use of force. They have also banned
+P4:L10: modifications like cognitive implants that would prevent soldiers from exercising free
+P4:L11: will and any changes that might impact their reintegration into civilian life.
+P4:L12: 然而，他们在某处划清了界限，伦理委员会的报告禁止使用可能“影响他们的人性
+P4:L13: 意识”或管理使用武力的修改或植入。他们还禁止了阻止士兵行使自由意志的认知
+P4:L14: 植入，以及任何可能影响他们重新融入平民生活的改变。
+P4:L15: 10)We’ve reached the point now where we could potentially manipulate people’s DNA
+P4:L16: to breed into them extra strength, endurance and other things just as we do with
+P4:L17: animals. Just as we’ve done with standard cattle to give them more back, we can do
+P4:L18: that now very precisely with humans.
+P4:L19: 我们现在已经达到了这样的水平，我们可以像对待动物一样潜在操纵人类的
+P4:L20: DNA，使他们产生额外的力量、耐力和其他东西。就像我们用标准化饲养的牛来
+P4:L21: 换取更多的回报一样，我们现在也可以非常精确的用人类做到这一点。
+P4:L22: Passage 2
+P4:L23: 4)The advance could fuel a variety of robotics applications, including, potentially,
+P4:L24: frontline medical care of contagious patients.
+P4:L25: 这一进展可能推动机器人技术的各种应用，可能的包括传染病患者的一线医疗护
+P4:L26: 理。
+P4:L27: 7)“For robots to be deployed into the field and safely operate in dynamic environments
+P4:L28: around humans, they need to be able to think and react very quickly,” says Plancher.
+P4:L29: “Current algorithms cannot be run on current CPU hardware fast enough.”
+P4:L30: 普朗彻（Plancher）说：“如果要让机器人部署到实际中，并在人类周围动态的环
+P4:L31: 境中安全运行，它们需要能很快速的思考和做出反应，但是目前的算法在当前
+P4:L32: CPU 硬件上运行的速度不够快。”
+P4:L33: 9)A commonly used hardware accelerator is the graphics processing unit (GPU), a chip
+P4:L34: specialized for parallel processing.
+P4:L35: 一种常用的硬件加速器是图形处理器（GPU），GPU 是一种专门用于并行处理的
+P4:L36: 芯片。
+P4:L37: 11)The system then designs a hardware architecture specialized to run calculations
+P4:L38: only on the non-zero values in the matrices.
+P4:L39: 然后，专门为该系统设计了一个硬件架构，仅对矩阵中的非零值运行计算。
+P4:L40: Uint5
+P4:L41: Passage 1
+P4:L42: 3)The ability to 3D-print bottlebrush elastomers makes it possible to leverage these
+P4:L43: unique mechanical properties in applications that require careful control over the
+P4:L44: dimensions of objects ranging from biomimetic tissue to high-sensitivity electronic
+P4:L45: devices, such as touch pads, sensors and actuators.
+P4:L46: 如果我们能够3D 打印制作出瓶刷结构弹性体，那么就可以在需要严格控制对象
+P4:L47: 尺寸的场合下应用这种弹性体独特的机械性能，应用场合既可以是仿生组织，也
+P4:L48: 可以是高灵敏度的电子设备，如触摸板、传感器和驱动器等。
+P4:L49: 5)Xie's and Mukherjee's key discovery involves the self-assembly of bottlebrush
+P4:L50: polymers at the nanometer length scale, which causes a solid-to-liquid transition in
+P4:L51: response to applied pressure. This material is categorized as a yield-stress fluid,
+P4:L52: meaning it begins as a semi-soft solid that holds its shape, like butter or toothpaste, but
+P4:L53: when sufficient pressure is applied, it liquefies and can be squeezed through a syringe.
+P4:L54: 谢（Xie）与穆克吉（Mukherjee）的关键发现涉及到瓶刷聚合物在纳米长度范围
+===== 翻译.pdf | PAGE 5 =====
+P5:L1: 内的自我组合性能，这可以使固体在受到压力时转变成液体。这种材料被归类为
+P5:L2: 屈服应力流体，也就是说，它一开始是一种半软的固体，就像黄油或牙膏一样，
+P5:L3: 能保持其形状，但对其施加足够的压力时，它就会液化，可用注射器挤出。
+P5:L4: 18)"We wanted the material and the printing process to be as clean and as easy as
+P5:L5: possible, so we played a chemistry trick with solubility and self-assembly, which
+P5:L6: enabled the solvent-free process. The fact that we don't use solvent is a tremendous
+P5:L7: advantage.”
+P5:L8: “我们希望这种材料以及打印过程尽可能干净、简单，所以就利用化学手段处理了
+P5:L9: 材料的可溶性和自我组合性能，这才使整个过程无需使用溶剂。事实上，我们不
+P5:L10: 使用溶剂是一个巨大的优势。”
+P5:L11: Passage 2
+P5:L12: 5)Recycling a mix of multicolored HDPE pieces creates a dark plastic good only for
+P5:L13: making products like park benches and waste bins, in which properties like color don’t
+P5:L14: matter much.
+P5:L15: 回收混合了五颜六色的高密度聚乙烯（HDPE）制造出的一种深色塑料，只适合
+P5:L16: 制作公园长椅和垃圾箱等产品，而颜色等特性对这些产品影响不大。
+P5:L17: 6)The difficulties of recycling plastic into anything manufacturers want to use is a big
+P5:L18: reason why the world is littered with so much plastic waste, says Eric Beckman, a
+P5:L19: chemical engineer at the University of Pittsburgh.
+P5:L20: 匹兹堡大学的化学工程师埃里克•贝克曼（Eric Beckman）表示，制造商难以将塑
+P5:L21: 料回收利用，生产出他们想要的任何产品，这是世界上到处都是塑料垃圾的一个
+P5:L22: 重要原因。
+P5:L23: 8)Since, realistically, plastic is not going away any time soon, chemists who
+P5:L24: understand the ins and outs of all this pesky plastic are working to make it easier to
+P5:L25: recycle and turn into higher-quality material that’s useful for more things.
+P5:L26: 因为事实上，塑料不会很快消失，了解所有这些讨厌塑料的来龙去脉的化学家们
+P5:L27: 正在努力使其更容易回收利用，变成更高质量的材料，用于更多的事情。
+P5:L28: 43)Widespread plastics like polyethylene terephthalate, or PET, and polyethylene are
+P5:L29: so cheap to make that any breakout polymer would have a tough time entering the
+P5:L30: market, Beckman says. So for now, inherently recyclable plastic is just an academic
+P5:L31: curiosity. But maybe, decades from now, plastics made to be recyclable from the get-go
+P5:L32: will help solve the world’s plastic waste problem.
+P5:L33: 贝克曼说，像聚对苯二甲酸乙二酯（PET）和聚乙烯这样的塑料价格低廉，以至
+P5:L34: 于任何突破性的聚合物都很难进入市场。因此，就目前而言，天生可回收的塑料
+P5:L35: 只是一个学术上的新奇玩意儿。但也许，几十年后，从一开始就可回收的塑料将
+P5:L36: 有助于解决世界上的塑料垃圾问题。
+P5:L37: Unit6
+P5:L38: Passage 1
+P5:L39: 1)In a promising result for the success of vaccines against COVID-19, rhesus macaque
+P5:L40: monkeys infected with the human coronavirus SARS-CoV-2 developed protective
+P5:L41: immune responses that might be reproduced with a vaccine.
+P5:L42: 接种新冠疫苗可以产生良好的效果：感染人冠状病毒SARS-CoV-2 的恒河猴产生
+P5:L43: 了保护性免疫反应，这种反应可通过疫苗来复制。
+P5:L44: 3)The immune response to coronavirus plays a protective role in recovery from disease,
+P5:L45: and most patients make a full recovery, Iyer said. But an uncontrolled immune
+P5:L46: response or “cytokine storm” is also implicated in causing severe complications in
+P5:L47: some people.
+P5:L48: 艾耶说，对冠状病毒的免疫反应在疾病的康复中起到保护作用，大多数患者都能
+P5:L49: 完全康复。但不受控制的免疫反应或“细胞因子风暴”也会导致一些人的严重并发
+P5:L50: 症。
+P5:L51: 6)The researchers followed immune responses in the animals over about two weeks.
+P5:L52: The animals showed either mild disease that was quickly resolved or no symptoms,
+P5:L53: with a brief and transient immune response.
+P5:L54: 研究人员对这些动物的免疫反应进行了为期两周的跟踪观察。这些动物要么有短
+P5:L55: 暂轻微并迅速缓解的免疫反应症状，要么没有任何症状。
+===== 翻译.pdf | PAGE 6 =====
+P6:L1: Passage 2
+P6:L2: 2)Gene editing techniques have the potential to treat blood disorders that run in
+P6:L3: families, such as thalassemia and sickle cell anemia, but their application has been
+P6:L4: largely limited to cells in a laboratory and not living animals.
+P6:L5: 基因编辑技术有可能治疗家族性血液疾病，如地中海贫血和镰状细胞贫血，但其
+P6:L6: 应用主要局限于实验室细胞，而不是活体动物。
+P6:L7: 5)The researchers found that the technique corrected the mutation to such a degree that
+P6:L8: the mice no longer had symptoms of thalassemia. After 140 days, they tested
+P6:L9: hemoglobin levels in the animals and found them to be normal.
+P6:L10: 研究人员发现，这项技术纠正了突变，使小鼠不再有地中海贫血的症状。140 天
+P6:L11: 后，他们测试了这些动物的血红蛋白水平，发现是正常的。
+P6:L12: 2)To achieve gene editing in mice with thalassemia, professor of therapeutic radiology
+P6:L13: and of genetics Dr. Peter M. Glazer and his co-authors developed an alternative
+P6:L14: approach using a novel combination of nanoparticles, synthetic pieces of DNA, and a
+P6:L15: simple IV injection.
+P6:L16: 为了在患地中海贫血的小鼠中实现基因编辑，治疗放射学教授、遗传学教授彼
+P6:L17: 得·格雷泽博士及其同事研发了一种新的方法，该方法采用了纳米颗粒、合成DNA
+P6:L18: 片段和简单的静脉注射的新组合。

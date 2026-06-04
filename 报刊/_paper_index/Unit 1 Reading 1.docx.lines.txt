@@ -1,0 +1,102 @@
+===== Unit 1 Reading 1.docx | DOCX =====
+DOC:L1: Unit 1  Reading 1
+DOC:L2: The Age of De-Skilling
+DOC:L3: Will AI stretch our minds—or stunt them?
+DOC:L4: By Kwame Anthony Appiah
+DOC:L5: The fretting has swelled from a murmur to a clamor, all variations on the same foreboding theme: “Your Brain on ChatGPT.” “AI Is Making You Dumber.” “AI Is Killing Critical Thinking.” Once, the fear was of a runaway intelligence that would wipe us out. Now that chatbots are going the way of Google—moving from the miraculous to the taken-for-granted—the anxiety has shifted, too, from apocalypse to atrophy. Teachers, especially, say they’re beginning to see the rot. The term for it is unlovely but not inapt: de-skilling.
+DOC:L6: The worry is far from fanciful. Kids who turn to Gemini to summarize Twelfth Night may never learn to wrestle with Shakespeare on their own. Aspiring lawyers who use Harvey AI for legal analysis may fail to develop the interpretive muscle their predecessors took for granted. In a recent study, several hundred U.K. participants were given a standard critical-thinking test and were interviewed about their AI use for finding information or making decisions. Younger users leaned more on the technology, and scored lower on the test. Another study looked at physicians performing colonoscopies: After three months of using an AI system to help flag polyps, they became less adept at spotting them unaided.
+DOC:L7: But the real puzzle isn’t whether de-skilling exists—it plainly does—but rather what kind of thing it is. Are all forms of de-skilling corrosive? Or are there kinds that we can live with, that might even be welcome? De-skilling is a catchall term for losses of very different kinds: some costly, some trivial, some oddly generative.
+DOC:L8: Our chatbots are new: The “transformer” architecture they rely on was invented in 2017, and ChatGPT made its public debut just five years later. But the fear that a new technology might blunt the mind is ancient. In the Phaedrus, Socrates recounts a myth in which the Egyptian god Thoth offers King Thamus the gift of writing—“a recipe for memory and for wisdom.” Thamus is unmoved. Writing, he warns, will do the opposite: It will breed forgetfulness, letting people trade the labor of recollection for marks on papyrus, mistaking the appearance of understanding for the thing itself. What looks like a loss from one angle, though, can look like a gain from another. Writing opened new mental territories: commentary, jurisprudence, reliable history, science. Walter J. Ong put it crisply: “Writing is a technology that restructures thought.” Slide rules yielded to calculators, calculators to computers. Each time, individual virtuosity waned, but overall performance advanced.
+DOC:L9: In truth, human cognition has always leaked beyond the skull—into instruments, symbols, and one another. We’ve been storing thought in the world for tens of millennia. Plenty of creatures use tools, but their know-how dies with them; ours accumulates as culture—a relay system for intelligence. The widening of collaboration has changed what it means to know something. Knowledge, once imagined as a possession, has become a relation—a matter of how well we can locate, interpret, and synthesize what others know. We live inside a web of distributed intelligence, dependent on specialists, databases, and instruments to extend our reach.
+DOC:L10: The old distinction between information and skill, between “knowing that” and “knowing how,” has grown blurry in the era of large language models. They do what Socrates complained writing could not: They answer questions, adjust to an interlocutor, carry on a conversation. It wasn’t hard to imagine Google as an extension of memory; a large language model feels, to many, more like a stand-in for the mind itself.
+DOC:L11: We can’t put the genie back in the bottle; we can decide what spells to have it cast. When people talk about de-skilling, they usually picture an individual who’s lost a knack for something—the pilot whose hand-flying gets rusty, the doctor who misses tumors without an AI assist. But most modern work is collaborative. The issue isn’t how humans compare to bots but how humans who use bots compare to those who don’t. Think back to that colonoscopy study: After performing AI-assisted procedures, gastroenterologists saw their unaided rate of polyp detection drop by six percentage points. But when another study pooled data from 24,000 patients, a fuller picture emerged: AI assistance raised overall detection rates by roughly 20 percent. Because higher detection rates mean fewer missed cancers, this “centaur” approach was plainly beneficial.
+DOC:L12: The same logic holds elsewhere: Once a machine enters the workflow, mastery may shift from production to appraisal. A 2024 study of coders using GitHub Copilot found that AI use seemed to redirect human skill rather than obviate it. Coders spent less time generating code and more time assessing it—checking for logic errors, catching edge cases, cleaning up the script. The skill migrated from composition to supervision. Expertise shifts from producing the first draft to editing it, from speed to judgment. Generative AI is a probabilistic system, not a deterministic one; it returns likelihoods, not truth.
+DOC:L13: But collaboration presupposes competence. A centaur goes in circles if the human half doesn’t know what it’s doing. That’s where the panic over pedagogy comes in. You can’t become de-skilled if you were never skilled in the first place. Consider a recent randomized trial in a large Harvard physics course. The AI-tutored students came out ahead—by a lot. The system had been designed to behave like a good coach: showing you how to break big problems into smaller ones, offering hints instead of blurting out answers, and adjusting to each student’s pace. Machines won’t replace mentors. What they promise to do is handle the routine parts of tutoring. We should also be mindful that what works for STEM courses may not work for the humanities. The term paper teaches a discipline that’s hard to reproduce in conversation: building an argument step by step, weighing evidence, organizing material, honing a voice.
+DOC:L14: Erosive de-skilling remains a prospect that can’t be wished away: the steady atrophy of basic cognitive or perceptual capacities through overreliance on tools, with no compensating gain. The most troubling prospect of all is what might be called constitutive de-skilling: the erosion of the capacities that make us human in the first place. Judgment, imagination, empathy, the feel for meaning and proportion—these aren’t backups; they’re daily practices. To offload those faculties would be, in effect, to offload ourselves.
+DOC:L15: More radical, new technologies can summon new skills into being. The same may prove true now. Working with large language models, my younger colleagues insist, is already teaching a new kind of craftsmanship—prompting, probing, catching bias and hallucination, and, yes, learning to think in tandem with the machine.
+DOC:L16: The hard part is deciding, without nostalgia and inertia, which skills are keepers and which are castoffs. Literacy dulled feats of memory but created new powers of analysis. Calculators did a number on mental arithmetic; they also enabled more people to “do the math.” The most pressing question, then, is how to keep our agency intact: how to remain the authors of the systems that are now poised to take on so much of our thinking. Stewardship now means ensuring that the capacities in which our humanity resides—judgment, imagination, understanding—stay alive in us. If there’s one skill we can’t afford to lose, it’s the skill of knowing which of them matter.
+DOC:L17: 术语表（英汉对照）
+DOC:L18: English Term
+DOC:L19: 中文对应
+DOC:L20: 教学说明
+DOC:L21: de-skilling
+DOC:L22: 去技能化 / 技能退化
+DOC:L23: 文中核心概念，指技术介入后，人类原有技能的弱化或流失。
+DOC:L24: atrophy
+DOC:L25: 萎缩；退化
+DOC:L26: 常用于能力、肌肉、思维等逐渐退化的语境。
+DOC:L27: critical thinking
+DOC:L28: 批判性思维
+DOC:L29: 文章开头讨论 AI 可能削弱的关键认知能力。
+DOC:L30: interpretive muscle
+DOC:L31: 解释能力；阐释“肌肉”
+DOC:L32: 比喻说法，指通过训练形成的理解与分析能力。
+DOC:L33: catchall term
+DOC:L34: 笼统概括性术语
+DOC:L35: 指能涵盖多种不同现象的总括性概念。
+DOC:L36: transformer architecture
+DOC:L37: Transformer 架构
+DOC:L38: 现代大语言模型所依赖的关键技术架构。
+DOC:L39: large language models (LLMs)
+DOC:L40: 大语言模型
+DOC:L41: 文中 AI 讨论的核心技术对象。
+DOC:L42: distributed intelligence
+DOC:L43: 分布式智能
+DOC:L44: 指知识与能力分布于人、工具、数据库和制度网络之中。
+DOC:L45: cognitive division of labor
+DOC:L46: 认知分工
+DOC:L47: 指现代社会中知识和能力的高度专业化分配。
+DOC:L48: stand-in for the mind
+DOC:L49: 心智替代物
+DOC:L50: 文中形容 LLM 对很多人而言已像“大脑的替身”。
+DOC:L51: centaur approach
+DOC:L52: “半人马”式协作模式
+DOC:L53: 指人机结合、优势互补的协作方式。
+DOC:L54: humans in the loop
+DOC:L55: 人在回路中
+DOC:L56: 人类持续参与判断、审核与决策。
+DOC:L57: humans on the loop
+DOC:L58: 人在回路外层监督
+DOC:L59: 人类只是事后签字或表面监管，参与度较弱。
+DOC:L60: probabilistic system
+DOC:L61: 概率型系统
+DOC:L62: 文中强调生成式 AI 输出的是“概率”，不是“真理”。
+DOC:L63: deterministic
+DOC:L64: 确定性的
+DOC:L65: 与 probabilistic 相对，指结果唯一、可预测。
+DOC:L66: appraisal
+DOC:L67: 评估；审查
+DOC:L68: 文中指人类技能从“生产”转向“评估”。
+DOC:L69: supervision
+DOC:L70: 监督；把关
+DOC:L71: 指人类在 AI 工作流中的新型专业角色。
+DOC:L72: pedagogy
+DOC:L73: 教育法；教学法
+DOC:L74: 文中讨论 AI 对教学与学习方式的冲击。
+DOC:L75: erosive de-skilling
+DOC:L76: 侵蚀性去技能化
+DOC:L77: 指过度依赖工具后，基础能力被持续削弱。
+DOC:L78: constitutive de-skilling
+DOC:L79: 构成性去技能化
+DOC:L80: 指连判断力、想象力、共情力等“做人之本”的能力都被侵蚀。
+DOC:L81: agency
+DOC:L82: 能动性；主体性
+DOC:L83: 文章结尾的核心价值词，指人类对工具与系统的主导权。
+DOC:L84: stewardship
+DOC:L85: 守护；审慎管理
+DOC:L86: 文中指人类应负责维护关键能力不过度流失。
+DOC:L87: drudgery
+DOC:L88: 枯燥苦工
+DOC:L89: 指可被 AI 替代的重复、低价值劳动。
+DOC:L90: reskilling
+DOC:L91: 再技能化
+DOC:L92: 指因技术发展而产生的新技能升级。
+DOC:L93: emergent skills
+DOC:L94: 新兴技能
+DOC:L95: 文中指 prompting、probing、catching bias 等新能力。
+DOC:L96: hallucination
+DOC:L97: 幻觉；虚构输出
+DOC:L98: 指模型生成看似流畅但并不真实的信息。
+DOC:L99: fluency for understanding
+DOC:L100: 以流畅冒充理解
+DOC:L101: 文章结尾的重要警示性表达。

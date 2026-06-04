@@ -1,0 +1,116 @@
+===== Unit 1  Reading 2.docx | DOCX =====
+DOC:L1: Unit 1  Reading 2
+DOC:L2: The Complicated Stakes of the AI Race Between the U.S. and China
+DOC:L3: By Jared Cohen
+DOC:L4: Jared Cohen is the president of global affairs at Goldman Sachs.
+DOC:L5: Trade tensions between the United States and China have eased for now, but the technology race is accelerating. While Washington and Beijing have relaxed export controls on semiconductors and rare earths, both have announced new AI models, new applications, and new deals.
+DOC:L6: This week, world leaders are meeting in New Delhi for the India AI Impact Summit. And technology competition is, unsurprisingly, high on the list of discussion topics. Ever since last year’s “DeepSeek moment,” policymakers and executives have continued to debate: Will the U.S. or China win the AI race?
+DOC:L7: But that question may simplify more than it clarifies. What does AI leadership mean? What are we racing toward? What are the tradeoffs? Where are global supply chains too connected to derisk? And where can countries other than the U.S. and China compete? Without understanding the nuance of these questions, leaders risk advancing short-sighted solutions to today’s most pressing technology problems and may be pursuing flawed strategies in the long game of geopolitics.
+DOC:L8: The many different AI races
+DOC:L9: The truth is that AI isn’t a single race. There are multiple. Competition itself is creating new arenas of contestation, driving countries and companies to push the boundaries of innovation. And states beyond the U.S.-China binary are reshaping technology, capital investment, and geopolitics.
+DOC:L10: For instance, there is a race to develop a dominant open-source AI model and a race to develop the top closed-source AI model. America’s frontier AI models are predominantly closed-source, protecting weights and methods. China’s are mostly open-source, diffusing quickly and cheaply, making them attractive to the Global South. While the U.S. does have open models, many of its biggest open-source developers are reportedly pivoting in favor of closed-source models.
+DOC:L11: The distinction between open and closed is often more commercial than technical. The U.S. leads in AI monetization, and its companies have held their market share. But open-source models may be narrowing the performance gap with closed-source models.
+DOC:L12: However, the pursuit of top AI models isn’t the only contest that counts. The U.S.’s leading AI labs are driving toward artificial general intelligence, a goal to reach capacities beyond human knowledge and cognition. Meanwhile, China’s centralized political system, focused on control, is prioritizing AI diffusion, from driverless cars and the internet of things, to consumer applications and robots.
+DOC:L13: These are sometimes competing objectives, but they converge. China’s models grow more capable as they diffuse, and Beijing is simultaneously pursuing AGI. Meanwhile, as American models advance, AI is being embedded into daily life, including in business, education, and healthcare.
+DOC:L14: Washington and Beijing come to the AI competition with distinct advantages. I would argue that the U.S. leads overall, especially in terms of chips, models, and sales. Plus, the U.S. has an unparalleled network of global partners that scale its reach. Estimates put China’s leading-edge AI chip production at just 3% of U.S. totals, and public data suggests top U.S. AI chips are five times more powerful than China’s—even though China holds the lead in the scale of its production of legacy semiconductors.
+DOC:L15: But even some of China’s perceived advantages, especially during the prolonged transition from NVIDIA’s Hopper to the advanced Blackwell architecture, may prove to be temporary. As more advanced chips enable larger training runs, making models more capable, the scaling laws are likely to reassert themselves. Those gains in performance are expected to disproportionately flow to Western labs with access to frontier computing infrastructure, potentially leaving China further behind in the next phases of AI.
+DOC:L16: America’s capital markets are an unparalleled asset financing AI innovation and the AI buildout. While Goldman Sachs Research expects Chinese internet firms to invest 70 billion to support AI next year, a substantial sum, that’s only 15% to 20% of the forecast in the U.S.
+DOC:L17: The problem with America’s efforts to build out AI isn’t capital. It’s bottlenecks in energy generation, infrastructure, and transmission, especially given rising data center power demands. While the White House’s AI Action Plan prioritizes promoting America’s AI industry and building “vastly more energy generation,” state and local rules can impede federal plans. With holdups at home, investors are exploring buildouts abroad, including in the energy-rich Gulf states.
+DOC:L18: Beijing, though a net energy importer, faces no such barriers. It’s generating new coal, nuclear, and renewable production, potentially yielding 400 gigawatts of spare capacity by 2030, which is roughly four times America’s total current nuclear energy capacity.
+DOC:L19: The global landscape
+DOC:L20: No matter how heated the AI races between the U.S. and China may be, AI is a global industry with global supply chains, and no country can become entirely self-reliant. America is home to Nvidia, the world’s leading semiconductor designer. Its top chips, made by TSMC in Taiwan, require extreme ultraviolet lithography machines from the Netherlands’ ASML, which relies on German and Japanese subcomponents. Etching—the process that reveals chip circuitry—is dominated by America and Japan.
+DOC:L21: Meanwhile, the Gulf states—especially Saudi Arabia, the UAE, and Qatar—have abundant powered land and are making strategic AI investments. And India, the world’s most populous country and host of this year’s flagship global AI summit, is making meaningful advances, as are previous hosts France, South Korea, and the UK, as well as techno-democracies like Israel and Japan.
+DOC:L22: Finally, human ingenuity, wherever it is found, fuels AI—and here, the competition is fierce world-wide. The U.S. educates and is the number-one destination for AI talent. But China is home to many world-leading AI researchers, a large number of whom collaborate with their global counterparts, and it works to attract more STEM professionals.
+DOC:L23: The West and China are filling AI gaps and remaking some of the most complex and global supply chains in history into more resilient assets in the process. America is forming new critical mineral and technology coalitions, most recently Pax Silica, the Department of State’s flagship effort on AI and supply chain security. U.S.-led restrictions of chip exports—which have been tightened and loosened repeatedly in recent months—have to this point constrained Beijing’s AI industry. But China has also overcome multiple chokepoints, and its AI and semiconductor manufacturing capabilities are growing, while it continues to dominate in critical minerals.
+DOC:L24: AI’s importance to national security is becoming clearer. Military and dual-use AI capabilities, many with commercial origins, are being tested and deployed. Models have been manipulated for AI-orchestrated cyber-attacks, and non-American models have produced code with security vulnerabilities.
+DOC:L25: AI is unlocking economic growth, boosting bottom lines, and national power—and shifting trade, capital flows, and global politics.
+DOC:L26: The AI races won’t end in one moment. Leadership will often be partial and temporary. There will be victories. But we’re also witnessing a more technologically divided world, what Stanford University’s Colin Kahl has dubbed “an asymmetric form of AI bipolarity.”
+DOC:L27: The next AI races
+DOC:L28: Last year clarified that the great-power AI competition isn’t over. In 2026, AI will yield economic gains and reshape how we work. AI agents that act with minimal human oversight will drive productivity gains across industries. More advanced AI models will yield new innovations. Leaders and the public will confront new energy constraints and solutions. AI is already accelerating a revolution in military affairs, especially in the cyber domain and as Ukraine drives toward greater autonomy on the battlefield. Supply-chain chokepoints will shift, with high-bandwidth and other types of memory, as well as cloud infrastructure, coming to the fore.
+DOC:L29: And the U.S.-China competitions will continue to fuel, and be fueled by, AI.
+DOC:L30: More than three years after the release of ChatGPT, even with billions of people using these systems every day, these are still early days, and leaders must make AI plans even if they can’t predict the future perfectly. If the U.S. and other democratic societies want to lead, they must compete together in every race, and for the duration.
+DOC:L31: The constant in AI is change. Innovation will reshape the rules and arenas of competition, especially as software advances boost compute efficiency. Discoveries are expanding technological possibilities. And history shows that while some of today’s top AI companies will succeed, many will fail. The same could be said for countries—and it is in the democratic world’s best interest, from the most populous nation to the least, that America succeeds.
+DOC:L32: English Term
+DOC:L33: 中文对应
+DOC:L34: 教学说明
+DOC:L35: AI race
+DOC:L36: 人工智能竞赛 / AI竞争
+DOC:L37: 全文核心概念。作者强调 AI race 不是单一赛道，而是由模型、芯片、能源、资本、供应链、人才等多重竞赛构成。
+DOC:L38: AI leadership
+DOC:L39: AI领导地位 / AI主导权
+DOC:L40: 不只是“谁技术更强”，还包括产业化能力、全球影响力、伙伴网络和长期战略能力。
+DOC:L41: open-source AI model
+DOC:L42: 开源AI模型
+DOC:L43: 指开放程度较高、扩散更快、成本更低的模型路线。文中将其与中国的扩散优势联系起来。
+DOC:L44: closed-source AI model
+DOC:L45: 闭源AI模型
+DOC:L46: 指模型权重和方法不公开、商业控制更强的模型路线。文中指出美国前沿模型多为闭源。
+DOC:L47: weights and methods
+DOC:L48: 模型权重与方法
+DOC:L49: 指模型内部核心参数及技术实现方式，是闭源体系中最具商业价值和竞争壁垒的部分。
+DOC:L50: AI monetization
+DOC:L51: AI商业化变现
+DOC:L52: 指把模型能力转化为收入、市场份额和产业优势的能力。文章指出美国在这一点上领先。
+DOC:L53: performance gap
+DOC:L54: 性能差距
+DOC:L55: 指开源与闭源、不同国家模型之间在能力表现上的差异。文中提到这一差距正在缩小。
+DOC:L56: artificial general intelligence (AGI)
+DOC:L57: 通用人工智能
+DOC:L58: 指接近或超越人类普遍认知能力的 AI 目标。是当前全球 AI 竞争中的高阶技术想象。
+DOC:L59: AI diffusion
+DOC:L60: AI扩散 / AI普及应用
+DOC:L61: 指 AI 从实验室走向现实社会、进入交通、消费、医疗、教育等场景的过程。
+DOC:L62: frontier AI models
+DOC:L63: 前沿AI模型
+DOC:L64: 指技术上最先进、能力最强的一类模型，通常依赖高端芯片、大规模数据和强算力支持。
+DOC:L65: scaling laws
+DOC:L66: 规模定律
+DOC:L67: 指模型规模、数据规模和算力规模增大后，性能也随之提升的规律。是理解大模型发展的关键词。
+DOC:L68: frontier computing infrastructure
+DOC:L69: 前沿算力基础设施
+DOC:L70: 指支撑先进模型训练与部署的基础设施，包括高性能芯片、数据中心、云平台等。
+DOC:L71: capital markets
+DOC:L72: 资本市场
+DOC:L73: 文中用于说明美国在融资能力上的结构性优势，即资本能够持续支持 AI 创新与基建扩张。
+DOC:L74: bottlenecks
+DOC:L75: 瓶颈
+DOC:L76: 指制约 AI 发展的关键障碍。本文中主要指能源、基础设施和输电等方面的限制。
+DOC:L77: spare capacity
+DOC:L78: 剩余容量 / 冗余产能
+DOC:L79: 在本文主要指电力方面可供新建 AI 基础设施使用的额外容量。
+DOC:L80: global supply chains
+DOC:L81: 全球供应链
+DOC:L82: 全文重要背景概念。作者借芯片产业说明，AI 实力依赖跨国协作，任何国家都难以完全自给自足。
+DOC:L83: self-reliant
+DOC:L84: 完全自给自足的 / 完全自主可控的
+DOC:L85: 作者用来强调 AI 产业链高度全球化，没有国家能够真正脱离国际分工而独立运行。
+DOC:L86: extreme ultraviolet lithography (EUV)
+DOC:L87: 极紫外光刻
+DOC:L88: 高端芯片制造中的关键技术，用于说明 AI 芯片竞争背后隐藏着更复杂的全球技术网络。
+DOC:L89: etching
+DOC:L90: 蚀刻工艺
+DOC:L91: 芯片制造的重要环节。课堂上可借此向学生说明科技报道中的“工艺词汇”特点。
+DOC:L92: AI talent
+DOC:L93: AI人才
+DOC:L94: 指 AI 研究、开发和应用所依赖的高端人才资源。文章将其视为国家竞争力的重要来源。
+DOC:L95: critical minerals
+DOC:L96: 关键矿产
+DOC:L97: 与芯片、能源和高科技制造密切相关的战略资源，也是 AI 供应链安全的重要组成部分。
+DOC:L98: dual-use AI capabilities
+DOC:L99: 军民两用AI能力
+DOC:L100: 指既可服务商业用途，也可服务军事或国家安全用途的 AI 能力。
+DOC:L101: AI-orchestrated cyber-attacks
+DOC:L102: AI协同网络攻击
+DOC:L103: 指利用 AI 参与策划、增强或自动化实施的网络攻击，体现 AI 的安全风险维度。
+DOC:L104: AI bipolarity
+DOC:L105: AI两极化格局
+DOC:L106: 指全球 AI 竞争向两个主要力量主导的结构演变。文中进一步称其为“不对称的两极化”。
+DOC:L107: AI agents
+DOC:L108: AI智能体
+DOC:L109: 指能在较少人工干预下执行任务、作出反应甚至自主行动的 AI 系统。
+DOC:L110: supply-chain chokepoints
+DOC:L111: 供应链卡点 / 瓶颈环节
+DOC:L112: 指一旦受阻便会影响整个产业链运行的关键节点，是科技竞争和地缘政治中的高频概念。
+DOC:L113: compute efficiency
+DOC:L114: 算力效率 / 计算效率
+DOC:L115: 指以更少算力资源实现更强性能的能力。文章在结尾用它说明未来竞争规则仍可能被改写。

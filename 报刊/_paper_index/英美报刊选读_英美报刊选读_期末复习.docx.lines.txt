@@ -1,0 +1,63 @@
+===== 期末复习.docx | DOCX =====
+DOC:L1: 1、The computational power of the brain's hierarchy lies in the potential to simplify learning by leveraging previously learned representations from a databank, as it were, full of concepts about objects.
+DOC:L2: 大脑层次结构的计算能力在于通过利用以前从数据库中学到的表示来简化学习的潜力，可以说充满了关于对象的概念。
+DOC:L3: 2、Our findings not only suggest techniques that could help computers learn more quickly and efficiently, they can also lead to improved neuroscience experiments aimed at understanding how people learn so quickly, which is not yet well understood.
+DOC:L4: 我们的研究结果不仅提出了可以帮助计算机更快、更有效地学习的技术，还可以改进神经科学实验，旨在了解人们如何如此快速地学习，而这还没有被很好地理解。
+DOC:L5: 3、While there's been considerable work on inferring the goals and desires of agents, much of this work has assumed that agents act optimally to achieve their goals.
+DOC:L6: 虽然在推断智能体的目标和愿望方面已经做了大量的工作，但大部分工作都假设智能体以最佳方式实现他们的目标。
+DOC:L7: 4、We realized this could be used not just to speed up goal inference, but also to infer intended goals from actions that are too shortsighted to succeed, leading us to shift from scaling up algorithms to exploring ways to resolve more fundamental limitations of current Al systems.
+DOC:L8: 我们意识到这不仅可以用来加速目标推断，还可以从那些太短视而无法成功的行动中推断预期目标，这导致我们从扩大算法转向探索解决当前人工智能系统更基本限制的方法。
+DOC:L9: 5、This is part of our larger moonshot-to reverse-engineer 18-month-old human common sense.
+DOC:L10: •这是我们更大的冒险计划的一部分一对18个月大的人类常识进行反向工程
+DOC:L11: 6、This basic approach of modeling humans as imperfect reasoners feels very promising. It now allows us to infer when plans are mistaken, and perhaps it will eventually allow us to infer when people hold mistaken beliefs, assumptions, and guiding principles as well.
+DOC:L12: 这种将人类建模为不完美推理者的基本方法感觉非常有前途。它现在让我们可以推断出什么时候计划是错误的，也许它最终会让我们推断出什么时候人们持有错误的信念假设和指导原则。
+DOC:L13: 7、Boston Consulting Group (BCG), amanagement consultancy, foresees quantum computers improving the operating income of their users by between $450bn and $850bn a year by 2050.Unfortunately, big, stable quantum computers do not yet exist. But small, ornery, unstable ones do.
+DOC:L14: 管理咨询公司波士顿咨询集团（BCG）预计，到2050年，量子计算机每年将提高用户营业收入4500亿至8500亿美元。但是小型，华丽，不稳定的。
+DOC:L15: 8、A report published last year by America's National Academy of Sciences reminded readers that no commercial applications are currently known to exist. The first step, then, is to go looking.
+DOC:L16: 美国国家科学院去年发表的一份报告提醒读者，目前尚无商业应用。那么，第一步就是去寻找。
+DOC:L17: 9、The industry has been cheered by Google's demonstration last year of "quantumsupremacy" , in which it used a NISQ machine to perform, with minutes of computing time, a calculation that would have taken thousands of years on classical hardware. Google's calculation was highly contrived and of little use in the real world. But it proved a point.
+DOC:L18: 谷歌去年的“量子至上”演示令业界欢呼雀跃，其中它使用NISQ机器以几分钟的计算时间执行了在经典硬件上需要数千年的计算。谷歌的计算非常人为，在现实世界中几乎没有用处。但这证明了一点。
+DOC:L19: 10、Unlike most of its peripatetic predecessors, though, ByteDance has built its empire by making products that appeal beyond China. It is China's first global software giant. It has also courted foreign investors.
+DOC:L20: 不过，与其大多数游荡的前辈不同，字节跳动通过制造在中国以外具有吸引力的产品来建立自己的帝国。它是中国第一家全球软件巨头。它还吸引了外国投资者。
+DOC:L21: 11、In statements, TikTok has said that it stores all American "user data in the United States" and that its American operations are "not influenced by any foreign government, including the Chinese government". The firm is trying to mollify critics and has hired prominent security and legal experts in America to help it.
+DOC:L22: TikTok在声明中表示，它将所有美国“用户数据存储在美国”，其美国业务“不受包括中国政府在内的任何外国政府的影响”。该公司正试图安抚批评者，并聘请了美国著名的安全和法律专家来帮助它。
+DOC:L23: 12、That, most lawyers and technologists reckon, may help get CFIUS off its back. Listing ByteDance in Hong Kong, which is under consideration, may also foster trust. So would anointing a non-Chinese successor--though, at 37,Mr Zhang may not be ready to retire.
+DOC:L24: 大多数律师和技术专家认为，这可能有助于CFIUS摆脱困境。正在考虑在香港上市字节跳动也可能促进信任。任命一位非中国继任者也是如此——不过，37岁的张先生可能还没有准备好退休。
+DOC:L25: 13、Major carriers are in the process of rolling out ultra-high-speed mobile-phone networks that use fifth-generation (5G) technology, transmitting data up to 50 times faster than current phone networks.
+DOC:L26: 主要运营商正在推出使用第五代（5G）技术的超高速移动电话网络，其数据传输速度比目前的电话网络快50倍。
+DOC:L27: 14、This deluge of data flooding through our society will enable a host of new services, including connecting new devices and equipment.
+DOC:L28: 我们社会中大量的数据将带来许多新服务，包括连接新设备和设备。
+DOC:L29: 15、Around the home, that could be tomato plants in the garden that can ask for water, roofs that warn of weaknesses after extreme weather, jackets that keep parents updated on a child's location, trash cans that ask to be emptied, and milk cartons that point out expiration dates. But 5G networks can zip data back and forth quickly enough to mean that much of the processing can move to the cloud.
+DOC:L30: 在家里，可能是花园里的番茄植物，可以要求水，屋顶在极端天气后警告弱点，夹克让父母了解孩子的位置，要求清空的垃圾桶，以及指出有效期的牛奶盒。但5G网络可以足够快地来回压缩数据，这意味着大部分处理可以转移到云端。
+DOC:L31: 16、Traditionally, Qualcomm has developed and manufactured chipsets and modems that can connect to 5G networks, but now it wants to play a bigger role in the actual infrastructure behind 5G.
+DOC:L32: 传统上，高通公司已经开发和制造了可以连接到5G网络的芯片组和调制解调器，但现在它希望在5G背后的实际基础设施中发挥更大的作用。
+DOC:L33: 17、The speed was achieved with a bunch of fancy tech on a mmWave network and using what's called carrier aggregation, which combines multiple channels to make for faster speeds.
+DOC:L34: 速度是通过毫米波网络上的一系列花哨技术实现的，并使用所谓的载波聚合，它结合了多个通道以实现更快的速度。
+DOC:L35: 18、However, they are drawing the line somewhere, with the ethics committee's report forbidding the use of modifications or implants that might "affect their sense of humanity or their ability to manage the use of force.
+DOC:L36: 然而，他们正在某处划清界限，道德委员会的报告禁止使用可能“影响他们的人文意识或管理武力使用能力”的修改或植入物。
+DOC:L37: 19、They have also banned modifications like cognitive implants that would prevent soldiers from exercising free will and any changes that might impact their reintegration into civilian life.
+DOC:L38: 他们还禁止进行认知植入等修改，这些修改会阻止士兵行使自由意志，以及任何可能影响他们重新融入平民生活的变化。
+DOC:L39: 20、The advance could fuel a variety of robotics applications, including, potentially, frontline medical care of contagious patients.
+DOC:L40: 这一进展可以推动各种机器人应用，包括潜在的传染病患者的一线医疗服务。
+DOC:L41: 21、"For robots to be deployed into the field and safely operate in dynamic environments around humans, they need to be able to think and react very quickly," says Plancher. "Current algorithms cannot be run on current CPU hardware fast enough."
+DOC:L42: “为了使机器人部署到现场并在人类周围的动态环境中安全运行，它们需要能够非常快速地思考和反应，”普朗彻说。“当前的算法无法足够快地在当前的CPU硬件上运行。
+DOC:L43: 22、A commonly used hardware accelerator is the graphics processing unit (GPU), a chip specialized for parallel processing.
+DOC:L44: 常用的硬件加速器是图形处理单元 （GPU），这是一种专门用于并行处理的芯片。
+DOC:L45: 23、The system then designs a hardware architecture specialized to run calculations only on the non-zero values in the matrices.
+DOC:L46: 然后，系统设计一个专门用于仅对矩阵中的非零值运行计算的硬件架构。
+DOC:L47: 24、The ability to 30-print bottlebrush elastomers makes it possible to leverage these unique mechanical properties in applications that require careful control over the dimensions of objects ranging from biomimetic tissue to high sensitivity electronic devices, such as touch pads, sensors and actuators.
+DOC:L48: 如果我们能够30打印出制作瓶刷的弹性体，就有可能在需要严格控制应用对象尺寸的场合利用弹性体这些独特的机械性能。应用对象既可以是应用对象既可以是仿生组织，也可以是高灵敏度的电子设备，如触摸板，传感器和驱动器等。
+DOC:L49: 25、Xie's and Mukherjee's key discovery involves the self assembly of bottlebrush polymer at the manometer length scale, which causes a solid to-liquid transition in response to applied pressure. This material in categorized as a yieldstress fluid. meaning it begins ass a semi soft solid that holds its shape lite butter or toothpaste but when sufficient pressure is applied. it liquefies and can be squeezed through a syringe.
+DOC:L50: Xie和Mukherjee的关键发现涉及瓶刷聚合物在压力计长度尺度上的自组装，这在施加的压力下导致固体到液体的转变。这种材料被归类为屈服应力流体。这意味着它开始是一种半柔软的固体，保持其形状为轻盈的黄油或牙膏，但当施加足够的压力时。它液化，可以通过注射器挤压。
+DOC:L51: 26、"We wanted the material and the printing process to be as clean and as easy as possible, so we played a chemistry trick with solubility and self-assembly, which enabled the solvent-free process. The fact that we don't use solvent is a tremendous advantage."
+DOC:L52: “我们希望材料和印刷过程尽可能干净和简单，所以我们在溶解性和自组装方面玩了一个化学技巧，从而实现了无溶剂工艺。我们不使用溶剂这一事实是一个巨大的优势。
+DOC:L53: 27、Recycling a mix of multicolored HDPE pieces creates a dark plastic good only for making products like park benches and waste bins, in which properties like color don't matter much.
+DOC:L54: 回收五颜六色的HDPE碎片混合物会产生一种深色塑料，仅用于制造公园长椅和垃圾箱等产品，其中颜色等特性并不重要。
+DOC:L55: 28、The difficulties of recycling plastic into anything manufacturers want to use is a big reason why the world is littered with so much plastic waste, says Eric Beckman, a chemical engineer at the University of Pittsburgh.
+DOC:L56: 将塑料回收到制造商想要使用的任何东西中的困难是世界充斥着如此多塑料废物的一个重要原因，匹兹堡大学的化学工程师埃里克贝克曼说。
+DOC:L57: 29、Since, realistically, plastic is not going away any time soon, chemists who understand the ins and outs of all this pesky plastic are working to make it easier to recycle and turn into higher-quality material that's useful for more things.
+DOC:L58: 由于实际上，塑料不会很快消失，了解所有这些讨厌的塑料来龙去脉的化学家正在努力使其更容易回收并转化为对更多事情有用的更高质量的材料。
+DOC:L59: 30、Widespread plastics like polyethylene terephthalate, or PET, and polyethylene are so cheap to make that any breakout polymer would have a tough time entering the market, Beckman says. So for now, inherently recyclable plastic is just an academic curiosity. But maybe, decades from now, plastics made to be recyclable from the get-go will help solve the world's plastic waste problem.
+DOC:L60: 贝克曼说，聚对苯二甲酸乙二醇酯（PET）和聚乙烯等广泛使用的塑料制造成本如此之低，以至于任何突破性聚合物都很难进入市场。因此，就目前而言，固有的可回收塑料只是一种学术上的好奇心。但也许，几十年后，从一开始就可回收的塑料将有助于解决世界上的塑料垃圾问题。
+DOC:L61: 31、We've reached the point now where we could potentially manipulate people's DNA to breed into them extra strength, endurance and other things just as we do with animals. Just as we've done with standard cattle to give them more back, we can do that now very precisely with humans.
+DOC:L62: 我们现在已经到了可以操纵人类DNA的地步，以培育出额外的力量，耐力和其他东西，就像我们对动物所做的那样。就像我们对标准牛所做的那样，为了给它们更多的回报，我们现在可以非常精确地在人类身上做到这一点。

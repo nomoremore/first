@@ -1,0 +1,12 @@
+===== Homework for Unit 4.docx | DOCX =====
+DOC:L1: Translate the following sentences.
+DOC:L2: However, they are drawing the line somewhere, with the ethics committee’s report forbidding the use of modifications or implants that might “affect their sense of humanity” or their ability to manage the use of force. They have also banned modifications like cognitive implants that would prevent soldiers from exercising free will and any changes that might impact their reintegration into civilian life. (passage 1-para 4)
+DOC:L3: We’ve reached the point now where we could potentially manipulate people’s DNA to breed into them extra strength, endurance and other things just as we do with animals. Just as we’ve done with standard cattle to give them more back, we can do that now very precisely with humans. (passage 1-para 10)
+DOC:L4: The method, called robomorphic computing, uses a robot’s physical layout and intended applications to generate a customized computer chip that minimizes the robot’s response time. (passage 2-para 3)
+DOC:L5: “For robots to be deployed into the field and safely operate in dynamic environments around humans, they need to be able to think and react very quickly,” says Plancher. “Current algorithms cannot be run on current CPU hardware fast enough.” (passage 2-para 7)
+DOC:L6: The system then designs a hardware architecture specialized to run calculations only on the non-zero values in the matrices. The resulting chip design is therefore tailored to maximize efficiency for the robot’s computing needs. And that customization paid off in testing. (passage 2-para 11)
+DOC:L7: 1. 然而，他们正在某个地方划定界限，伦理委员会的报告禁止使用可能“影响人性”或他们控制使用武力能力的修改或植入物。他们还禁止了像认知植入物这样的修改，这会阻止士兵行使自由意志，并且禁止任何可能影响他们重新融入平民生活的改变。
+DOC:L8: 2. 我们现在已经达到了一个可以潜在操纵人类DNA的地步，能在他们体内培育出更强的力量、耐力和其他类似的特征，就像我们对动物所做的一样。就像我们通过培育标准的牲畜来让它们获得更多肉一样，现在我们可以非常精确地在人体上做到这一点。
+DOC:L9: 3. 这种方法被称为“机器人形态计算”，它使用机器人的物理布局和预期应用来生成定制的计算机芯片，以最大程度减少机器人的响应时间。
+DOC:L10: 4. “为了让机器人被部署到现场，并在动态环境中安全地操作，它们需要能够非常快速地思考和反应，”普兰彻说。“当前的算法无法在当前的CPU硬件上足够快地运行。”
+DOC:L11: 5. 该系统然后设计了一种硬件架构，专门用于在矩阵中的非零值上进行计算。因此，所生成的芯片设计是为了最大化满足机器人的计算需求而定制的。而且这种定制在测试中获得了回报。

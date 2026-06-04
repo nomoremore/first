@@ -1,0 +1,18 @@
+===== Homework for Unit 5.docx | DOCX =====
+DOC:L1: Translation:
+DOC:L2: The ability to 3D-print bottlebrush elastomers makes it possible to leverage these unique mechanical properties in applications that require careful control over the dimensions of objects ranging from biomimetic tissue to high-sensitivity electronic devices, such as touch pads, sensors and actuators.  (passage 1- para 3)
+DOC:L3: Recycling a mix of multicolored HDPE pieces creates a dark plastic good only for making products like park benches and waste bins, in which properties like color don’t matter much. (passage 2-para 5)
+DOC:L4: Xie's and Mukherjee's key discovery involves the self-assembly of bottlebrush polymers at the nanometer length scale, which causes a solid-to-liquid transition in response to applied pressure. This material is categorized as a yield-stress fluid, meaning it begins as a semi-soft solid that holds its shape, like butter or toothpaste, but when sufficient pressure is applied, it liquefies and can be squeezed through a syringe. (passage 1-para 5)
+DOC:L5: "We wanted the material and the printing process to be as clean and as easy as possible, so we played a chemistry trick with solubility and self-assembly, which enabled the solvent-free process. The fact that we don't use solvent is a tremendous advantage.” (para 17)
+DOC:L6: Recycling a mix of multicolored HDPE pieces creates a dark plastic good only for making products like park benches and waste bins, in which properties like color don’t matter much. (passage 2-para 5)
+DOC:L7: The difficulties of recycling plastic into anything manufacturers want to use is a big reason why the world is littered with so much plastic waste, says Eric Beckman, a chemical engineer at the University of Pittsburgh. (passage 2-para 6)
+DOC:L8: Since, realistically, plastic is not going away any time soon, chemists who understand the ins and outs of all this pesky plastic are working to make it easier to recycle and turn into higher-quality material that’s useful for more things. (passage 2-para 8)
+DOC:L9: Widespread plastics like polyethylene terephthalate, or PET, and polyethylene are so cheap to make that any breakout polymer would have a tough time entering the market, Beckman says. So for now, inherently recyclable plastic is just an academic curiosity. But maybe, decades from now, plastics made to be recyclable from the get-go will help solve the world’s plastic waste problem. (para 2-para 43)
+DOC:L10: 1. 3D打印瓶刷弹性体的能力使得在各种应用中可以利用这些独特的机械特性，这些应用需要对从仿生组织到高灵敏度电子设备（如触摸板、传感器和执行器）等物体的尺寸进行精确控制。
+DOC:L11: 2. 回收多色HDPE碎片混合物会产生一种深色塑料，这种塑料只能用于制造类似于公园长椅和垃圾桶等产品，在这些产品中，诸如颜色之类的特性并不重要。
+DOC:L12: 3. 谢和穆克吉的关键发现涉及瓶刷聚合物在纳米尺度上的自组装，这导致在施加压力时发生固体到液体的转变。这种材料被归类为屈服应力流体，意味着它开始时是一种保持形状的半软固体，像黄油或牙膏，但在施加足够压力时，它会液化并可以通过注射器挤出。
+DOC:L13: 4. “我们希望材料和打印过程尽可能干净和简单，所以我们利用了溶解度和自组装的化学技巧，从而实现了无溶剂过程。我们不使用溶剂这一事实是一个巨大的优势。”
+DOC:L14: 5. 回收多色HDPE碎片混合物会产生一种深色塑料，这种塑料只能用于制造类似于公园长椅和垃圾桶等产品，在这些产品中，诸如颜色之类的特性并不重要。
+DOC:L15: 6. 皮茨堡大学的化学工程师埃里克·贝克曼说，将塑料回收成制造商想要使用的任何东西的困难，是世界上如此多塑料垃圾的一个重要原因。
+DOC:L16: 7. 既然从现实角度来看，塑料不会很快消失，那么那些了解所有这些讨厌塑料的细节的化学家正在努力使其更容易回收，并将其转变成质量更高的材料，以便用于更多的东西。
+DOC:L17: 8. 贝克曼说，像聚对苯二甲酸乙二酯（PET）和聚乙烯等广泛使用的塑料制造成本如此低廉，以至于任何新的聚合物都很难打入市场。因此，现在，固有可回收塑料只是一个学术上的好奇心。但也许，几十年后，从一开始就设计为可回收的塑料将有助于解决世界的塑料垃圾问题。

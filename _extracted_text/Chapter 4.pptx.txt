@@ -1,0 +1,1127 @@
+
+
+===== SLIDE 1 (ppt/slides/slide1.xml) =====
+Chapter 4
+Cultural Values:
+Road Maps for Behavior
+
+===== SLIDE 2 (ppt/slides/slide2.xml) =====
+Contents
+Perception's Influence
+Beliefs, Values, and Behaviors
+Understanding Cultural Patterns
+Choosing Cultural Patterns
+Applying Cultural Patterns
+Other Cultural Pattern Typologies
+Face and Facework
+Cultural Patterns and Communication
+Developing Cultural Value Awareness
+(not lectured)
+
+===== SLIDE 3 (ppt/slides/slide3.xml) =====
+4.1 Perception's Influence
+（感知的影响）
+P120
+We live in an information-saturated environment. Daily, our senses are barraged with far more physical and psychological stimuli than we can process and interpret. To survive, we engage in a
+three-step process—selection, organization, and interpretation
+—to manage the stimuli considered important:
+selection
+: we selectively decide which of the stimuli to attend to and which to ignore.
+organization
+: the selected information must be organized, or categorized, after which a meaning is assigned.
+interpretation
+: produces perception of a situation, emotion, or even another person.
+In its simplest form, perception is how we make sense of the world, how we construct reality.
+
+===== SLIDE 4 (ppt/slides/slide4.xml) =====
+4.1 Perception's Influence
+P121
+Culture influences one's subjective reality and that there are direct links among culture, perception, and behavior.
+The five characteristics of perception
+:
+Perception is selective
+——Because there are so many stimuli simultaneously competing for the attention of senses, you focus only on selected information and filter out the rest.
+Perception is learned
+——
+Life's experiences teach you to see the world in a particular way.
+Perception is culturally determined
+——Culture teaches you the meaning behind most of your experiences.
+Perception is consistent
+——Once you perceive something in a particular manner, that interpretation is usually resistant to change.
+Perception is inaccurate
+——You view the world through a subjective lens influenced by culture, values, and personal experiences. This tends to make you see what you expect or want to see.
+
+===== SLIDE 5 (ppt/slides/slide5.xml) =====
+Beliefs
+Values
+Behaviors
+4.2 Beliefs, Values, and Behaviors
+
+===== SLIDE 6 (ppt/slides/slide6.xml) =====
+A belief is a concept or idea that an individual or group holds to be true.
+Beliefs represent one's subjective conviction in the truth of something——with or without proof. The degree to which we believe that an object, event, phenomenon, person, or group of people possesses certain characteristics reflects the level of our subjective probability and, consequently, the depth or intensity of our belief.
+A shared belief or attitude is usually perceived to be more valid than one that is not shared.
+When a person holds a certain belief or attitude, knowing that other people share this belief or attitude will increase the person's adherence to his belief or attitude.
+4.2.1 Beliefs
+观点，看法
+P122
+
+===== SLIDE 7 (ppt/slides/slide7.xml) =====
+What makes belief system
+important
+is that
+it is learned, and subject to cultural interpretation
+. Therefore, shared beliefs can come to represent cultural norms, or values, characterizing a large collective of people. But even within a large collective, people may hold beliefs that run counter to the beliefs of others. Thus,
+beliefs and the cultural values they may produce can both unite and divide.
+In those situations where you find that someone does not share your beliefs and values, you have to be able to
+recognize the importance of other people's beliefs and how those beliefs and values shape their worldview and even their manner of communicating
+.
+4.2.1 Beliefs
+P122
+
+===== SLIDE 8 (ppt/slides/slide8.xml) =====
+Beliefs form the foundation of values.
+What you consider desirable for yourself and for the society you live in is a product of your values, which can be held both consciously and subconsciously.
+Although each of us has a unique set of values, there are also
+values that tend to permeate and characterize a culture
+. These
+cultural values
+provide a set of guidelines that assist the culture's members in deciding what is good or bad, desirable or undesirable, right or wrong, and appropriate or inappropriate in almost every context of human activity. Varied cultural values can create intercultural conflict at both a personal and an international level.
+4.2.2 Values
+价值观
+P122
+
+===== SLIDE 9 (ppt/slides/slide9.xml) =====
+One’s cultural values
+——like all important aspects of culture——
+are acquired through a variety of sources
+(family, history, proverbs, media, school, church, state, etc.)
+and, therefore, tend to be broad-based, enduring, and relatively stable.
+A culture’s value system establishes the expected, normative modes of behavior for members of that culture and institutes
+（制定）
+the criteria to judge people's conduct. Unfortunately, during intercultural interactions
+people have a tendency to apply their own criteria to members of other cultures who usually hold different values.
+This frequently
+results in
+misunderstandings, confusion, and even conflict.
+4.2.2 Values
+P123
+
+===== SLIDE 10 (ppt/slides/slide10.xml) =====
+4.2.3 Behaviors
+P123
+Behaviors are the outward manifestations of people's internalized beliefs and values.
+As with almost all things in life, culture also has a regulatory influence on behaviors. Culture tells people the accepted deportment for different social contexts and what is age appropriate, and specifies gender-specific conduct.
+For the study of intercultural communication, it is also important to know that
+beliefs and values exert an influence on people's communicative behaviors
+.
+
+===== SLIDE 11 (ppt/slides/slide11.xml) =====
+4.3 Understanding Cultural Patterns
+P124
+Cultural patterns
+, sometimes called
+value orientations
+, is an umbrella term used to collectively describe those cultural values that characterize the dominant group within a culture. The term refers to culturally based beliefs, values, attitudes, and behaviors shared by members of a particular culture. These patterns encompass the conditions that contribute to a social group's perception of the world and how they live in that world.
+The application of cultural patterns in the study of intercultural communication is beneficial because such patterns offer a systematic structure to help identify and examine recurring values.
+
+===== SLIDE 12 (ppt/slides/slide12.xml) =====
+4.3 Understanding Cultural Patterns
+P124
+When using cultural patterns to help gain added insight relative to various ideas and activities exhibited by other cultures, the following
+four caveats
+should be kept in mind:
+You are more than your culture
+: all individuals within a cultural group may not share the dominant values of that culture.
+Cultural patterns are integrated
+: it is important to realize that cultural patterns do not occur or operate in isolation; they are interrelated and integrated.
+Cultural patterns are dynamic
+: values can evolve and produce societal change. The interconnected world created by globalization has enabled people in other nations to learn about different values and social structures.
+Cultural patterns can be contradictory
+: in many instances, contradictory values within a culture can be found.
+
+===== SLIDE 13 (ppt/slides/slide13.xml) =====
+4.4 Choosing Cultural Patterns
+P125
+Scholars from various disciplines have compiled a variety of cultural pattern typologies. In almost every case the objective has been to discover characteristics that would help to identify and understand dissimilar cultural values. The remainder of
+this chapter presents
+a comprehensive examination of the following
+seven value taxonomies
+（分类系统）
+:
+Kohls' list of
+values Americans live by
+The Kluckhohn and
+Strodtbeck
+classification of
+value orientations
+Hall's categorization of
+high-context and low-
+context
+orientations
+Hofstede's set of
+value dimensions
+Minkov's
+cultural dimensions
+Gelfand's research on
+tight and loose cultures
+Ting-Toomey's explanation and application of
+face and facework
+
+===== SLIDE 14 (ppt/slides/slide14.xml) =====
+4.4 Choosing Cultural Patterns
+P125
+Two assumptions
+should become apparent when going through these different typologies:
+First
+, values presented in cultural patterns are points lying along a continuum rather than polar opposites.
+Second
+, there is a great deal of commonality and some duplication among the different cultural patterns.
+
+===== SLIDE 15 (ppt/slides/slide15.xml) =====
+4.5 Applying Cultural Patterns
+Kohls' “the values Americans live by”
+
+===== SLIDE 16 (ppt/slides/slide16.xml) =====
+Kohls' “the Values Americans Live by”
+P126
+Professor L. Robert Kohls spent much of his life working to improve cross-cultural understanding. After living in Korea, he returned to the United States and began conducting cultural workshops for the Peace Corps. He also spent time at the United States Information Agency (USIA) as Director of Training.
+Kohls
+authored
+The Values Americans Live By
+, a 1980s monograph intended to help expatriates adjust to living in the United States, and it remains widely available on the Internet.
+
+===== SLIDE 17 (ppt/slides/slide17.xml) =====
+Kohls' “the Values Americans Live by”
+P127
+Although written nearly thirty years ago, the thirteen values Kohls ascribed to U.S. Americans continue to provide an accurate characterization of the dominant U.S. culture.
+
+===== SLIDE 18 (ppt/slides/slide18.xml) =====
+4.5.1 Personal Control over Nature
+Americans have traditionally approached the environment as something to be conquered, tamed, or harnessed for personal and societal benefit.
+The idea of exercising dominion over nature and bending the environment to one's own will underwrote the physical and political resolve required continually to push the American frontier westward.
+In the United States, the ability to control nature is considered normal and even right.
+This results in bold approaches to overcome all obstacles and the belief that individuals should have control over their personal environment and the opportunity to achieve any goal.
+
+===== SLIDE 19 (ppt/slides/slide19.xml) =====
+4.5.2 Changes
+Closely aligned with control of the environment is the value of change and progress. Since the country's inception, people have subscribed to
+forward-looking beliefs and attitudes that promote progress through modernization
+. Various aspects of this orientation are optimism, receptivity to change, emphasis on the future rather than the past or present, faith in an ability to control all phases of life, and confidence in the perceptual ability of the common person.
+This fundamental American belief in progress and a better future contrasts sharply with
+the fatalistic attitude
+that characterizes people from many other cultures, where there is
+a pronounced reverence for the past
+.
+
+===== SLIDE 20 (ppt/slides/slide20.xml) =====
+4.5.3 Time and Its Control
+For U.S. Americans, time is a valuable commodity, something to be measured and used widely. Schedules
+, which are often divided into hourly, daily, weekly, monthly, and even yearly segments
+, dictate life in the United States
+. Deadlines and due dates are a constant reminder of when projects must be completed. In the United States, schedules are generally inflexible with meetings starting on time, moving through a set agenda, and ending promptly.
+
+===== SLIDE 21 (ppt/slides/slide21.xml) =====
+4.5.4 Equality/Egalitarianism
+Equality is a most prized American value and is enshrined in the preamble
+（序言）
+to the United States Declaration of Independence, which states, “all men are created equal.”
+The concept is further preserved in the Constitution, which specifies, “No Title of Nobility shall be granted by the United States.” The value that pervades contemporary U.S. society can best be termed “equal opportunity.” All people should have the same opportunity to succeed in life, and the state, through laws and educational opportunities, is expected to guarantee that right.
+
+===== SLIDE 22 (ppt/slides/slide22.xml) =====
+4.5.4 Equality/Egalitarianism
+In the United States the value of equal opportunity translates into equality and informality across social relationships.
+For instance, most of the primary social relationships within a family tend to
+promote egalitarianism rather than hierarchy
+. Formality is generally not important. In secondary relationships, most friends and coworkers are also treated as equals, usually
+interacting on a first-name basis
+.
+
+===== SLIDE 23 (ppt/slides/slide23.xml) =====
+4.5.5 Individuality and Privacy
+Often referred to as “freedom” by U.S. Americans, individualism is perhaps the most revered U.S. cultural value and is a particularly salient social characteristic.
+Broadly speaking, individualism
+, as developed in the works of the seventeenth-century English philosopher John Locke,
+holds that each person is unique, special, completely different from all other individuals, and “the basic unit of nature.
+”
+Individualism
+commands so much influence among Americans that it
+gives rise to other U.S. values
+, such as personal initiative, self-reliance, and equal opportunity. Regardless of the context, whether societal, ethical, or sexual,
+among U.S. Americans, the individual occupies the pivotal
+（核心的）
+position.
+
+===== SLIDE 24 (ppt/slides/slide24.xml) =====
+The importance U.S. Americans place on self-help and personal achievement is an outgrowth (
+自然结果
+)
+of the values of independence, equality, and individuality
+, which are exemplified in commonly heard expressions such as “be self-reliant,” “stand on your own two feet,” or “don't depend on others.” In the United States, your family name or the school attended will normally only help you to get an initial introduction or interview. Any subsequent gain must be earned through personal merit.
+Theoretically,
+the concept of equality
+underlying U.S. societal structure
+provides everyone the same opportunity for material and social improvement.
+One just has to work for it.
+4.5.6 Self-Help
+
+===== SLIDE 25 (ppt/slides/slide25.xml) =====
+4.5.7 Competition and Free Enterprise
+A positive attitude toward competition is an integral part of life in the United States and begins during childhood.
+Whether it is through
+games
+or being continually asked to answer questions in the classroom,
+a competitive nature is encouraged among American children.
+People are ranked, graded, classified, and evaluated so that everyone will know who is the best. The assumption is that individuals, left to their own means, can more ably and quickly achieve their desired goals. This idea is behind the frequent call to “let the market work.” Moreover, the system is considered “fair” because everyone purportedly has the same opportunity.
+
+===== SLIDE 26 (ppt/slides/slide26.xml) =====
+4.5.8 Future Orientation
+In the United States, what lies ahead usually takes precedence over the past.
+What is going to happen holds the greatest attraction because, it seems, whatever we are doing is not quite as good as what we could otherwise be doing or will be doing in the future. Change, taking chances, a stress on youth, and optimism are all
+hallmarks
+of U.S. culture and reflect the value placed on the future.
+
+===== SLIDE 27 (ppt/slides/slide27.xml) =====
+For most U.S. Americans, work represents a cluster of moral and affective (
+情感的
+)
+conditions of great attractiveness, and voluntary idleness is often seen as severely threatening and damaging to society as a whole.
+Unlike cultures where physical labor is considered the fate of the less privileged,
+Americans place considerable value on the “dignity of human labor.”
+A major reward for this hard work,
+and an important aspect of life in the United States,
+is time away from the job.
+For U.S. citizens, time for leisure activities is something they have earned as a respite from the demands and stress of work. They often relax by engaging in some form of activity. Yet
+leisure time is generally seen as an opportunity to “relax” or “refresh”
+so that one can return to work with rededicated enthusiasm.
+4.5.9 Action/Work Orientation
+
+===== SLIDE 28 (ppt/slides/slide28.xml) =====
+The emphasis on equality and individuality has produced a pervasive sense of informality in the United States
+, which can be seen in people's dress, deportment, and communication. This informality is also evident in
+the widespread use of first names
+, even among recent acquaintances. Everyone, regardless of position, rank, wealth, or age, is considered equal, so there is no need for titles of distinction.
+The informality does not connote a lack of respect toward others. Rather, it conveys the feeling of individuality, equality, and outward friendliness inherent in the dominant U.S. culture.
+4.5.10 Informality
+
+===== SLIDE 29 (ppt/slides/slide29.xml) =====
+4.5.11 Directness, Openness, and Honesty
+The language style used by most U.S. Americans can be characterized as
+direct, frank, and explicit
+. Phrases such as “Just tell it like it is,” “Don't beat around the bush,” and “Give me the bottom line” are frequently heard. In these instances, the speaker is indicating a desire to quickly get to the heart of the matter. This illustrates
+the value placed on direct, open, and honest communication, which takes precedence over politeness and face-saving measures.
+U.S. Americans see no need to use elaborate courtesy protocols because everyone is equal, and honesty is a positive mark of one's character.
+
+===== SLIDE 30 (ppt/slides/slide30.xml) =====
+4.5.11 Directness, Openness, and Honesty
+U.S. Americans believe that conflicts are best settled by examining problems in
+a logical, forthright manner
+and that personal emotions should be set aside. Indeed,
+individuals using ambiguous, vague, or indirect communication run the risk of being seen as untrustworthy or duplicitous
+(
+奸诈的
+)
+.
+A person's ability to openly, directly, and honestly state their position is of such importance that in the United States people attend “assertiveness training” programs.
+
+===== SLIDE 31 (ppt/slides/slide31.xml) =====
+Practicality and efficiency are also hallmarks of the dominant U.S. culture. It is easy to see that
+individuality, independence, and self-reliance are  central considerations in the pragmatic attitude evinced by U.S. Americans.
+Because strong group ties do not play a major role in U.S. societal activities, there is no need to build interpersonal relations based on a system of mutual obligations.
+U.S. Americans also tend to be very rational or logical when working on problems. They place importance on expediency and impartiality when making a decision or a judgment.
+Reason, logic, and objectivity take precedence over emotionality, subjectivity, or sentimentality.
+4.5.12 Practicality and Efficiency
+
+===== SLIDE 32 (ppt/slides/slide32.xml) =====
+4.5.13 Materialism
+Acquiring material possessions is an integral part of life for most Americans. From their perspective,
+U.S. Americans consider their materialistic nature “natural and proper,” which Bender sees as a natural outgrowth of the nation's philosophy of equal opportunity for all.
+In other words, material well-being and easy access to quality products is not the preserve of an elite class.
+However, U.S. Americans have historically been willing to work hard to realize their dreams. Thus,
+acquisition of material possessions is considered just reward for hard work.
+
+===== SLIDE 33 (ppt/slides/slide33.xml) =====
+Kluckhohn and
+Strodtbeck's
+value orientations
+Hall's high-context and low-context orientations
+Hofstede's value dimensions
+Minkov's
+cultural dimensions
+Tight and loose cultures
+4.6 Other Cultural Pattern Typologies
+P134
+
+===== SLIDE 34 (ppt/slides/slide34.xml) =====
+4.6.1 Kluckhohn and
+Strodtbeck's
+Value Orientations
+P134
+Kluckhohn and
+Strodtbeck
+based their research on the idea that every individual, regardless of culture, must deal with five universal questions, referred to as “
+value orientations
+.” These “orientations,” or patterns, inform members of a culture what is important and provide them guidance for living their lives. After extensive study, they concluded that all people turn to their culture for help in answering the
+same five basic questions
+:
+What is the character of human nature?
+What is the relation of humankind to nature?
+What is the orientation toward time?
+What is the value placed on activity?
+What is the relationship of people to each other?
+
+===== SLIDE 35 (ppt/slides/slide35.xml) =====
+4.6.1 Kluckhohn and
+Strodtbeck's
+Value Orientations
+P135
+
+===== SLIDE 36 (ppt/slides/slide36.xml) =====
+4.6.1.1 Human Nature Orientation
+P135
+Nearly all judgments about human behavior, whether moral or legal, begin with this core question
+: What is the character of human nature?
+For centuries, religious leaders, philosophers, scholars, and others have pondered and debated questions concerning human nature, answers to which represent a powerful force in how one lives life.
+Although all people individually answer questions about human nature, there are also cultural explanations for why people act as they do. Discussions of
+human nature
+often deal with divisions of
+evil, good and evil, and good
+.
+
+===== SLIDE 37 (ppt/slides/slide37.xml) =====
+Evil
+Good and evil
+Good
+4.6.1.1 Human Nature Orientation
+
+===== SLIDE 38 (ppt/slides/slide38.xml) =====
+Some cultures believe that people are intrinsically evil.
+Brought from Europe by the early Puritans, this view prevailed in the United States for many years. In the last century, however,
+Americans
+have come to consider themselves as
+a mixture of good and evil
+.
+A more restrictive view of human nature as good or evil is found in parts of the world where
+Islam
+is strong. There, you can find cultures that are imbued with the notion that
+people have a penchant for evil
+and therefore cannot be trusted to make a correct decision when left to their own resources. Hence, to help control the actions of their members, numerous social institutions, ranging from the religious to the political, are designed to monitor and manage behavior.
+4.6.1.1.1 Evil
+P135
+
+===== SLIDE 39 (ppt/slides/slide39.xml) =====
+4.6.1.1.2 Good and Evil
+P135
+People with
+a Taoist worldview
+believe the universe is best seen from the perspective of
+yin
+and
+yang
+, an infinite system of opposing elements and forces in balanced, dynamic interaction.
+Two of the forces are good and evil
+, and since humanity is part of the universe, these forces are naturally present in humankind.
+This view of the good and evil nature of humanity proposes that evil cannot be eliminated because it is an integral part of the universe.
+
+===== SLIDE 40 (ppt/slides/slide40.xml) =====
+4.6.1.1.3 Good
+P136
+Perhaps the strongest view of the innate goodness of human nature is found in the philosophies of
+Confucianism and Buddhism
+. According to the Lu Wang school of Confucianism, “Human nature is originally good.” Buddhism also maintains that you are born pure and are closest to what is called “loving-kindness” when you first enter this world. Hence,
+people are good, but their culture often makes them evil.
+Cutting across the arguments concerning human nature, whether it is good or evil, is the question of the essential rationality of human nature.
+Throughout history there has been tension between those who believe in fate or mystic powers and those who feel that thought and reason can solve any problem and discover any truth.
+
+===== SLIDE 41 (ppt/slides/slide41.xml) =====
+Humans subject to nature
+Harmony with nature
+Mastery of nature
+4.6.1.2 Person/Nature Orientation
+
+===== SLIDE 42 (ppt/slides/slide42.xml) =====
+4.6.1.2.1 Humans Subject to Nature
+P136
+Cultures holding this orientation believe
+the most powerful forces of life are beyond human control
+. Whether the force is a god, fate, or magic, it cannot be overcome and must, therefore, be accepted. This perspective is found
+in India and parts of South America.
+
+===== SLIDE 43 (ppt/slides/slide43.xml) =====
+4.6.1.2.2 Harmony with Nature
+P136
+The middle or cooperative view is widespread and often associated with East Asians
+.
+In Japan and Thailand
+, there is a perception that nature is part of life and not a hostile force waiting to be subdued. This orientation affirms that people should, in every way possible, live in harmony with nature.
+To cite another example
+, the desire to be part of nature and not control it has always been strong among
+American Indians
+. Even today, many tribes practice conservation of natural resources and protest the disruption of ancestral lands.
+
+===== SLIDE 44 (ppt/slides/slide44.xml) =====
+4.6.1.2.3 Mastery of Nature
+P137
+At the other end of the scale is
+the view
+that
+compels us to conquer and direct the forces of nature to our advantage
+. This orientation is characteristic of
+the Western approach
+, which has a long tradition of
+valuing technology, change, and science
+. Americans have historically believed that nature was something that could and had to be mastered. People with this orientation see
+a clear separation between humans and nature
+.
+
+===== SLIDE 45 (ppt/slides/slide45.xml) =====
+Past orientation
+Present orientation
+Future orientation
+4.6.1.3 Time Orientation
+
+===== SLIDE 46 (ppt/slides/slide46.xml) =====
+4.6.1.3.1 Past Orientation
+P138
+In past-oriented cultures, history, established religions, and tradition are extremely important
+. There is an intense belief that
+contemporary perceptions
+of people and events, decision making, and determinations of truth
+should be guided by what happened in the past
+.
+Respect for the past is especially evident in
+most Asian nations
+because of their long and eventful histories.
+Great Britain
+remains devoted to tradition, including the maintenance of a monarchy, and continues to value its historical achievements.
+France
+is another culture that can be understood by exploring its view of the past.
+
+===== SLIDE 47 (ppt/slides/slide47.xml) =====
+4.6.1.3.2 Present Orientation
+P138
+Present-oriented cultures hold that the here and now carries the most significance.
+The future is seen as ambiguous, capricious, and in a sense, beyond the control of the individual. Because the past is over and the future is unpredictable,
+present cultures
+, such as Filipinos and Latin Americans,
+enjoy living in the moment
+. These cultures tend to be more impulsive and spontaneous than others and often have
+a casual, relaxed lifestyle
+.
+
+===== SLIDE 48 (ppt/slides/slide48.xml) =====
+4.6.1.3.3 Future Orientation
+P138
+Future-oriented cultures value what is yet to come, and the future is expected to be grander than the present or past.
+Change, taking chances, a stress on youth, and optimism are all hallmarks of cultures that hold this orientation. Most
+U.S. Americans
+, who are constantly thinking about what is ahead, hold this view toward the future.
+
+===== SLIDE 49 (ppt/slides/slide49.xml) =====
+Being
+Being-in-becoming
+Doing
+4.6.1.4 Activity Orientation
+
+===== SLIDE 50 (ppt/slides/slide50.xml) =====
+4.6.1.4.1 Being
+P139
+A being orientation refers to spontaneous expression of the human personality
+. People in being-orientated cultures accept people, events, and ideas as flowing spontaneously. They stress release, indulgence of existing desires, and working for the moment.
+Most Latino cultures
+consider the activity they are engaged in as the one that matters the most.
+
+===== SLIDE 51 (ppt/slides/slide51.xml) =====
+4.6.1.4.2 Being-in-Becoming
+P139
+Being-in-becoming stresses the idea of development and growth.
+It emphasizes the kind of activity that contributes to the development and improvement of all aspects of the self as an integral whole.
+This usually correlates with cultures that value a spiritual life over a material one.
+For example,
+in both Hinduism and Buddhism
+, people spend time in meditation and contemplation in an attempt to purify and fully advance themselves.
+The New Age movement in the United States
+also stresses the need to develop the being-in-becoming approach to daily life.
+
+===== SLIDE 52 (ppt/slides/slide52.xml) =====
+4.6.1.4.3 Doing
+P139-140
+The doing orientation describes activity in which accomplishments are measured by standards external to the individual.
+The key to this orientation is a value system that
+stresses action
+. It is the doing orientation that most characterizes
+the dominant American culture
+.
+A doing perspective affects many other cultural beliefs and values.
+Your definition of activity affects your perception of work, efficiency, change, time, and progress. Even the pace at which you live your life is related to where you fall on the being/doing scale.
+
+===== SLIDE 53 (ppt/slides/slide53.xml) =====
+4.6.2 Hall's High-Context and Low-Context Orientations
+P140
+E.T. Hall
+, an anthropologist, was one of the early pioneers in the study of intercultural communication. He categorizes cultures as
+high-context
+or
+low-context
+, depending on how much meaning is derived from the contextual environment rather than the actual words exchanged during communicative interactions.
+The
+assumption
+underlying Hall's classifications is that “one of the functions of culture is to provide a highly selective screen between man and the outside world. In its many forms, culture therefore designates what we pay attention to and what we ignore.”
+
+===== SLIDE 54 (ppt/slides/slide54.xml) =====
+4.6.2 Hall’s High-Context and Low-Context Orientations
+P140
+Hall saw context as “the information that surrounds an event.”
+His work revealed that cultures were often characterized by
+high- or low-context
+communication, which he described in the following:
+A high-context
+(HC) communication or message is one in which most of the information is already in the person, while
+very little is in the coded, explicitly transmitted part of the message
+.
+A low-context
+(LC) communication is just the opposite; i.e.,
+the mass of the information is vested in the explicit code
+.
+Although all cultures possess some characteristics of both high- and low-context variables, most can be ranked along a scale for this particular dimension.
+
+===== SLIDE 55 (ppt/slides/slide55.xml) =====
+4.6.2 Hall's High-Context and Low-Context Orientations
+1.
+Video
+：
+What is the difference between a high-context and low-context culture?
+2.
+Video: Low Context vs High Context Societies
+
+===== SLIDE 56 (ppt/slides/slide56.xml) =====
+4.6.2.1 High-Context
+P141
+In high-context cultures, most of the meaning exchanged during an encounter is often not communicated through words.
+High-context cultures normally possess a significant degree of similarity among the people. This leads to similar perceptions, experiences, and societal expectations, which produce well-defined social protocols.
+Because high-context cultures are usually
+quite traditional
+, they
+change little
+over time and
+produce consistent responses to the social environment
+. Since the meaning is not necessarily contained in the words in high-context cultures,
+information is provided through inferences, gestures, and even in what is
+NOT
+said
+.
+
+===== SLIDE 57 (ppt/slides/slide57.xml) =====
+4.6.2.1 High-Context
+P140-141
+People of high-context cultures tend to be
+attuned to their surroundings
+and can easily express and interpret emotions
+nonverbally
+. Meaning in high-context cultures is also
+conveyed through status
+(age, sex, education, family background, title, and affiliations)
+and through an individual's informal friends and associates
+. Because of the subtle “messages” used by high-context cultures, members of these groups
+rely more on how something is said rather than what is said and are acutely aware of nonverbal cues
+.
+E.g. Northeast Asian cultures, a result of Confucian philosophy
+
+===== SLIDE 58 (ppt/slides/slide58.xml) =====
+4.6.2.2 Low-Context
+P142
+Low-context cultures typically have a high degree of diversity within the population and tend to compartmentalize ( 划分，分类) interpersonal contacts.
+In low-context cultures the verbal message contains most of the information, and very little is conveyed through the context or the participant's nonverbal displays
+.
+This characteristic manifests itself in a host of ways.
+For example, the
+Asian
+mode of communication (high-context) is often vague, indirect, and implicit, whereas
+Western
+communication (low-context) tends to be direct and unambiguous.
+
+===== SLIDE 59 (ppt/slides/slide59.xml) =====
+4.6.3 Hofstede's Value Dimensions
+Individualism/collectivism
+Uncertainty avoidance
+Power distance
+Masculinity/femininity
+Long- and short-term orientation
+
+===== SLIDE 60 (ppt/slides/slide60.xml) =====
+4.6.3.1 Individualism/Collectivism
+P143
+The subject of countless studies and research projects, individualism versus collectivism (individual orientation vs. group orientation), might well be considered one of the most fundamental concepts used to help understand and explain social life. The two values produce variations in family structures, how classroom activities are conducted, the way organizations manage work groups, and even how people conduct social relations.
+The
+individualism/collectivism continuum
+can be
+defined
+with the following:
+Collectivistic cultures
+emphasize community, collaboration, shared interests, harmony, tradition, the public good, and maintaining face.
+Individualistic cultures
+emphasize personal rights and responsibilities, privacy, voicing one's own opinion, freedom, innovation, and self-expression.
+
+===== SLIDE 61 (ppt/slides/slide61.xml) =====
+4.6.3.1.1 Individualism
+P143
+The
+components of individualism
+are identified:
+First
+, the individual is the single most important unit in any social setting.
+Second
+, independence rather than interdependence is stressed.
+Third
+, individual achievement is rewarded.
+Lastly
+, the uniqueness of each individual is of paramount value.
+A person's rights and privacy prevail over group considerations in an individualistic culture. Individualists are likely to belong to many groups but
+retain only weak ties
+, changing membership when desired.
+
+===== SLIDE 62 (ppt/slides/slide62.xml) =====
+4.6.3.1.1 Individualism
+P144
+
+===== SLIDE 63 (ppt/slides/slide63.xml) =====
+4.6.3.1.2 Collectivism
+P144
+The majority of the world's population lives in collectivistic societies where group interests take precedence over those of the individual.
+In collective cultures, interpersonal relationships form a rigid social framework that distinguishes between in-groups and out-groups. People rely on their in-groups (e.g., family, tribe, clan, organization) for support, and in exchange, they believe they owe loyalty to that group.
+
+===== SLIDE 64 (ppt/slides/slide64.xml) =====
+4.6.3.1.2 Collectivism
+P145
+People in collective societies are often born into extended families, clans, or tribes that support and protect them in exchange for their allegiance
+. Collective cultures emphasize group membership, and the individual is emotionally, and in some cases, physically dependent on organizations and institutions.
+Organizations and the groups to which individuals belong also affect private life, and people generally acquiesce to group decisions, even if they are counter to personal desires.
+Collectivism is also
+contextual
+. In a learning environment, a collective classroom will stress harmony and cooperation, often through group activities, rather than individual competition.
+(
+eg.
+the healthcare setting;
+combat
+against
+COVID-19)
+
+===== SLIDE 65 (ppt/slides/slide65.xml) =====
+4.6.3.2 Uncertainty Avoidance
+P145
+The core of uncertainty avoidance is that the future is unknown. As used in Hofstede's research,
+uncertainty avoidance can be defined as “the extent to which the members of a culture feel threatened by ambiguous or unknown situations.”
+Cultures vary in their ability to tolerate ambiguity and unpredictability.
+
+===== SLIDE 66 (ppt/slides/slide66.xml) =====
+4.6.3.2 Uncertainty Avoidance
+High uncertainty avoidance
+Low uncertainty avoidance
+
+===== SLIDE 67 (ppt/slides/slide67.xml) =====
+4.6.3.2.1 High Uncertainty Avoidance
+P145
+High uncertainty avoidance cultures
+attempt to reduce unpredictability and ambiguity
+through intolerance of deviant ideas and behaviors, emphasizing consensus, resisting change, and adhering to traditional social protocols.
+Relatively high levels of anxiety and stress often characterize these cultures
+.
+People with this orientation believe that life carries the potential for continual hazards, and to avoid or mitigate these dangers, there is a compelling need for laws, written rules, regulations, planning, rituals, ceremonies, and established societal, behavioral, and communication conventions, all of which add structure to life. Social expectations are clearly established and consistent. (
+Japan
+)
+
+===== SLIDE 68 (ppt/slides/slide68.xml) =====
+4.6.3.2.1 High Uncertainty Avoidance
+P146
+
+===== SLIDE 69 (ppt/slides/slide69.xml) =====
+4.6.3.2.2 Low Uncertainty Avoidance
+P146
+Low uncertainty avoidance cultures more easily accept the uncertainty inherent in life, tend to be tolerant of the unusual, and are not as threatened by different ideas and people.
+They prize initiative, dislike the structure associated with hierarchy, are willing to take risks, are flexible, think that there should be as few rules as possible, and depend not so much on experts as on themselves.
+As a whole, members of low uncertainty avoidance cultures are much less constrained by social protocol.
+As with other value dimensions, there are differences in the degree to which uncertainty avoidance influences communication and activities in varied contexts.
+
+===== SLIDE 70 (ppt/slides/slide70.xml) =====
+4.6.3.3 Power Distance
+P147
+Power distance classifies cultures along a continuum of
+high and low power distance
+. Power distance is
+concerned with
+how societies manage the fact that people are unequal. The concept is
+defined as
+“the extent in which the less powerful members of institutions and organizations within a country expect and accept that power is distributed unequally.” The
+premise
+of the dimension deals with the extent to which
+a society accepts that power in relationships, institutions, and organizations is distributed equally or unequally.
+Although all cultures have tendencies toward both high and low power distance relationships, one orientation seems to dominate.
+
+===== SLIDE 71 (ppt/slides/slide71.xml) =====
+4.6.3.3 Power Distance
+High power distance
+Low power distance
+
+===== SLIDE 72 (ppt/slides/slide72.xml) =====
+4.6.3.3.1 High Power Distance
+P146-147
+Individuals from high power distance cultures accept power as part of society.
+As such, superiors consider their subordinates to be different from themselves and vice versa. People in high power distance countries believe that power and authority are facts of life.
+Both consciously and unconsciously, these cultures teach their members that people are not equal in this world and that everybody has a rightful place
+, which is clearly marked by countless societal hierarchies, often based on factors such as family name, education, age, profession, or organizational position.
+Organizations in high power distance cultures commonly have a strong centralization of power, a recognition and use of rank and status, and adherence to established lines of authority.
+
+===== SLIDE 73 (ppt/slides/slide73.xml) =====
+4.6.3.3.1 High Power Distance
+P147
+
+===== SLIDE 74 (ppt/slides/slide74.xml) =====
+4.6.3.3.2 Low Power Distance
+P148
+Low power distance countries hold that inequality in society should be minimized.
+Cultures considered to be low power distance are
+characterized by
+numerous laws, regulations, and rules that tend to minimize power differentials between people.
+Subordinates and superiors consider and
+treat each other as equals
+, and the use of titles is deemphasized. People in power, be they supervisors, managers, or government officials, often interact with their constituents and try to look less powerful than they really are.
+In high power distance societies, the emphasis is on
+the personal “wisdom” of the instructor
+, whereas in low power distance societies, the focus is on
+discerning the impersonal “truth
+,” which can be obtained by any competent person.
+
+===== SLIDE 75 (ppt/slides/slide75.xml) =====
+4.6.3.4 Masculinity/Femininity
+P148
+The words “masculinity” and “femininity” are used to
+refer to
+the degree to which masculine or feminine traits are valued and revealed. Many masculine and feminine behaviors are learned and mediated by cultural norms and traditions.
+
+===== SLIDE 76 (ppt/slides/slide76.xml) =====
+4.6.3.4 Masculinity/Femininity
+Masculinity
+Femininity
+
+===== SLIDE 77 (ppt/slides/slide77.xml) =====
+4.6.3.4.1 Masculinity
+P148-149
+Masculinity is the extent to which the dominant values in a society are male oriented.
+In a masculine-oriented culture,
+emotional gender roles
+are clearly distinct:
+men
+are supposed to be assertive, tough, and focused on material success, whereas
+women
+are supposed to be more modest, tender, and concerned with the quality of life. Gender roles are highly defined and promote achievement in the workplace.
+Assertiveness and the acquisition of money and things
+(materialism) are emphasized and often take precedence over interpersonal relationships.
+The United States
+offers an example of the influence of strong gender roles in a masculine-based culture.
+
+===== SLIDE 78 (ppt/slides/slide78.xml) =====
+4.6.3.4.1 Masculinity
+
+===== SLIDE 79 (ppt/slides/slide79.xml) =====
+4.6.3.4.2 Femininity
+P149
+Cultures that value femininity as a trait
+stress nurturing behaviors
+. A society is called feminine when
+emotional gender roles overlap
+: Both men and women are supposed to be modest, tender, and concerned with the quality of life.
+A feminine worldview maintains
+that men need not be assertive and that they can assume nurturing roles. It
+also promotes
+sexual equality and holds that people and the environment are important. Interdependence and androgynous
+（双性的）
+behavior are the ideals, and people sympathize with the less fortunate.
+
+===== SLIDE 80 (ppt/slides/slide80.xml) =====
+4.6.3.4.2 Femininity
+P150
+The
+impact
+of
+masculinity/femininity on a culture can also be observed in the “
+gender gap
+” survey. To determine the gender gap in countries, the World Economic Forum conducts a yearly survey to measure these four categories: (1) economic participation and opportunity, (2) educational attainment, (3) health and survival, and (4) political empowerment. The rankings in the political empowerment category of the 2013 report generally parallel Hofstede’s findings.
+
+===== SLIDE 81 (ppt/slides/slide81.xml) =====
+4.6.3.5 Long- and Short-Term Orientation
+P150
+Long-term orientation
+stands for the fostering of virtues oriented toward future rewards——in particular, perseverance and thrift.
+Short-term orientation
+stands for the fostering of virtues related to the past and present——in particular, respect for tradition, preservation of “face,” and fulfilling social obligations.
+Video watching:
+short-term orientation vs long-term orientation
+
+===== SLIDE 82 (ppt/slides/slide82.xml) =====
+
+
+===== SLIDE 83 (ppt/slides/slide83.xml) =====
+4.6.4 Minkov's Cultural Dimensions
+Industry versus indulgence
+Monumentalism versus flexumility
+Exclusionism versus univeralism
+
+===== SLIDE 84 (ppt/slides/slide84.xml) =====
+4.6.4.1 Industry Versus Indulgence
+P151
+This dimension considers how work and leisure are prioritized differently in national cultures.
+Most
+underdeveloped nations
+place a high priority on
+industriousness
+, or hard work, while those countries with a
+developed economy
+tilt more toward
+leisure
+. This indicates that as a nation's economy improves and people gain more wealth and social security, they begin to value enjoyment of life over work.
+
+===== SLIDE 85 (ppt/slides/slide85.xml) =====
+4.6.4.1 Industry Versus Indulgence
+
+===== SLIDE 86 (ppt/slides/slide86.xml) =====
+4.6.4.1 Industry Versus Indulgence
+P151-152
+Members of an industrious culture
+would feel they had less opportunity to enjoy themselves, would consider thrift to be important, and would feel that
+social order and discipline were more important than individual freedoms
+.
+In contrast,
+in an indulgent society
+, people would place a priority on their
+sense of freedom and personal enjoyment
+through leisure time and interaction with friends. Consumption and spending would take precedence over fiscal restraint.
+
+===== SLIDE 87 (ppt/slides/slide87.xml) =====
+4.6.4.1 Industry Versus Indulgence
+P152
+
+===== SLIDE 88 (ppt/slides/slide88.xml) =====
+4.6.4.2 Monumentalism Versus
+Flexumility
+P152
+Minkov
+likened “
+monumentalism
+” to
+monuments or statues
+, which are created to reflect pride in a person, event, or thing, and once erected, are relatively unchangeable. Thus,
+monumentalism
+describes cultures that exhibit individuals with a high level of self-pride
+along with “unchangeable identities, strong values, unshakable beliefs, and avoidance of personal duality and inconsistency.”
+“
+Flexumility
+,” a combination of the words “
+self-flexibility
+” and “
+humility
+,” is the polar opposite of monumentalism and
+characterizes those cultures that typically exercise humility and situational flexibility, and that easily adapt to changing conditions
+.
+
+===== SLIDE 89 (ppt/slides/slide89.xml) =====
+4.6.4.2 Monumentalism Versus
+Flexumility
+Monumentalism
+（
+碑铭主义
+）
+versus flexumility
+（
+谦卑调适
+）
+differentiates cultures where
+the human self is proud and stable (invariant) like a monolithic monument
+from cultures where
+the focus is on humility and flexibility, as well as adaptability, and imitation
+. The most typical examples of
+the first type
+of society are
+some Arab nations
+where many people are strongly attached to their time-honoured values and beliefs and view any change of cultural or religious identity as treason.
+
+===== SLIDE 90 (ppt/slides/slide90.xml) =====
+4.6.4.2 Monumentalism Versus
+Flexumility
+At the opposite extreme are the East Asian nations, where adoption of Western names, rituals, customs and other practices is rather fashionable.
+The monumentalist cultures
+experience problems in their relationship with some aspects of modernity, including Western education. On the bright side, they have the lowest suicide rates in the world: pride and self-stability seem to act as a societal suicide deterrent.
+Flexumility
+facilitates school success in mathematics and modern science. Hence, it may boost economic growth. On the downside, it is coupled with high suicide rates.
+
+===== SLIDE 91 (ppt/slides/slide91.xml) =====
+4.6.4.2 Monumentalism Versus Flexumility
+
+===== SLIDE 92 (ppt/slides/slide92.xml) =====
+4.6.4.2 Monumentalism Versus Flexumility
+
+===== SLIDE 93 (ppt/slides/slide93.xml) =====
+4.6.4.3 Exclusionism Versus Universalism
+P154
+In the case of this dimension,
+Minkov
+is concerning on the role that national wealth, or level of economic development, plays in determining cultural differences in how people treat each other
+.
+Exclusionism
+（排外主义，排他主义）
+refers to those national cultures where the type of interaction between people is strongly influenced by group membership, and in
+universalistic
+national cultures, relationships are individualistically based.
+(collectivism vs individualism)
+In
+exclusionist
+cultures, people develop strong in-group ties and rely on those ties to both receive and grant favors, preferential treatment, and assistance when needed. Conversely, members of
+universalistic
+cultures tend to treat everyone the same regardless of group affiliation.
+
+===== SLIDE 94 (ppt/slides/slide94.xml) =====
+4.6.4.3 Exclusionism Versus Universalism
+P154
+
+===== SLIDE 95 (ppt/slides/slide95.xml) =====
+4.6.4.3 Exclusionism Versus Universalism
+P154
+Economically underdeveloped nations
+have a strong preference for
+exclusionism
+, whereas
+developed nations
+scale toward the
+universalism
+pole. This separation
+can be explained by
+the lack of personal wealth and limited availability of social support systems in developing economies, which results in people having to rely on relations with other people for assistance. Generosity toward strangers, or out-group members, is a seldom-affordable luxury. However, in wealthy nations people generally have greater personal income, and social support programs are more prevalent, which facilitates self-reliance and reduces the need for help from others.
+
+===== SLIDE 96 (ppt/slides/slide96.xml) =====
+4.6.4.3 Exclusionism Versus Universalism
+
+===== SLIDE 97 (ppt/slides/slide97.xml) =====
+4.6.5 Tight and Loose Cultures
+P154-155
+Loose
+cultures are characterized by relatively
+weak societal norms and considerable tolerance
+for deviance from those expectations.
+Cultures classified as
+tight
+will exhibit
+strong established societal norms and a low level of tolerance
+for deviances from accepted behaviors.
+Tight
+cultures have a well-defined set of societal protocols that govern social interaction between individuals.
+
+===== SLIDE 98 (ppt/slides/slide98.xml) =====
+4.6.5 Tight and Loose Cultures
+
+===== SLIDE 99 (ppt/slides/slide99.xml) =====
+4.7 Face and Facework
+（面子策略）
+P156
+The term “
+face
+” is commonly used as a metaphor to designate the self-image a person projects to other people. In other words, your “face” is your public identity, how you are perceived by others. And because face is how others see you, it is acquired, maintained, and lost through social interactions, primarily communication. This process is referred to as
+facework
+,  which is defined as “a set of coordinated practices in which communicators build, maintain, protect, or threaten personal dignity, honor, and respect.” Facework consists of those actions you engage in to acquire or maintain face for yourself or give face to someone else.
+
+===== SLIDE 100 (ppt/slides/slide100.xml) =====
+4.7 Face and Facework
+P157
+People from all cultures strive to maintain and negotiate face in all communication situations. Face and facework, however, are influenced by cultural values and vary across cultures.
+In
+individualisti
+c cultures, a person's face is usually derived from his or her own self-effort and is normally independent of others. Accordingly, people from individualistic societies are usually more concerned with
+maintaining their own face
+.
+In
+collectivistic
+cultures, however, there is
+much greater concern for others' face
+. This is because group membership is normally the primary source of identity and status. Considerable value is placed on establishing and sustaining stable, harmonious relationships with in-group members.
+
+===== SLIDE 101 (ppt/slides/slide101.xml) =====
+4.7 Face and Facework
+P157
+Varying attitudes as to what represents face, how facework is conducted, and the objective of facework have a very noticeable impact on how cultures view and approach conflict. According to
+Ting-Toomey's Face Negotiation theory
+（面子协商理论）
+, during a conflict situation,
+three different face concerns
+can come into play.
+“
+self-face
+,” where the individual is concerned about his/her own face;
+“
+other-face
+,” which focuses on the other person's face;
+“
+mutual-face
+,” which encompasses both parties in the conflict.
+These three face concerns vary in importance depending on one's cultural orientation.
+
+===== SLIDE 102 (ppt/slides/slide102.xml) =====
+4.7 Face and Facework
+P157
+The different values
+placed on face, what constitutes face, and how it is managed
+have a very noticeable influence on facework
+. When confronted with the potential for conflict,
+collectivists
+will be more inclined toward
+avoidance and obligating measures
+. This is a result of concern for both mutual face and others' face and how one's actions may affect others.
+Individualists
+, however, are concerned primarily with
+self-face
+and tend to favor confrontational and solution-oriented approaches to resolve conflicts.
+
+===== SLIDE 103 (ppt/slides/slide103.xml) =====
+4.7 Face and Facework
+P158
+These contrasting attitudes toward conflict give rise to quite
+different culturally based communication styles
+. During intercultural communication events, the divergent styles can result in confusion, misinterpretation, or even animosity between the participants.
+Adherence to an
+indirect communication style
+to sustain amicable relations, as used in
+high-context
+cultures, can actually produce the opposite effect among
+individualistic
+participants, who may well view the indirectness as duplicity
+（欺骗行为，奸诈行径）
+.
+Conversely, the use of
+open, direct, forthright
+（
+直截了当的
+）
+communication
+, common in
+low-context
+cultures, can be perceived as rude and inconsiderate by
+collectivistic
+participants, who will likely consider the interaction as face threatening.
+
+===== SLIDE 104 (ppt/slides/slide104.xml) =====
+4.8 Cultural Patterns and Communication
+P159
+
+===== SLIDE 105 (ppt/slides/slide105.xml) =====
+P159
+4.8 Cultural Patterns and Communication
+P159
+
+===== SLIDE 106 (ppt/slides/slide106.xml) =====
+4.9 Developing Cultural Value Awareness
+NOT LECTURED
+You may not agree with one's values, but knowing why he or she thinks or acts a certain way can
+reduce or even eliminate potential intercultural communication discord
+. Therefore, when confronted with confounding cultural differences, you are urged to
+examine the cause behind those differences, the motivating cultural value, rather than simply assuming it is a wrong way of thinking or acting
+.
+
+===== SLIDE 107 (ppt/slides/slide107.xml) =====
+Thanks for watching

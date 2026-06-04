@@ -1,0 +1,22 @@
+===== Homework for Unit 2.docx | DOCX =====
+DOC:L1: Translate the following sentences.
+DOC:L2: Boston Consulting Group (BCG), a management consultancy, foresees quantum computers improving the operating income of their users by between $450bn and $850bn a year by 2050.Unfortunately, big, stable quantum computers do not yet exist. But small, ornery, unstable ones do.  （passage1-para 4)
+DOC:L3: These firms are hunting for "quantum advantage"—a way in which even today's limited machines might have an impact on their bottom lines, or those of their customers. （passage1-para 7)
+DOC:L4: Doug Finke, a physicist who runs the Quantum Computing Report, which focuses on the nascent industry, is aware of 87 organisations, big and small, trying to construct quantum computers. Unlike classical computing, which had settled by the 1970s on silicon transistors as the units of computation, there is, as yet, no consensus on the best way to build a quantum computer. （passage1-para 10)
+DOC:L5: Rather than have hardware-makers come up with useful algorithms, the hope is that existing businesses, by being given access to the machines in this way, will invent such algorithms for themselves.（passage1-para 16)
+DOC:L6: The big question is what all this is leading up to. Despite the excitement, the industry's commercial pioneers have their work cut out for them. There is plenty of promise, but, as yet, no certainty. Finding algorithms that are both commercially useful and simple enough to work within a NISQ machine's limitations is not easy. （passage1-para 19)
+DOC:L7: A report published last year by America's National Academy of Sciences reminded readers that no commercial applications are currently known to exist.The first step, then, is to go looking. (passage1-para 20)
+DOC:L8: The industry has been cheered by Google's demonstration last year of "quantum supremacy", in which it used a NISQ machine to perform, with minutes of computing time, a calculation that would have taken thousands of years on classical hardware. Google's calculation was highly contrived and of little use in the real world. But it proved a point.(passage1-para 21)
+DOC:L9: Unlike most of its peripatetic predecessors, though, ByteDance has built its empire by making products that appeal beyond China. It is China's first global software giant. It has also courted foreign investors. （passage 2-para 9)
+DOC:L10: In statements, TikTok has said that it stores all American “user data in the United States” and that its American operations are “not influenced by any foreign government, including the Chinese government”. The firm is trying to mollify critics and has hired prominent security and legal experts in America to help it. (passage 2-para 18)
+DOC:L11: That, most lawyers and technologists reckon, may help get CFIUS off its back. Listing ByteDance in Hong Kong, which is under consideration, may also foster trust. So would anointing a non-Chinese successor—though, at 37, Mr Zhang may not be ready to retire. (passage 2-para 20)
+DOC:L12: 1. 波士顿咨询公司（BCG），一家管理咨询公司，预测到2050年量子计算机将提高其用户的营业收入，年增加4500亿至8500亿美元。不幸的是，目前还没有大型、稳定的量子计算机。但小型、难缠、不稳定的量子计算机却已存在。
+DOC:L13: 2. 这些公司正在寻找“量子优势”——即使是如今的有限机器也可能对它们或其客户的底线产生影响的一种方法。
+DOC:L14: 3. 道格·芬克（Doug Finke）是一位物理学家，负责运营关注新兴行业的量子计算机报告，他知道有87个大大小小的组织正在尝试构建量子计算机。与20世纪70年代就已经确定硅晶体管作为计算单元的经典计算不同，目前还没有就构建量子计算机的最佳方法达成共识。
+DOC:L15: 4. 希望不是让硬件制造商提出有用的算法，而是通过以这种方式获得机器的访问权，让现有的企业自己发明这样的算法。
+DOC:L16: 5. 最大的问题是这一切将导致什么。尽管令人兴奋，但该行业的商业先驱们面临着艰巨的任务。前景广阔，但目前还没有确定性。找到既具有商业价值又足够简单以适应NISQ机器限制的算法并不容易。
+DOC:L17: 6. 美国国家科学院去年发表的一份报告提醒读者，目前尚不清楚是否存在商业应用。因此，第一步是去寻找。
+DOC:L18: 7. 去年，谷歌展示了“量子霸权”，这令该行业振奋不已，谷歌利用NISQ机器在几分钟内完成了一个在经典硬件上需要数千年才能完成的计算。谷歌的计算是高度构造的，对现实世界几乎没有用处。但这证明了一个观点。
+DOC:L19: 8. 与大多数漂泊前辈不同，字节跳动通过打造吸引力超越中国的产品建立了自己的帝国。它是中国第一个全球软件巨头。它还争取了外国投资者。
+DOC:L20: 9. TikTok在声明中表示，将所有美国“用户数据存储在美国”，其美国业务“不受任何外国政府的影响，包括中国政府”。该公司正试图安抚批评者，并已聘请美国著名的安全和法律专家来帮助自己。
+DOC:L21: 10. 大多数律师和技术专家认为，这可能有助于让美国外国投资委员会放松警惕。将字节跳动列入考虑的香港上市，也可能增进信任。指定一位非中国籍的继任者也会有帮助——不过，37岁的张先生可能还没有准备好退休。

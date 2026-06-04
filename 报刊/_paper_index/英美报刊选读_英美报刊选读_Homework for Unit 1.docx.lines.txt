@@ -1,0 +1,14 @@
+===== Homework for Unit 1.docx | DOCX =====
+DOC:L1: Translate the following sentences.
+DOC:L2: Our model provides a biologically plausible way for artificial neural networks to learn new visual concepts from a small number of examples.（passage 1- para 3)
+DOC:L3: The computational power of the brain's hierarchy lies in the potential to simplify learning by leveraging previously learned representations from a databank, as it were, full of concepts about objects. (passage 1- para 6)
+DOC:L4: Our findings not only suggest techniques that could help computers learn more quickly and efficiently, they can also lead to improved neuroscience experiments aimed at understanding how people learn so quickly, which is not yet well understood. (passage 1- para 12)
+DOC:L5: While there’s been considerable work on inferring the goals and desires of agents, much of this work has assumed that agents act optimally to achieve their goals. (passage 2- para 1)
+DOC:L6: We realized this could be used not just to speed up goal inference, but also to infer intended goals from actions that are too shortsighted to succeed, leading us to shift from scaling up algorithms to exploring ways to resolve more fundamental limitations of current AI systems.(passage 2-para 6)
+DOC:L7: This is part of our larger moonshot — to reverse-engineer 18-month-old human common sense. (passage 2- para 6)
+DOC:L8: 1.当我们的模型提供了一种生物学上可行的方法，使人工神经网络能够从少数实例中学习新的视觉概念。
+DOC:L9: 2.大脑层次结构的计算力在于利用先前学习到的表征，这些表征就如同一个充满物体概念的数据库，从而简化学习。
+DOC:L10: 3.我们的发现不仅提示了能帮助计算机更快、更有效学习的技术，它们还可以导致改进的神经科学实验，旨在了解人们如何如此迅速地学习，这一点目前还不很清楚。
+DOC:L11: 4.尽管对代理的目标和愿望进行推断的工作已经相当丰富，但大部分工作都假设代理会以最优的方式行动以实现其目标。
+DOC:L12: 5.我们意识到这不仅可以用来加快目标推断的速度，还可以从行动中推断出旨在的目标，即使这些行动太短视以致无法成功，从而我们转向探索解决当前人工智能系统更根本的限制的方法。
+DOC:L13: 6.这是我们更大的月球登陆之一部分—逆向工程18个月大的人的常识。

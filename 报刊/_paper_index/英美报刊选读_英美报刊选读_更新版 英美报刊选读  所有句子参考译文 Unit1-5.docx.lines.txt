@@ -1,0 +1,58 @@
+===== 更新版 英美报刊选读  所有句子参考译文 Unit1-5.docx | DOCX =====
+DOC:L1: Unit 1
+DOC:L2: Our model provides a biologically plausible way for artificial neural networks to learn new visual concepts from a small number of examples.
+DOC:L3: 我们的模型为人工神经网络从少量的例子中学习新的视觉概念提供了一种生物学上可行的方法。
+DOC:L4: The computational power of the brain’s hierarchy lies in the potential to simplify learning by leveraging previously learned representations from a databank, as it were, full of concepts about objects.
+DOC:L5: 大脑层级结构的计算能力在于通过利用以前从数据库中学习到的表征来简化学习的潜力，因为数据库中充满了关于物体的概念。
+DOC:L6: Our findings not only suggest techniques that could help computers learn more quickly and efficiently, they can also lead to improved neuroscience experiments aimed at understanding how people learn so quickly, which is not yet well understood.
+DOC:L7: 我们的发现不仅表明技术可以帮助计算机更快、更有效地学习，还可以改进神经科学实验，这些实验的目标是了解人们是如何如此快速地学习的，因为这一点目前还没有得到很好的理解。While there’s been considerable work on inferring the goals and desires of agents, much of this work has assumed that agents act optimally to achieve their goals.
+DOC:L8: 虽然已经有相当多的研究来推断智能体的目标和愿望，但大部分的研究都假设智能体会进行最佳行为以实现他们的目标。We realized this could be used not just to speed up goal inference, but also to infer intended goals from actions that are too shortsighted to succeed, leading us to shift from scaling up algorithms to exploring ways to resolve more fundamental limitations of current AI systems.
+DOC:L9: 我们意识到，这不仅可以用来加速目标推理，还可以从目光短浅而无法成功的行动中推断出预期目标，从而使我们从扩大算法规模转向探索解决当前人工智能系统更根本局限性的方法。
+DOC:L10: This is part of our larger moonshot — to reverse-engineer 18-month-old human common sense.
+DOC:L11: 这是我们更大的冒险计划的一部分——对18个月大的人类常识进行反向工程。
+DOC:L12: This basic approach of modeling humans as imperfect reasoners feels very promising. It now allows us to infer when plans are mistaken, and perhaps it will eventually allow us to infer when people hold mistaken beliefs, assumptions, and guiding principles as well.
+DOC:L13: 这种将人类建模为不完美推理者的基本方法感觉非常有前途。它现在让我们可以推断出什么时候计划是错误的，也许它最终会让我们推断出什么时候人们持有错误的信念、假设和指导原则。
+DOC:L14: Unit 2
+DOC:L15: Boston Consulting Group (BCG), a management consultancy, foresees quantum computers improving the operating income of their users by between $450bn and $850bn a year by 2050.
+DOC:L16: 管理咨询公司波士顿咨询集团(BCG)预测，到2050年，量子计算机将使其用户的营业收入每年提高4500亿至8500亿美元。
+DOC:L17: Unfortunately, big, stable quantum computers do not yet exist. But small, ornery, unstable ones do.
+DOC:L18: 遗憾的是，大型稳定量子计算机目前尚未面世。不过，小型、“劣质”又不太稳定的量子计算机已经存在。
+DOC:L19: A report published last year by America's National Academy of Sciences reminded readers that no commercial applications are currently known to exist.
+DOC:L20: 美国国家科学院去年发表的一份报告提醒读者，这类算法目前尚不具备商业应用能力。
+DOC:L21: Google's calculation was highly contrived and of little use in the real world. But it proved a point.
+DOC:L22: 尽管谷歌的计算任务人为痕迹较重，在现实生活中并没有多大用处，但至少说明了问题。
+DOC:L23: Unlike most of its peripatetic predecessors, though, ByteDance has built its empire by making products that appeal beyond China. It is China’s first global software giant. It has also courted foreign investors.
+DOC:L24: 不过，与多数四处游走的先行者不同，字节跳动是通过生产在中国以外具有吸引力的产品来建立自己的帝国的。它是中国第一个全球软件巨头。它还吸引了外国投资者。
+DOC:L25: Unit 3
+DOC:L26: Major carriers are in the process of rolling out ultra-high-speed mobile-phone networks that use fifth-generation (5G) technology, transmitting data up to 50 times faster than current phone networks.
+DOC:L27: 主要运营商正在推出使用第五代(5G)技术的超高速移动电话网络，以现在手机网络50倍的传输速度来传输数据。
+DOC:L28: This deluge of data flooding through our society will enable a host of new services, including connecting new devices and equipment.
+DOC:L29: 大量的数据涌入社会将提供一系列新服务，包括连接新的终端和设备。
+DOC:L30: Traditionally, Qualcomm has developed and manufactured chipsets and modems that can connect to 5G networks, but now it wants to play a bigger role in the actual infrastructure behind 5G.
+DOC:L31: 传统上，高通开发和制造的是可以连接到5G网络的芯片组和调制解调器，但现在它希望在5G背后的实际基础设施中发挥更大的作用。
+DOC:L32: Sensors themselves can be tinier, cheaper and more durable because of yet another advantage of 5G: smaller batteries.  5G devices stay connected to the network instead of engaging in the back-and-forth signaling that 4G networks require for connectivity, which saps battery life.  5G will power up our daily lives.
+DOC:L33: 由于5G的另一个优势:更小的电池，传感器本身可以更小、更便宜、更耐用。5G设备与网络保持连接，而不是像4G网络那样来回发送信号，这会消耗电池寿命。5G将为我们的日常生活提供动力。
+DOC:L34: Unit 4
+DOC:L35: However, they are drawing the line somewhere, with the ethics committee’s report forbidding the use of modifications or implants that might “affect their sense of humanity” or their ability to manage the use of force.
+DOC:L36: 然而，他们在某些地方划出了界限，道德委员会的报告禁止使用可能“影响他们的人性意识”或管理使用武力能力的修改或植入。
+DOC:L37: They have also banned modifications like cognitive implants that would prevent soldiers from exercising free will and any changes that might impact their reintegration into civilian life.
+DOC:L38: 他们还禁止对士兵进行认知植入之类的改造，这些改造会阻止士兵行使自由意志，也禁止任何可能影响他们重新融入平民生活的改变。
+DOC:L39: We’ve reached the point now where we could potentially manipulate people’s DNA to breed into them extra strength, endurance and other things just as we do with animals. Just as we’ve done with standard cattle to give them more back, we can do that now very precisely with humans.
+DOC:L40: 我们现在已经达到了这样的程度，我们可以操纵人类的DNA，让他们拥有额外的力量、耐力和其他东西，就像我们对动物所做的那样。就像我们对普通的牛所做的那样，给它们更多的回报，我们现在可以非常精确地对人类做这件事。
+DOC:L41: The advance could fuel a variety of robotics applications, including, potentially, frontline medical care of contagious patients.
+DOC:L42: 这一进展可能会推动各种机器人的应用，包括有可能对传染病人进行一线医疗护理。
+DOC:L43: “For robots to be deployed into the field and safely operate in dynamic environments around humans, they need to be able to think and react very quickly,” says Plancher. “Current algorithms cannot be run on current CPU hardware fast enough.”
+DOC:L44: “要让机器人部署到野外，并在人类周围的动态环境中安全运行，它们需要能够非常迅速地思考和反应，”Plancher说,“当前的算法不能在当前的CPU硬件上足够快地运行。”
+DOC:L45: A commonly used hardware accelerator is the graphics processing unit (GPU), a chip specialized for parallel processing.
+DOC:L46: 常用的硬件加速器是图形处理器(GPU)，这是一种专门用于并行处理的芯片。
+DOC:L47: The system then designs a hardware architecture specialized to run calculations only on the non-zero values in the matrices.
+DOC:L48: 然后，该系统设计一个专门的硬件架构，只对矩阵中的非零值进行计算。
+DOC:L49: Unit 5
+DOC:L50: "We wanted the material and the printing process to be as clean and as easy as possible, so we played a chemistry trick with solubility and self-assembly, which enabled the solvent-free process. The fact that we don't use solvent is a tremendous advantage.”
+DOC:L51: “我们希望这种材料以及打印过程尽可能干净、简单，所以就利用化学手段处理了材料的可溶性和自我组合性能，这才使整个过程无需使用溶剂。事实上，我们不使用溶剂是一个巨大的优势。”
+DOC:L52: Recycling a mix of multicolored HDPE pieces creates a dark plastic good only for making products like park benches and waste bins, in which properties like color don’t matter much.
+DOC:L53: 循环利用多种颜色的HDPE碎片创造出一种深色塑料，只适合用于制造公园长椅和垃圾箱等产品，在这些产品中，颜色等特性并不重要。
+DOC:L54: The difficulties of recycling plastic into anything manufacturers want to use is a big reason why the world is littered with so much plastic waste, says Eric Beckman, a chemical engineer at the University of Pittsburgh.
+DOC:L55: 匹兹堡大学的化学工程师埃里克·贝克曼(Eric Beckman)说，将塑料回收成制造商想要使用的任何东西的困难，是世界上充斥着如此多塑料垃圾的一个重要原因。
+DOC:L56: Since, realistically, plastic is not going away any time soon, chemists who understand the ins and outs of all this pesky plastic are working to make it easier to recycle and turn into higher-quality material that’s useful for more things.
+DOC:L57: 实际上，塑料不会很快消失，了解所有这些讨厌的塑料来由的化学家正在努力使其更容易回收，并将其转化为更高质量的材料，用于更多的东西。

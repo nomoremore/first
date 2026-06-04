@@ -1,0 +1,32 @@
+===== 简记.docx | DOCX =====
+DOC:L1: Major carriers【通信公司】
+DOC:L2: transmitting【传输】 data
+DOC:L3: a boost【提升】 to our phone service and download speeds
+DOC:L4: This deluge【纷至沓来的事物〔如信件、问题等〕】 of data flooding through
+DOC:L5: saps损耗 battery life
+DOC:L6: drove the proliferation【激增】 of phone apps
+DOC:L7: live-streaming video【直播视频】
+DOC:L8: 8K image resolution【分辨率】
+DOC:L9: entails 【牵涉；需要】
+DOC:L10: ultra-high-definition 4K images
+DOC:L11: pan【〔拍摄电影或电视时摄影机〕摇摄，摇动拍摄】 the viewpoint around 360 degrees
+DOC:L12: a misconception【误解】
+DOC:L13: VR goggles, for example, can be sleeker【sleek线条流畅的，造型优美的】
+DOC:L14: augmented reality (AR)
+DOC:L15: superimposed【使〔图画、图像、照片〕重叠，使叠加】
+DOC:L16: avoid down-time【停工；停止运行时间】 and more expensive repairs
+DOC:L17: Internet of Things (IOT) 物联网
+DOC:L18: a quick rundown【简要报告，扼要说明，梗概】
+DOC:L19: the company is building Radio Access Network (RAN) chips
+DOC:L20: make them interoperate【交互操作】 for the best performance
+DOC:L21: support the super-fast mmWave (millimeter-wave) networks, and the widespread Sub-6 networks
+DOC:L22: Qualcomm also announced that in partnership with Verizon and Ericsson
+DOC:L23: using what’s called carrier aggregation载波聚合
+DOC:L24: aster speeds than you’ll get on even the best 4G LTE 长期演进技术
+DOC:L25: networks
+DOC:L26: U5
+DOC:L27: The material yields【产生】 soft, elastic objects that feel like human tissue.
+DOC:L28: …leading to a structure more akin to【与…类似】 a bottle brush you might find in your kitchen.
+DOC:L29: The bottlebrush polymer structure imparts 【赋予】the ability to form extremely soft elastomers.
+DOC:L30: which causes a solid-to-liquid transition in response to【响应】applied pressure.
+DOC:L31: meaning it begins as a semi-soft solid that holds its shape

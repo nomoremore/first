@@ -1,0 +1,389 @@
+===== 跨文化交际.docx | word/document.xml =====
+DOC:L1: 跨文化交流
+DOC:L2: 一、“跨文化交际”课程考试题型
+DOC:L3: 时长：60分钟；满分：100分
+DOC:L4: 1. 概念选词填空(10题共20分)
+DOC:L5: 3. 综合知识选择题(10题共20分)
+DOC:L6: 4. 多角度案例分析(1题共40分)
+DOC:L7: 注意：
+DOC:L8: （1）答题纸上写明“学院、英语班级、学号、姓名、考场座位号”；
+DOC:L9: （2）1-3项要求在答题纸相应位置把选项涂黑；
+DOC:L10: （3）第4项用深色签字笔答题
+DOC:L11: 二、本讲义包含的概念如下：
+DOC:L12: 1. culture
+DOC:L13: 2. human communication
+DOC:L14: 3. Intercultural communication
+DOC:L15: 4. identity
+DOC:L16: 5. family
+DOC:L17: 6. perception
+DOC:L18: 7. values
+DOC:L19: 8. cultural patterns
+DOC:L20: 9. language
+DOC:L21: 10. nonverbal communication
+DOC:L22: 11. Intercultural competence
+DOC:L23: 12. stereotyping
+DOC:L24: 13. prejudice
+DOC:L25: 14. racism
+DOC:L26: 15. power
+DOC:L27: 16. ethnocentrism
+DOC:L28: 17. culture shock
+DOC:L29: 18. globalization
+DOC:L30: 三、不列入考试范围的章节如下：
+DOC:L31: 2.1 what is intercultural communication (除定义之外）
+DOC:L32: 2.2 nature of communication
+DOC:L33: 2.5 intercultural communication awareness
+DOC:L34: 4.3 beliefs
+DOC:L35: 4.4 norms
+DOC:L36: 5.4.3 intercultural negotiation skills
+DOC:L37: 5.5 intercultural communication in the education context
+DOC:L38: 6.5 communication technology and language
+DOC:L39: 6.6 improving intercultural competence
+DOC:L40: 6.7 second language benefits
+DOC:L41: 7.8 extended reading on NVC
+DOC:L42: 8.5 globalization in 21st century
+DOC:L43: 中译英:
+DOC:L44: 跨文化：            ；
+DOC:L45: 认知：            ；
+DOC:L46: 文化模式：            ；
+DOC:L47: 跨文化能力：            ；
+DOC:L48: 偏见：            ；
+DOC:L49: 民族中心主义：            ；
+DOC:L50: 全球化：            ；
+DOC:L51: 刻板印象：            ；
+DOC:L52: 交互：            ；
+DOC:L53: intercultural
+DOC:L54: perception
+DOC:L55: cultural patterns
+DOC:L56: intercultural competence
+DOC:L57: prejudice
+DOC:L58: ethnocentrism
+DOC:L59: globalization
+DOC:L60: stereotyping
+DOC:L61: interaction
+DOC:L62: 第一章
+DOC:L63: culture
+DOC:L64: culture的定义:
+DOC:L65: Q: the definition of culture
+DOC:L66: (对于人类学家和其他行为科学家来说)culture is the full range of learned human behavior patterns.文化是人类学习行为模式的全部范围
+DOC:L67: (Edward B. Tylor, 1871, Primitive Culture) Culture is the complex whole which includes belief, art, morals, law, custom, and any other capabilities and habits acquired by man as a member of society. 文化是一个复杂的整体，包括信仰，艺术，道德，法律，习俗以及人类作为社会成员获得的任何其他能力和习惯。
+DOC:L68: culture的产物：(the products of culture)
+DOC:L69: our written languages, governments, buildings, and other man-made things.
+DOC:L70: culture 的层次：(the three layer of culture)
+DOC:L71: (1)first layer : the body of cultural traditions (文化传统的主体)
+DOC:L72: Q: What is the body of cultural traditions?
+DOC:L73: They are referring to the shared language, traditions, and beliefs that set each of these peoples apart from others. 他们指的是使每个民族与众不同的共同语言，传统和信仰。
+DOC:L74: (2)second layer: subculture (亚文化，次文化)
+DOC:L75: Q: Can you give some examples to illustrate subculture?
+DOC:L76: Examples of easily identifiable subcultures in the United States include ethnic groups such as Vietnamese Americans, African Americans，and Mexican Americans. Members of each of these subcultures share a common identity, food tradition, dialect or language, and other cultural traits that come from their common ancestral background and experience. 在美国，易于识别的亚文化的例子包括越南裔美国人，非裔美国人和墨西哥裔美国人等族裔群体。这些亚文化的每个成员都具有共同的身份，饮食传统，方言或语言，以及来自其共同祖先背景和经验的其他文化特征。
+DOC:L77: (3)third layer: cultural universals (文化的普遍性)
+DOC:L78: Q: What are cultural universals?
+DOC:L79: These are learned behavior patterns that are shared by all of humanity collectively. 这些是全人类共同分享的学习的行为模式。
+DOC:L80: culture 的特点：(the features of culture)
+DOC:L81: （1）culture is learned behavior 文化是后天习得的行为
+DOC:L82: （2）culture is usually acquired unconsciously文化通常是在不知不觉中获得
+DOC:L83: （3）culture is shared among its members 文化在其成员之间共享
+DOC:L84: （4）culture is persistent and enduring文化是持久的
+DOC:L85: （5）culture manifests itself both implicitly and explicitly 文化以含蓄和明确的方式表现自己
+DOC:L86: （6）culture is adaptive and changeable文化具有适应性和可改变性
+DOC:L87: （7）culture is relational文化（内在）是有联系的
+DOC:L88: culture 的元素：(the elements of culture)
+DOC:L89: religion
+DOC:L90: 作用: social control, conflict resolution, reinforcement of group solidarity, explanations of the unexplainable, and emotional support.
+DOC:L91: 社会控制，冲突解决，群体团结的强化，无法解释的解释，以及情感支持。
+DOC:L92: history
+DOC:L93: History highlights the culture's origins, "tells" its members what is deemed important, and identifies the accomplishments of the culture of which they can be proud.
+DOC:L94: 历史突出了文化的起源，“说明”了其重要的成员并加以识别。他们可以自豪的文化成就。
+DOC:L95: values
+DOC:L96: Values represent the qualities that people believe are essential to continuing the way of life.
+DOC:L97: 价值观代表了人们认为对维持生活方式必不可少的品质。
+DOC:L98: Values are culturally defined standards of desirability, goodness, and beauty that serve as broad guidelines for social living.
+DOC:L99: 价值观是在文化上定义的合意性，善良和美感的标准，可作为社会生活的广泛准则。
+DOC:L100: Values are “culturally defined standards of desirability, goodness, and beauty that serve as broad guidelines for social living”. The key word in any discussion of cultural values is “guidelines”. In other words, values help determine how people within a particular culture ought to behave.
+DOC:L101: 价值观是“可取性、善和美的文化定义标准，作为社会生活的广泛准则”。任何关于文化价值观的讨论的关键词都是“指导方针”。换句话说，价值观有助于决定人们在特定文化中的行为方式
+DOC:L102: social organizations (social systems/structures)
+DOC:L103: These social systems establish communication networks and regulate norms of personal, familial, and social conduct. They also establish group cohesion and enable people to consistently satisfy their basic needs. 这些社会系统建立了沟通网络，规范了个人、家庭和社会行为的规范。它们还能建立群体凝聚力，使人们不断满足自己的基本需求。
+DOC:L104: language
+DOC:L105: Language is fundamental to the functioning of human culture. 语言是人类文化运作的基础。
+DOC:L106: Language and culture are connected in a number of ways. 语言和文化以多种方式联系在一起。
+DOC:L107: Language underlies every other aspect of a people's way of life—their relationship with the natural environment, family life, political organizations, worldview, and so forth. 语言是人们生活方式的其方面的基础——他们与自然环境、家庭生活、政治组织、世界观等等的关系。
+DOC:L108: Language is the main vehicle of cultural transmission from one generation to the next. 语言是一代到一代文化传播的主要手段。
+DOC:L109: worldview
+DOC:L110: worldview is the way a people interpret reality and events, including their images of themselves and how they relate to the world around them
+DOC:L111: human communication
+DOC:L112: 1.4 human communication
+DOC:L113: Definition: We propose that human communication is a dynamic process in which people attempt to share their thoughts with other people through the use of symbols in particular settings.我们认为，人类交流是一个动态的过程，在这个过程中，人们试图通过使用特定的符号与他人分享自己的想法。
+DOC:L114: The use of communication: communication helps fulfill interpersonal needs, assists with person perception, establishes cultural and personal identities, has persuasive qualities.
+DOC:L115: components of communication
+DOC:L116: Q: Matching the following terms and their definitions.
+DOC:L117: 1.6 features of communication
+DOC:L118: Dynamic  动态的
+DOC:L119: Symbolic 符号化的
+DOC:L120: Contextual 上下文连续的
+DOC:L121: Irreversible 不可逆的
+DOC:L122: Complex  and has a consequence
+DOC:L123: 1.8 The Link Between Culture and Communication
+DOC:L124: Inseparable 形影不离的
+DOC:L125: Communication is influenced by culture
+DOC:L126: Culture determines the way of communication
+DOC:L127: Culture is also influenced by the communication
+DOC:L128: Cultures are created, transmitted and preserved through communication.
+DOC:L129: Generatization
+DOC:L130: generalizations are based on limited data and are then applied to a larger population.In intercultural communication,this means ascribing characteristics to a larger group of people based on attributes displayed by a smaller group
+DOC:L131: 第二章
+DOC:L132: Intercultural communication
+DOC:L133: 2.1 Intercultural communication的定义：
+DOC:L134: Intercultural communication is communication between members of different cultures. It involves interaction between people whose cultural perceptions and symbol systems differ enough to influence the communication event.
+DOC:L135: 跨文化交流是不同文化成员之间的交流。它涉及人与人之间的互动，这些人的文化观念和符号系统差异足以影响交流事件。
+DOC:L136: 跨文化交流的形式：
+DOC:L137: (1)International Communication 国际交流
+DOC:L138: International communication takes place between nations and governments rather than individuals; It is quite formal and ritualized(仪式化）
+DOC:L139: (2)Interethnic Communication 民族间的交流
+DOC:L140: Interethnic communication refers to communication between people of the same race but different ethnic backgrounds.
+DOC:L141: (3)Interracial Communication 跨种族沟通
+DOC:L142: Interracial communication occurs when the source and the receiver exchanging messages are from different races which are related to physical characteristics.
+DOC:L143: (4)Interregional Communication 区域间交流
+DOC:L144: Interregional communication refers to the exchange of messages between members of the dominant culture within a country.
+DOC:L145: 2.3 形成跨文化交流的原因：
+DOC:L146: (1) Technological development:
+DOC:L147: 1)the improvement of information technology
+DOC:L148: 2)modern communication and transportation networks
+DOC:L149: (2)Globalization of the economy: multinational corporations 跨国公司
+DOC:L150: (3)Widespread population migration: multiculturalism 多元文化主义
+DOC:L151: 2.4为什么要学习跨文化？
+DOC:L152: (1) Acquiring the knowledge and skills of intercultural communication is a priority to people in becoming a global citizen. 获得跨文化交流的知识和技能是人们成为全球公民的首要任务。
+DOC:L153: (2) Developing a broader worldview, a more global psychology and the cultural skills is necessary for building relationships and solving problems. 建立更广泛的世界观，更全球化的心理学和文化技能对于建立关系和解决问题是必不可少的。
+DOC:L154: 学习跨文化的益处：
+DOC:L155: 1）to appreciate the opportunities and challenges that each culture presents.
+DOC:L156: 体会每种文化带来的机遇和挑战
+DOC:L157: 2)enhance our ability to select and perform communication behaviors appropriate to various settings. 增强我们选择和执行适合各种设置的通信行为的能力
+DOC:L158: 3)get to know how we became what we are and are less threatened by those from other backgrounds. 了解我们如何成为我们自己，并受到来自其他背景的人的威胁较少
+DOC:L159: 4)clearly communicate the intercultural vision to others and translate this vision into practice in the diverse workplace. 清楚地将跨文化的愿景传达给他人，并将这一愿景转化为在不同工作场所中的实践。
+DOC:L160: 第三章
+DOC:L161: identity
+DOC:L162: Identity 的定义：
+DOC:L163: Identity is our reflective views of ourselves and other perceptions of our self-images within a particular social, geographical, cultural and political context.
+DOC:L164: 身份是我们在特定的社会、地理、文化和政治背景下对自己的反思，以及对自我形象的其他看法。
+DOC:L165: Identity 的分类：
+DOC:L166: 1.Human identities：
+DOC:L167: Human identities are those perceptions of self that link you to the rest of humanity and set you apart from other life form.
+DOC:L168: 人类身份是那些将你与其他人类联系起来并将你与其他生命形式区分开来的自我感知。
+DOC:L169: 2.Social identities：
+DOC:L170: Social identities are represented by the various groups you belong to, such as race, ethnicity, occupation, age, hometown, and others.
+DOC:L171: 社会身份是由你所属的各种群体所代表的，如种族、民族、职业、年龄、家乡等。
+DOC:L172: 3.Personal identities：
+DOC:L173: Personal identities arise from those things that set you apart from other in-group members and mark you as special or somewhat unique.
+DOC:L174: 个人身份产生于那些把你从其他群体成员中区分出来的东西，并把你标记为特殊或有些独特的东西。
+DOC:L175: 第三章常用词：
+DOC:L176: guides expectations: 指导…期望
+DOC:L177: interaction: 交流
+DOC:L178: establishing and enacting cultural identity: 建立和制定文化认同
+DOC:L179: commemorative events: 纪念活动
+DOC:L180: evolving circumstance: 不断发展的情况下
+DOC:L181: intercultural competence: 跨文化能力
+DOC:L182: family
+DOC:L183: family的定义：
+DOC:L184: A family is any sexually expressive or parent-child or other kin relationship in which people – usually related by ancestry, marriage, or adoption – (1) from an economic unit and care for any young, (2) consider their identity to be significantly attached to the group, and (3) commit to the group over time.
+DOC:L185: 家庭是指任何性表达或父母-孩子或其他亲属关系，其中的人-通常由祖先、婚姻或收养-(1)从一个经济单位和照顾任何年轻人，(2)认为自己的身份明显依附于群体，(3)随着时间的推移对群体做出承诺。
+DOC:L186: Forms of family：
+DOC:L187: Nuclear families：小家庭. ” two-generation families”
+DOC:L188: Extended families: 大家庭
+DOC:L189: Function of the family：
+DOC:L190: Reproductive function: 生殖职能
+DOC:L191: Economic function: 经济职能
+DOC:L192: Socialization function: 社会化职能
+DOC:L193: Identity function: 认知职能
+DOC:L194: Language acquisition function 语言习得功能
+DOC:L195: cultural use the family as one of their social institutions to tutor people in proper ways of thinking and behavior so its members become the kind of human being valued by the particular cultural.
+DOC:L196: 文化利用家庭作为其社会机构之一来指导人们以正确的思维方式和行为方式，使其成员成为被特定文化所重视的那种人。
+DOC:L197: 第四章
+DOC:L198: perception
+DOC:L199: perception（认知）的定义：
+DOC:L200: Perception is the process whereby people convert external events and experiences into meaningful internal understanding. 感知是人们将外部事件和经验转化为有意义的内部理解的过程。
+DOC:L201: Perception is how you make sense of your physical and social world, how you construct reality. 感知是你如何理解你的物质世界和社会世界，如何构建现实。
+DOC:L202: perception（认知）的五个特点：
+DOC:L203: Perception is selective 认知是选择性的
+DOC:L204: Perception is learned 认知是后天习得的
+DOC:L205: Perception is culturally determined 认知是由文化决定的
+DOC:L206: Perception is consistent 认知的方式是不变的
+DOC:L207: Perception is inaccurate 认知是不准确的
+DOC:L208: values
+DOC:L209: Q: What is the relationship between values and culture?
+DOC:L210: Values underlie the qualities and actions that people consider necessary and vital to sustain their culture. Values establish the standard for maintaining a culture. 价值观是人们认为维持其文化必要和至关重要的品质和行为的基础。
+DOC:L211: Q: The significance of values
+DOC:L212: They inform people what is considered right and wrong, good and bad, correct and incorrect, appropriate and inappropriate. 他们告知人们什么是对与错，好与坏，正确与错误，适当与不适当。
+DOC:L213: values的定义：
+DOC:L214: What you believe in becomes the foundation for your values. What you find desirable for yourself and for the society you live in is a result of your values. More precisely, “culturally shaped personal values determine how we live our lives,” and people normally think these values should be adhered to not only by themselves but also by everyone else.
+DOC:L215: 你的信仰会成为你价值观的基础。你觉得你自己和你所生活的社会想要的是你的价值观的结果。更确切地说，“文化塑造的个人价值观决定了我们如何生活”，人们通常认为这些价值观不仅应该由他们自己坚持，也应该由其他人坚持。
+DOC:L216: Cultural patterns
+DOC:L217: Cultural patterns (文化模式) 的定义：
+DOC:L218: Cultural patterns (value orientations) refers to culturally based beliefs, values, attitudes, and behaviors shared by members of a particular culture. ★
+DOC:L219: 文化模式（价值取向）是指特定文化的成员共有的基于文化的信念，价值观，态度和行为。
+DOC:L220: Cultural patterns are useful in the study of intercultural communication because they provide a systematic structure to help identify and examine reoccurring values.
+DOC:L221: 文化模式在跨文化交流的研究中很有用，因为它们提供了系统的结构来帮助识别和检验重复出现的价值。
+DOC:L222: Cultural patterns (文化模式) 的四个注意事项（four caveats）：
+DOC:L223: 1）You are more than your culture：您不仅仅是您的文化
+DOC:L224: 2）Cultural patterns are integrated：文化模式是整合的
+DOC:L225: 3）Cultural patterns are dynamic：文化模式是动态的
+DOC:L226: 4）Cultural patterns can be contradictory：文化模式可能是矛盾的
+DOC:L227: 4.7 Cultural Patterns and Intercultural Communication
+DOC:L228: All cultures have distinct perception, values, beliefs, norm and social practices. Intercultural communication is strongly influenced by the underlying patterns of a person’s cultural background. 所有文化都有着截然不同的观念，价值观，信念，规范和社会实践。跨文化交流在很大程度上受到一个人文化背景的潜在模式的影响。
+DOC:L229: Individualism/Collectivism
+DOC:L230: Individualism: the individual is the single most important unit; Independence is stressed; individual achievement is rewarded; the uniqueness of each individual is of great value.  => low power distance
+DOC:L231: Collectivism:   => high power distance
+DOC:L232: Uncertainty Avoidance
+DOC:L233: High Uncertainty Avoidance: 强调共识，抵制变化，Japan and Germany
+DOC:L234: Low Uncertainty Avoidance: 更容易接受变化，Britain
+DOC:L235: Power distance
+DOC:L236: High power distance: accept power as part of society, and believe that power and authority are facts of life.  => hierarchical 等级制度
+DOC:L237: low power distance: hold that inequality in society should be minimized.  => egalitarian 平等主义
+DOC:L238: Face and Facework
+DOC:L239: Face: the self-image a person want to project to other people
+DOC:L240: Facework: a set of coordinated practices in which communicators build, maintain, protect, or threaten personal dignity, honor, and respect.
+DOC:L241: People from individualistic societies are usually more concerned with maintaining their own face.
+DOC:L242: 个人主义的人更在乎自己的脸面
+DOC:L243: Collectivism  :  others’ face > self-face
+DOC:L244: 第六章
+DOC:L245: Language
+DOC:L246: language的定义:
+DOC:L247: language is a set of shared symbols or signs that a cooperative group of people has mutually agreed to use to help them create meaning.
+DOC:L248: 语言是一组共同的符号或符号，一群合作的人共同同意使用这些符号或符号来帮助他们创造意义。
+DOC:L249: language的功能：
+DOC:L250: social interaction：用于与人沟通
+DOC:L251: social cohesion：语言是一个社会的凝聚力
+DOC:L252: expressions of identity：自身身份的表达
+DOC:L253: characteristics of language 语言的特点：
+DOC:L254: (1)language is Symbolic：语言是符号化的（而非实际的意义）
+DOC:L255: Symbols—essential ingredient; words, actions, or objects that stand for or represent a unit of meaning.
+DOC:L256: 符号—基本成分；代表或代表含义单位的单词，动作或对象。
+DOC:L257: (2)language is Rule Governed:语言是有规则地（有语法的）
+DOC:L258: Rules– governing the compositions and ordering of the symbols.
+DOC:L259: 规则–控制符号的组成和顺序。
+DOC:L260: (3)language is Subjective: 语言是主观的
+DOC:L261: Meaning of the language resides in people, not in words.
+DOC:L262: 语言的含义在于人，而不是语言。
+DOC:L263: (4)language is Dynamic: 语言是动态(也会变)的
+DOC:L264: Language is dynamic and has its own life cycle.
+DOC:L265: Language changes on their own account with the passage of time, even in isolation. 语言会随着时间的流逝而改变，即使是孤立地也是如此。
+DOC:L266: Language also changes by taking in loan words from other languages and incorporating them. 通过吸收其他语言的外来词并将其合并，语言也发生了变化。
+DOC:L267: 第七章
+DOC:L268: Nonverbal communication
+DOC:L269: 7.1 nonverbal communication的定义:
+DOC:L270: nonverbal communication involves all those nonverbal stimuli in a communication setting that are generated by both the source and his or her use of the environment, and that have potential message value for the source and/or receiver.
+DOC:L271: 非语言交际包括交际环境中所有的非语言刺激，这些非语言刺激是由交际源及其对环境的使用所产生的，对信息的来源和接受者具有潜在的信息价值。
+DOC:L272: nonverbal communication的分类：
+DOC:L273: Body and facial gestures 身体和面部手势
+DOC:L274: Eye contact 眼神交流
+DOC:L275: Body contact or “proximity”  “身体接触”或“接近”
+DOC:L276: Clothing and physical appearance 服装和外表
+DOC:L277: The quality of speech 演讲的质量
+DOC:L278: 7.2 nonverbal communication的功能：
+DOC:L279: expressing internal states: 表达内心的状态:非言语交际可以用于表达想法、态度、感觉和情绪。
+DOC:L280: creating identity:创立（别人在自己看来的）身份（凭感觉和经验）。
+DOC:L281: regulating interaction: 规范互动，课堂上举手就是意味着有问题要问。
+DOC:L282: repeating the message:重复意思，别人给你个方案，你说不行，然后它提出了次要方案，你摇头表示不行。
+DOC:L283: substituting for words:代替语言。给你竖个中指你就懂他意思了。
+DOC:L284: 7.3 characteristics of nonverbal communication的特点：
+DOC:L285: 1) nonverbal communication is a subtle, nonlinguistic, multidimensional, and spontaneous process.
+DOC:L286: 非语言交际是一种微妙的、非语言的、多维的、自发的过程。
+DOC:L287: 2) nonverbal communication is less systematized and less precise than verbal communication.
+DOC:L288: 非语言交际不如语言交际那么系统化和精确。
+DOC:L289: 3) nonverbal communication is cultural-bound.
+DOC:L290: 非语言交际受文化的限制。
+DOC:L291: 4) nonverbal communication is dominated by ambiguity.
+DOC:L292: 非语言交际被歧义所支配。
+DOC:L293: 7.6 classifications of nonverbal communication的分类:
+DOC:L294: Appearance 外貌 Posture 姿势 Gesture 手势
+DOC:L295: eye contact and gaze 眼神交流和凝视 personal space 个人空间
+DOC:L296: Proxemics
+DOC:L297: 人际关系：
+DOC:L298: Monochronic-time and Polychronic-time
+DOC:L299: monochronic：就是指把工作时间和生活分的很清楚，一短时间只会专注一个任务，都是很专注重准时的。
+DOC:L300: polychronic：就是指谁对平常日程比较随意，以一个整体的观念看待时间，可能在拉丁美人，中东人，或非洲人里常见。
+DOC:L301: 第八章
+DOC:L302: intercultural competence
+DOC:L303: 8.1 intercultural competence的定义：
+DOC:L304: Intercultural competence is the appropriate and effective behavior in a given context. It is the overall capability of an individual to manage key challenging features of intercultural communication: namely, cultural differences and unfamiliarly, inter-group posture, and the accompanying experience of stress.
+DOC:L305: 跨文化能力是指在特定语境中适当而有效的行为。它是一个人处理跨文化交际的关键挑战特征的综合能力:即文化差异和陌生、群体间姿态和伴随的压力体验。
+DOC:L306: 8.2 intercultural competence的组成：
+DOC:L307: motivation动机
+DOC:L308: knowledge 知识
+DOC:L309: skills 技术
+DOC:L310: character 品格
+DOC:L311: 8.3 intercultural communication的潜在问题：
+DOC:L312: 1) seeking similarities 共性寻求
+DOC:L313: 2) withdrawal 退缩
+DOC:L314: 3) anxiety 焦虑
+DOC:L315: 4) uncertainty reduction 减少不确定性
+DOC:L316: 5) stereotyping 刻板印象
+DOC:L317: 定义：Stereotyping is a complex form of categorization that mentally organizes your experiences and guides your behavior toward a particular group of people. A stereotype is a cognitive structure containing the perceiver’s knowledge, beliefs, and expectancies about some human social groups.
+DOC:L318: 刻板印象是一种复杂的分类形式，它在心理上组织你的经历，并引导你对特定人群的行为。刻板印象是一种认知结构，包含了感知者对某些人类社会群体的知识、信念和期望。
+DOC:L319: Q: Why stereotypes hamper(阻碍) intercultural communication?
+DOC:L320: 1)Stereotypes only allow in information that is consistent with information already held by the individual.
+DOC:L321: 刻板印象只允许与个人已经拥有的信息相一致的信息。
+DOC:L322: 2)It assumes that all culture-specific information applies to all individuals from the cultural group.
+DOC:L323: 它假定所有特定于文化的信息都适用于该文化群体中的所有个人。
+DOC:L324: 3)Stereotypes keep you from being successful as communicators because they are oversimplified, exaggerated and overgeneralized.
+DOC:L325: 刻板印象使您无法成功地成为沟通者，因为它们过于简单，夸张和过于笼统。
+DOC:L326: 4)Stereotypes are resistant to change. 刻板印象不易改变。
+DOC:L327: 6) prejudice 偏见
+DOC:L328: Definition: Prejudices are deeply held negative feelings associated with a particular group. These sentiments offer include anger, fear, aversion and anxiety.
+DOC:L329: 偏见是与某一特定群体有关的根深蒂固的负面情绪。这些情绪包括愤怒、恐惧、厌恶和焦虑。
+DOC:L330: Avoid : the most fundamental method of decreasing prejudice is being personally mindful. you can examine your own prejudice and work to avoid it
+DOC:L331: 7) racism 种族主义
+DOC:L332: Racism, in many ways, is an extension of stereotyping and prejudice. Racism is the belief in the inherent superiority of a particular race. It denies the basic equality of humankind and correlates ability with physical composition.
+DOC:L333: 种族主义在很多方面是刻板印象和偏见的延伸。种族主义是相信某一特定种族具有天生的优越性。它否定了人类的基本平等，并将能力与物理构成联系起来。
+DOC:L334: countering racism :消除种族歧视，try to be honest; object to racist jokes and insults(反对种族主义笑话和侮辱); respect freedom; examine racism’s historical roots(考察种族主义的历史根源)
+DOC:L335: 8) power 权力
+DOC:L336: Power is the ability to control what happens，to cause things you want to happen, and to block things you don't want to happen. Power is thus the ability to make and carry out decisions affecting one's life, control the behavior of other human beings, and transform objects and resources.
+DOC:L337: 权力是一种能力，它能控制所发生的事，能引起你想要发生的事，能阻止你不想发生的事。因此，权力是一种能够做出和执行影响自己生活的决定、控制他人行为、改造物体和资源的能力。
+DOC:L338: 9) ethnocentrism 民族中心主义
+DOC:L339: Ethnocentrism is the notion that one’s own culture is superior to any other. It is the idea that other cultures should be measured by the degree to which they live up to our cultural standards. We are ethnocentric when we view other cultures through the narrow lens of our own culture or social position.
+DOC:L340: 民族中心主义是一种认为自己的文化优于其他文化的观念。它是一种观点，认为衡量其他文化的标准应该是他们达到我们的文化标准的程度。当我们通过我们自己的文化或社会地位的狭窄镜头来看待其他文化时，我们是民族中心主义。
+DOC:L341: Ethnocentrism has three levels, i.e. positive, negative and extremely negative. Ethnocentrism is universal. Ethnocentrism contributes to cultural identity.
+DOC:L342: 民族中心主义具有三个层次，即积极，消极和极端消极。民族中心主义是普遍的。民族中心主义有助于文化认同。
+DOC:L343: 10) culture shock 文化冲击★
+DOC:L344: Culture shock的定义：
+DOC:L345: Culture shock is precipitated by the anxiety that results from losing all our familiar signs and symbols of social intercourse. These signs or cues include many ways in which we orient ourselves to the situation of daily life, such as words, gestures, facial expressions, customs or norms.
+DOC:L346: It also involves a powerful disruption in one’s routines, ego，and self image.
+DOC:L347: 由于失去所有我们熟悉的社交往来的符号和象征而产生的焦虑，加剧了文化冲击。 这些迹象或暗示包括许多我们可以适应日常生活情况的方式，例如言语，手势，面部表情，习俗或规范。
+DOC:L348: 它还会严重破坏人们的日常活动，自我和自我形象。
+DOC:L349: Culture shock的阶段：
+DOC:L350: Optimistic Phase --Cultural Problems --Recovery Phase -- Adjustment Phase
+DOC:L351: 另外一个版本:Excitement (honeymoon)
+DOC:L352: Confusion
+DOC:L353: Frustration
+DOC:L354: Effectiveness
+DOC:L355: Appreciation
+DOC:L356: Culture shock is not a one-time phenomenon. Rather, it is a repetitive process of increasingly subtle immersion into a culture. It often involves taking two steps forward and one step back.
+DOC:L357: 文化冲击不是一次性现象。相反，这是一个越来越细微地融入文化的重复过程。它通常涉及向前走两步和向后退一步。
+DOC:L358: 如何应对Culture shock：
+DOC:L359: （1）Make friends.
+DOC:L360: （2）Learn about the host culture.
+DOC:L361: （3）Be patient.
+DOC:L362: （4）Participate in cultural activities
+DOC:L363: 11) ethics 道德准则★
+DOC:L364: Two major perspectives: relativism and universalism 相对主义和普遍主义
+DOC:L365: relativism : The relative perspective of ethics holds that values and morality are cultural bound and primarily depend on the perspective of the respective culture
+DOC:L366: 相对伦理观认为，价值观和道德是文化的束缚，主要取决于各自文化的视角
+DOC:L367: Universalism: there are immutable universal ethical precepts that apply to all cultures 有适用于所有文化的亘古不变的普遍道德准则
+DOC:L368: Universalism believes that what is right or wrong, true or false, is applicable to all people everywhere in every circumstance
+DOC:L369: 普遍主义相信什么是对的或错的，对的或假的，适用于所有人，在任何地方，任何情况下
+DOC:L370: Acculturation
+DOC:L371: 文化适应：a continuing process of stress-adaptation-growth
+DOC:L372: Ethnocentrism
+DOC:L373: 民族优越感：
+DOC:L374: globalization
+DOC:L375: 8.4 globalization的定义：
+DOC:L376: In every broad term，globalization is the worldwide integration of economic，technological, political, cultural, and social aspects between countries.
+DOC:L377: 从广义上讲，全球化是世界范围内国家之间经济、技术、政治、文化和社会方面的一体化。
+DOC:L378: 优点：
+DOC:L379: 1.Those who favor globalization view it as a means by which countries may develop economically and increase their standard of living: International trade through globalization can have many benefits. Trade helps increase economic wealth and establishes good political relationships with trading partners. 那些赞成全球化的人认为，全球化是各国经济发展和提高生活水平的一种手段：通过全球化进行的国际贸易可以带来许多好处。 贸易有助于增加经济财富，并与贸易伙伴建立良好的政治关系。
+DOC:L380: 2.Globalization also promotes free trade and competition between corporations. This gives consumers throughout the world more options and cheaper products from which to choose. 全球化还促进了公司之间的自由贸易和竞争，这给全世界的消费者提供了更多选择和更便宜的产品可供选择。
+DOC:L381: 缺点：
+DOC:L382: 1.Developed countries exploited developing nations through free-trade agreements.发达国家通过自由贸易协定剥削了发展中国家。
+DOC:L383: 2. It may overtake a country’s traditional identity.它可能会取代一个国家的传统身份。
+DOC:L384: 3. In developing countries, workers are exploited and the environment has been damaged.在发展中国家，工人受到剥削，环境遭到破坏。
+DOC:L385: 4. It may increase the gap between the poor and the rich, as well as between developed and developing countries.这可能会增加贫富之间以及发达国家和发展中国家之间的差距。
+DOC:L386: 中间地带：
+DOC:L387: The vast majority of globalization's critics and proponents stand somewhere within this middle ground. Many of those in the middle support an “alternative globalization." They accept globalization in general. However, they also want the international community to stop giving priority to the global market and trade. For many of the negative aspects of globalization to be addressed, the focus must shift to issues such as human and labor rights, the environment, and social welfare.
+DOC:L388: 全球化的绝大多数批评家和支持者都站在这个中间立场。中间的许多人都支持“替代性全球化”。他们普遍接受全球化，但他们也希望国际社会停止对全球市场和贸易给予优先考虑。要解决全球化的许多负面问题，必须将重点放在转向人权和劳工权利，环境和社会福利等问题。

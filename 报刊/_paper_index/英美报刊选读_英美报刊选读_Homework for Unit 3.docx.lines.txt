@@ -1,0 +1,17 @@
+===== Homework for Unit 3.docx | DOCX =====
+DOC:L1: Translate the following sentences.
+DOC:L2: Major carriers are in the process of rolling out ultra-high-speed mobile-phone networks that use fifth-generation (5G) technology, transmitting data up to 50 times faster than current phone networks. (passage 1-para 1)
+DOC:L3: This deluge of data flooding through our society will enable a host of new services, including connecting new devices and equipment. (passage 1-para2)
+DOC:L4: The first applications to benefit from 5G will likely be those involving live-streaming video — that is, using a phone to record and transmit an event as it is happening. 5G speeds can cope with 8K image resolution, which entails quadruple the amount of information of ultra-high-definition 4K images and beyond even the capabilities of most TVs. （passage 1- para 5)
+DOC:L5: Gaming and VR apps work best when the images change almost instantly in response to user input, whether it’s swiping on the screen, waving a hand or turning a head.
+DOC:L6: （passage 1- para 6)
+DOC:L7: Around the home, that could be tomato plants in the garden that can ask for water, roofs that warn of weaknesses after extreme weather, jackets that keep parents updated on a child’s location, trash cans that ask to be emptied, and milk cartons that point out expiration dates. But 5G networks can zip data back and forth quickly enough to mean that much of the processing can move to the cloud.(passage 1- para 9)
+DOC:L8: Traditionally, Qualcomm has developed and manufactured chipsets and modems that can connect to 5G networks, but now it wants to play a bigger role in the actual infrastructure behind 5G. （passage 2- para 3)
+DOC:L9: The speed was achieved with a bunch of fancy tech on a mmWave network and using what’s called carrier aggregation, which combines multiple channels to make for faster speeds. （(passage 2- para 6)
+DOC:L10: 1. 主要运营商正在推出使用第五代（5G）技术的超高速移动电话网络，传输速度比当前电话网络快50倍。
+DOC:L11: 2. 这股数据的洪流涌入我们的社会将使一系列新服务成为可能，包括连接新设备和设备。
+DOC:L12: 3. 首批受益于5G的应用可能是涉及实时视频流的应用——即使用手机记录和传输事件的过程。 5G速度可以处理8K图像分辨率，这意味着比超高清4K图像的信息量增加了四倍，甚至超过了大多数电视的功能。
+DOC:L13: 4. 游戏和虚拟现实应用在图像根据用户输入几乎立即变化时效果最好，无论是在屏幕上划动，挥手还是转动头部。
+DOC:L14: 5. 在家中，这可能是花园中的番茄植物可以要求浇水，屋顶在极端天气后警告弱点，夹克可以让父母了解孩子的位置，垃圾桶可以要求清空，牛奶盒可以指出过期日期。但是，5G网络传输数据的速度足够快，以至于大部分处理可以转移到云端。
+DOC:L15: 6. 传统上，高通公司开发和制造可以连接到5G网络的芯片组和调制解调器，但现在它希望在5G背后的实际基础设施中扮演更重要的角色。
+DOC:L16: 7. 这一速度是通过在毫米波网络上使用一堆高级技术以及使用所谓的载波聚合实现的，载波聚合将多个信道组合在一起以实现更快的速度。

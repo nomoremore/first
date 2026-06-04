@@ -1,0 +1,417 @@
+===== 选择1.pdf | PAGE 1 =====
+P1:L1: 二、选择（10×1’）【主要考察词汇】
+P1:L2: Unit 1
+P1:L3: 1.
+P1:L4: Computer-based artificial intelligence can function more like human intelligence
+P1:L5: when programmed to use a much faster technique for learning new objects, say two
+P1:L6: neuroscientists【神经系统科学家】who designed such a model that was designed to
+P1:L7: mirror human visual learning.
+P1:L8: Neuroscience:[ˈnjʊərəʊsaɪəns]神经科学
+P1:L9: 2.
+P1:L10: We can get computers to learn much better from few examples by Leverage【杠
+P1:L11: 杆，举债经营，补充，对...产生影响,利用】prior learning in a way that we think
+P1:L12: mirrors what the brain is doing.
+P1:L13: 3.
+P1:L14: It is like saying that a platypus【鸭嘴兽】looks a bit like a duck, a beaver【海狸】,
+P1:L15: and a sea otter【海獭】.
+P1:L16: 4.
+P1:L17: The anterior temporal lobe【颞叶前部】of the brain is thought to contain
+P1:L18: "abstract" concept representations that go beyond shape.
+P1:L19: 5.
+P1:L20: While there’s been considerable work on inferring the goals and desires of agents
+P1:L21: 【具有自主性、交互性等特征的活着的计算实体】, much of this work has assumed
+P1:L22: that agents act optimally【最理想地】to achieve their goals.
+P1:L23: 6.
+P1:L24: This is part of our larger moonshot【一个疯狂的想法或不大可能实现的项目】
+P1:L25: —— to reverse-engineer【反向工程、逆向工程】18-month-old human common
+P1:L26: sense.
+P1:L27: 7.
+P1:L28: The work builds conceptually【在概念上】on earlier cognitive models from
+P1:L29: Tenenbaum's group, showing how simpler inferences that children and even
+P1:L30: 10-month-old infants make about others' goals can be modeled quantitatively as a form
+P1:L31: of Bayesian inverse planning【贝叶斯逆规划】.
+P1:L32: Unit 2
+P1:L33: 8.
+P1:L34: TikTok's popularity over the past two years has shone the spotlight on【成为人们
+P1:L35: 关注的焦点】ByteDance, its Beijing-based developer.
+P1:L36: 9.
+P1:L37: And ByteDance isn't done. The 60,000 people in its buzzy offices—“We are like
+P1:L38: flies,” says one former employee— crank out【开发，制成；粗制滥造】one app after
+P1:L39: another.
+P1:L40: 10. As other firms sack【解雇】workers amid covid-19, ByteDance is hiring 10,000
+P1:L41: globally.
+P1:L42: 11.
+P1:L43: More haphazardly【更随意的是，更偶然的是】, conglomerates like Fosun and
+P1:L44: Anbang splurged on trophy assets (including ClubMed and the Waldorf Astoria hotel,
+P1:L45: respectively).
+P1:L46: 12. All this helps ensure ByteDance is not, in contrast to many Chinese tech
+P1:L47: upstarts, in hock to【抵押给，欠…的债】Alibaba, Baidu and Tencent— which is
+P1:L48: handy, for Bytedance competes with China's tech titans for ad revenue.
+P1:L49: 13. And established companies, such as Daimler, a carmaker, and Goldman Sachs, a
+P1:L50: bank, are beginning to experiment with the nascent【新兴的】industry's products,
+P1:L51: hoping that, if they can master them, they will bestow【给予；使用；安放；安顿】an
+P1:L52: advantage over their competitors. Much of the money is going towards building
+P1:L53: hardware.
+P1:L54: 14. By exploiting the counter-intuitive properties of quantum mechanics, they could
+P1:L55: perform some calculations (though only some) faster than any conceivable【可想象的;
+P1:L56: 可信的】non-quantum machine.
+P1:L57: 15. Quantum computers would also speed up the analysis of optimisation problems,
+P1:L58: which try to find the best way to juggle【处理】many variables in order to maximise a
+P1:L59: particular outcome.
+P1:L60: 16. The business of quantum computers 量子计算机蕴藏的商机
+P1:L61: 17. Uncertainty principals 不确定性原理
+P1:L62: 18. Quantum computing is attracting commercial interest 量子计算正在吸引商业
+P1:L63: 利益
+P1:L64: 19. Big, stable quantum computers would be useful devices. 大型稳定量子计算机
+P1:L65: 将拥有可观的用武之地。
+P1:L66: Unit 3
+===== 选择1.pdf | PAGE 2 =====
+P2:L1: 20. This once-in-a-decade mobile phone network upgrade is expected to place us
+P2:L2: squarely in the middle of the Internet of Things【(IOT)物联网】.
+P2:L3: 21. “5G will be one of the more transformative technologies we’ve had so far,”says
+P2:L4: Karri Kuoppamaki, vice president of radio network technology and strategy at
+P2:L5: T-Mobile【德国电信跨国子公司】, where he is overseeing the company’s rollout of
+P2:L6: 5G networks.
+P2:L7: 22. 5G speeds can cope with 8K image resolution【8K 分辨率】, which entails
+P2:L8: quadruple the amount of information of ultra-high-definition 4K images【超高清4K
+P2:L9: 图像】and beyond even the capabilities of most TVs.
+P2:L10: 23. Other applications certain to get early 5G upgrades include mobile gaming and
+P2:L11: virtual reality (VR)【虚拟现实】apps that embed goggle-wearing users in 3D images.
+P2:L12: 24. The speed and fast response of 5G networks will also affect the kit: VR goggles
+P2:L13: 【VR 眼镜即VR 头显，虚拟现实头戴式显示设备】, for example, can be sleeker,
+P2:L14: lighter and less clunky, notes Kuoppamaki.
+P2:L15: 25. Closely related to VR is augmented reality (AR)【增强现实】, where graphics and
+P2:L16: text are superimposed on real images.
+P2:L17: 26. What’s more, he adds, sensors in the machinery will constantly feed remote AI
+P2:L18: software with the monitoring data it needs to self-adjust in response to variations in
+P2:L19: product quality, and to judge when the equipment requires preventive maintenance to
+P2:L20: avoid down-time【停机时间，停工期】and more expensive repairs.
+P2:L21: 27. Qualcomm【高通公司】wants to make 5G more accessible, more common, and
+P2:L22: faster. The company recently held its annual 5G Day event, where it made a few
+P2:L23: announcements related to the rollout of 5G, the continued development of 5G tech, and
+P2:L24: more.
+P2:L25: 28. Specifically, the company is building Radio Access Network (RAN)【无线电接入
+P2:L26: 网】chips, which are designed to be used in 5G base stations for your phone (or tablet,
+P2:L27: or computer) to connect.
+P2:L28: 29. Qualcomm’s chips, of course, support the super-fast mmWave (millimeter-wave)
+P2:L29: 【毫米波】networks, and the widespread Sub-6【亚6GHz 频段】networks, so if they
+P2:L30: become widespread, you may get much better mmWave support.
+P2:L31: 30. Qualcomm also announced that in partnership with Verizon【威瑞森电信】and
+P2:L32: Ericsson【爱立信公司】,it achieved a peak 5G speed of a whopping 5.06Gbps.
+P2:L33: 31. The speed was achieved with a bunch of fancy tech on a mmWave network and
+P2:L34: using what’s called carrier aggregation【载波聚合】, which combines multiple
+P2:L35: channels to make for faster speeds.
+P2:L36: 32. But you should still get faster speeds than you did before, and hopefully, faster
+P2:L37: speeds than you’ll get on even the best 4G LTE【(Long Term Evolution)长期演进技
+P2:L38: 术】networks.
+P2:L39: Unit 4
+P2:L40: 33. It may not be long before the world has to contend with【与...作斗争；和...争
+P2:L41: 夺】armies of Terminator troops.
+P2:L42: 34. We already know that China is developing biologically enhanced “super soldiers,”
+P2:L43: and now the French military has been given the go-ahead【许可，批准】to create
+P2:L44: so-called “augmented【增强的】soldiers” by the armed forces ministry’s ethical
+P2:L45: committee.
+P2:L46: 35. France said it is seeking to enhance the cognitive, perceptive, psychological and
+P2:L47: physical capabilities of its troops through medical treatments to prevent stress and pain,
+P2:L48: substances to improve mental resilience【心理韧性】if a soldier is taken prisoner,
+P2:L49: implants and prosthetics【弥补术；修复术】.
+P2:L50: 36. Although France claims that it plans to follow humanitarian laws, armed forces
+P2:L51: minister Florence Parly cautioned【警告；劝告】that not every country is willing to
+P2:L52: operate ethically, and it is important to be prepared for such realities.
+P2:L53: 37. Army is reportedly testing an exoskeleton【外骨骼；皮骨骼】that can be attached
+P2:L54: to soldiers’ legs to give their productivity a 27-fold boost.
+P2:L55: 38. Red blood cells known as respirocytes【呼吸细胞】are also being explored that
+P2:L56: could prevent soldiers from getting out of breath and allow them to remain underwater
+P2:L57: for several hours.
+P2:L58: 39. Just as we’ve done with standard cattle【普通牛】to give them more back, we
+P2:L59: can do that now very precisely with humans.”
+P2:L60: 40. A report by the International Society for Military Ethics in Europe described
+P2:L61: bionic soldiers who can fight all the time, dubbing【把...叫做】them“homo robocopus
+P2:L62: 【人机结合体】.”
+===== 选择1.pdf | PAGE 3 =====
+P3:L1: 41. The report stated: “Enhanced soldiers would be reduced【使变成】to bionic【仿
+P3:L2: 生学的】men, who run fast, do not need sleep, eat and drink very little, and can fight all
+P3:L3: the time.”
+P3:L4: 42. “The hang up【搁置；悬挂】is what’s going on in the robot’s head,” she adds.
+P3:L5: 43. Perceiving stimuli【刺激】and calculating a response takes a “boatload 【一条
+P3:L6: 船的货物；大量】of computation,” which limits reaction time, says Neuman, who
+P3:L7: recently graduated with a PhD from the MIT Computer Science and Artificial
+P3:L8: Intelligence Laboratory (CSAIL).
+P3:L9: 44. The method, called robomorphic【机器人形态的】computing, uses a robot’s
+P3:L10: physical layout and intended applications to generate a customized computer chip that
+P3:L11: minimizes the robot’s response time.
+P3:L12: 45. The advance could fuel a variety of robotics applications, including, potentially,
+P3:L13: frontline medical care of contagious【传染的】patients.
+P3:L14: 46. Neuman is now a postdoctoral NSF Computing Innovation Fellow【研究员】at
+P3:L15: Harvard’s School of Engineering and Applied Sciences.
+P3:L16: 47. “Current algorithms【算法】cannot be run on current CPU hardware fast
+P3:L17: enough.”
+P3:L18: 48. That means moving beyond a standard-issue【常规的】CPU processing chip that
+P3:L19: comprises a robot’s brain — with the help of hardware acceleration.
+P3:L20: 49. A commonly used hardware accelerator is the graphics processing unit (GPU)
+P3:L21: 【图形处理器】, a chip specialized for parallel processing.
+P3:L22: 50. These devices are handy【方便的；手边的】for graphics because their parallel
+P3:L23: structure allows them to simultaneously process thousands of pixels【像素】.
+P3:L24: 51. These matrices are “sparse【稀少的；稀疏的】,” meaning they contain many
+P3:L25: zero values that roughly correspond to movements that are impossible given a robot’s
+P3:L26: particular anatomy.
+P3:L27: 52. Similarly, your arm’s movements are limited because it can only bend at certain
+P3:L28: joints — it’s not an infinitely pliable【易曲折的；柔软的】spaghetti noodle.
+P3:L29: 53. The resulting chip design is therefore tailored【特制的；合身的】to maximize
+P3:L30: efficiency for the robot’s computing needs. And that customization paid off【付清；得
+P3:L31: 到好处/回报】in testing.
+P3:L32: 54. Hardware architecture designed using this method for a particular application
+P3:L33: outperformed off-the-shelf【成品的；现成的】CPU and GPU units.
+P3:L34: 55. While Neuman’s team didn’t fabricate a specialized chip from scratch, they
+P3:L35: programmed a customizable field-programmable gate array【门数组，门阵列】(FPGA)
+P3:L36: chip according to their system’s suggestions.
+P3:L37: 56. Despite operating at a slower clock rate【时钟速率】, that chip performed eight
+P3:L38: times faster than the CPU and 86 times faster than the GPU.
+P3:L39: 57. “I was thrilled with those results,” says Neuman. “Even though we were
+P3:L40: hamstrung【残废的；做不了的】by the lower clock speed, we made up for it by just
+P3:L41: being more efficient.”
+P3:L42: 58. “Ideally we can eventually fabricate a custom motion-planning【定做的/定制的
+P3:L43: 移动规划】chip for every robot, allowing them to quickly compute safe and efficient
+P3:L44: motions,” he says.
+P3:L45: 59. He adds that Neuman’s advance could enable robots to think faster, “unlocking
+P3:L46: 【开锁；开启；揭开】exciting behaviors that previously would be too computationally
+P3:L47: difficult.”
+P3:L48: 60. Users will simply drag and drop【拖放】their robot’s parameters, and “out the
+P3:L49: other end comes the hardware description.
+P3:L50: 61. This research was funded by the National Science Foundation, the Computing
+P3:L51: Research Agency, the CIFellows Project【计算创新研究员项目】, and the Defense
+P3:L52: Advanced Research Projects Agency.
+P3:L53: Unit 5(未加底色的是文中标绿的词)
+P3:L54: 62. In contrast, bottlebrush polymers have additional polymers attached to the linear
+P3:L55: backbone, leading to a structure more akin to【类似于】a bottle brush you might find in
+P3:L56: your kitchen.
+P3:L57: 63. Xie's and Mukherjee's key discovery involves the self-assembly of bottlebrush
+P3:L58: polymers at the nanometer length scale, which causes a solid-to-liquid transition in
+P3:L59: response to【响应，回答，对....作出反应】applied pressure.
+P3:L60: 64. This material is categorized as a yield-stress fluid【屈服应力流体】, meaning it
+P3:L61: begins as a semi-soft solid that holds its shape【保持它的形状】, like butter or
+===== 选择1.pdf | PAGE 4 =====
+P4:L1: toothpaste, but when sufficient pressure is applied, it liquefies and can be squeezed
+P4:L2: through a syringe.
+P4:L3: 65. The researchers can tune【调整】the material to flow under various amounts of
+P4:L4: pressure to match the desired processing conditions.
+P4:L5: 66. The crosslinkers can link up【（与…）联合;连接;接合】nearby bottlebrush
+P4:L6: polymers, resulting in【导致】a super-soft elastomer.
+P4:L7: 67. At that point, the material becomes a permanent solid -- it will no longer liquefy
+P4:L8: 【液化；溶解】under pressure -- and exhibits extraordinary properties【表现出非凡
+P4:L9: 的特性】.
+P4:L10: 68. Mukherjee discovered the material by accident【偶然的，不经意】, while trying
+P4:L11: to develop a material for a different project, one that would increase the amount of
+P4:L12: charge that can be stored by an actuator【传动装置】.
+P4:L13: 69. "When we saw this really well-defined yield stress, it dawned on【开始】everyone
+P4:L14: collectively that we could 3D-print it," Bates said, "and that would be cool, because
+P4:L15: none of the 3D-printable materials we know of have this super-soft property."
+P4:L16: 70. "If the water went away【离开;消失;离开（某地或某人）;外出（尤指度假）】,
+P4:L17: then you'd just have a shapeless pile of material," said Chabinyc.
+P4:L18: 71. "With a conventional polymer, you must figure out【想出;理解;弄清】how to
+P4:L19: keep the right amount of water in it to maintain its structure【保持其结构】, but this
+P4:L20: new material is all solid, so it will never change."
+P4:L21: 72. Mukherjee added, "We wanted the material and the printing process to be as clean
+P4:L22: and as easy as possible, so we played a chemistry trick with【玩化学把戏】solubility
+P4:L23: and self-assembly, which enabled the solvent-free process. The fact that we don't use
+P4:L24: solvent is a tremendous advantage."
+P4:L25: 73. No matter how meticulous you are in cleaning and separating your plastics, most
+P4:L26: end up【（通常指意外地）最终到达;最终;结果;到头来】in the trash heap anyway.
+P4:L27: 74. Grocery bags and shrink wrap are too flimsy, prone to【易于】getting tangled up
+P4:L28: with【纠结】other materials on a conveyor belt.
+P4:L29: 75. The difficulties of recycling plastic into anything【把塑料回收成任何东西】
+P4:L30: manufacturers want to use is a big reason why the world is littered with【到处都是】so
+P4:L31: much plastic waste, says Eric Beckman, a chemical engineer at the University of
+P4:L32: Pittsburgh.
+P4:L33: 76. Another 12 percent has been burned, and almost 80 percent has piled up【堆积如
+P4:L34: 山】on land or in waterways.
+P4:L35: 77. The amount of plastic recycled in the United States has increased over the last few
+P4:L36: decades — but those levels still pale【暗淡的;微弱的】in comparison with the amount
+P4:L37: of plastic that goes into landfills.
+P4:L38: 78. Some projects are on the brink of【边缘;濒于;濒临】breaking into industry; others
+P4:L39: are still just promising lab experiments.
+P4:L40: 79. “Most plastics are like oil and water【大多数塑料像油和水】,” says chemist
+P4:L41: Geoffrey Coates of Cornell University.
+P4:L42: 80. Food packaging films that contain several layers of different plastic are
+P4:L43: particularly tricky to take apart【拆开】.
+P4:L44: 81. The process uses a series of liquid solvents to dissolve【溶;使溶解;解除;终止;解
+P4:L45: 散】individual plastic components off a product.
+P4:L46: 82. Dunking the remaining EVOH-PET film in a solvent called DMSO【二甲基亚砜】
+P4:L47: stripped off【剥去】the EVOH.
+P4:L48: 83. The researchers then plucked out【拔出】the remaining PET film and recovered
+P4:L49: the other two plastics from their separate solvents by mixing in “antisolvent”
+P4:L50: chemicals.
+P4:L51: 84. Those chemicals caused the plastic molecules that were dispersed【(使)分散，散
+P4:L52: 开;疏散;驱散;散布;散发;传播】in the liquids to bunch together into【聚成一团】solid
+P4:L53: clumps that could be fished out【钓鱼】.
+P4:L54: 85. When tested on a jumble of 【杂乱无章的】polyethylene, PET and EVOH beads,
+P4:L55: the solvent washes recovered more than 95 percent of each material — hinting that
+P4:L56: these solvents could be used to strip plastic components off【从..上剥离下来】bulkier
+P4:L57: items than packaging films.在聚乙烯，PET 和EVOH 珠的杂物上进行测试时，溶剂
+P4:L58: 清洗回收的每种材料的回收率超过95％，这暗示着这些溶剂可用于将塑料组件从
+P4:L59: 比包装膜更大的物品上剥离下来。
+P4:L60: 86. And existing compatibilizers are not widely used because they are not very potent
+P4:L61: 【有效的】— and adding a lot of compatibilizer to a plastic blend gets expensive.现
+P4:L62: 有的增容剂由于效价不高而未被广泛使用，并且在塑料混合物中添加大量增容剂
+P4:L63: 会变得昂贵。
+===== 选择1.pdf | PAGE 5 =====
+P5:L1: 87. To boost viability, Coates and colleagues created a highly potent【强效】
+P5:L2: compatibilizer for polyethylene and polypropylene. 为了提高生存能力，Coates 和他
+P5:L3: 的同事创造了一种用于聚乙烯和聚丙烯的高效增容剂。
+P5:L4: 88. It’s as if polyethylene were made of Legos【乐高积木】, and polypropylene were
+P5:L5: made of Duplos【杜普洛斯】就好像聚乙烯是用乐高积木做的，聚丙烯是用杜普洛
+P5:L6: 斯做的
+P5:L7: 89. The first test of the new compatibilizer involved welding together【焊接在一起】
+P5:L8: strips of polyethylene and polypropylene.
+P5:L9: 90. Melting down and remolding plastic is sort of like reheating pizza in the
+P5:L10: microwave — you get out basically what you put in, just not as good. 融化和重塑塑
+P5:L11: 料有点像在微波炉里加热比萨饼——你基本上得到你放进去的东西，只是没有那
+P5:L12: 么好。
+P5:L13: 91. Using heat and chemicals, it is possible to disassemble【拆卸;拆开】polymers into
+P5:L14: monomers, separate those building blocks from dyes and other contaminants, and piece
+P5:L15: the monomers back together into【把...重新拼合成...】good-as-new plastic.使用热量
+P5:L16: 和化学物质，可以将聚合物分解为单体，将这些结构单元从染料和其他污染物中
+P5:L17: 分离出来，然后将单体重新拼合成新的塑料。
+P5:L18: 92. “It’s not ready for prime time【黄金时段】,” he says.
+P5:L19: 93. But because it evolved to decompose plant matter, not plastic, it’s not perfect. To
+P5:L20: make the enzyme better at snipping apart【剪断】PET, “we redesigned what we call the
+P5:L21: active site of the enzyme,” Marty says.
+P5:L22: 94. This involved swapping out【调换】some of the amino acids【氨基酸】along that
+P5:L23: PET docking site for others.这涉及将PET 对接位点上的一些氨基酸换成其他氨基
+P5:L24: 酸。
+P5:L25: 95. The original enzyme had maxed out【最大输出】at about 50 percent.
+P5:L26: 96. Since this reaction takes place at a relatively mild 280° C, it happens in an orderly
+P5:L27: fashion, snapping long polyethylene molecules into【将...捕捉到】shorter chains that
+P5:L28: are each about 30 carbons long.
+P5:L29: 由于该反应在相对温和的280°C 下发生，因此有序发生，将长的聚乙烯分子捕捉
+P5:L30: 到较短的链中，每个链长约30 个碳。
+P5:L31: 97. Researchers in the labs of Christopher Bates, an assistant professor of materials at
+P5:L32: UC Santa Barbara, and Michael Chabinyc, a professor of materials and chair of the
+P5:L33: department, have teamed to develop the first 3D-printable "bottlebrush" elastomer
+P5:L34: 【[力] 弹性体，[高分子] 高弹体】.
+P5:L35: 98. That's due to the size and shape of their constituent polymers【[高分子] 聚合物】,
+P5:L36: which are long, linear molecules that easily entangle like cooked spaghetti.
+P5:L37: 99.
+P5:L38: The ability to 3D-print bottlebrush elastomers makes it possible to leverage these
+P5:L39: unique mechanical properties in applications that require careful control over the
+P5:L40: dimensions of objects ranging from biomimetic【仿生的】tissue to high-sensitivity
+P5:L41: electronic devices, such as touch pads, sensors and actuators. 3D 打印牙刷弹性体的能
+P5:L42: 力使得在需要仔细控制从仿生组织到高灵敏度电子设备（例如触摸板，传感器和
+P5:L43: 致动器）的对象的尺寸的应用中，可以利用这些独特的机械性能。
+P5:L44: 100. That's important, because if the material sags【中间下垂，下凹】during printing,
+P5:L45: the printed part will have poor structural stability."
+P5:L46: 101. Once the object is printed, UV light is shined onto it to activate crosslinkers【固
+P5:L47: 化剂】that Mukherjee synthesized and included as a part of the ink formulation.
+P5:L48: 102. The softness of a material is measured in terms of its modulus【系数】, and for
+P5:L49: most elastomers, it is rather high, meaning their stiffness and elasticity are similar to
+P5:L50: those of a rubber band. 材料的柔软度是根据其模量来衡量的，对于大多数弹性体
+P5:L51: 而言，它的硬度很高，这意味着它们的刚度和弹性类似于橡皮筋。
+P5:L52: 103. "These super-soft elastomers might be applicable as implants【移植】," he
+P5:L53: added.
+P5:L54: 104. The polypropylene【[高分子] 聚丙烯】in yogurt cups and other items doesn’t
+P5:L55: usually get recycled either; recycling a hodgepodge【混煮；一团糟】of polypropylene
+P5:L56: produces a dark, smelly plastic that few manufacturers will use 酸奶杯和其他物品中
+P5:L57: 的聚丙烯通常也不会被回收；回收聚丙烯大杂烩会产生深色，有臭味的塑料，几
+P5:L58: 乎没有制造商会使用这种塑料。
+P5:L59: 105. Only two kinds of plastic are commonly recycled in the United States: the kind in
+P5:L60: plastic soda bottles, polyethylene terephthalate 【对苯二酸盐；对苯二酸酯PET】,
+P5:L61: or PET【聚对苯二甲酸乙二醇酯】; and the plastic found in milk jugs and detergent
+P5:L62: containers — high-density polyethylene, or HDPE. 在美国，通常仅回收两种塑料：
+P5:L63: 苏打瓶，聚对苯二甲酸乙二醇酯或PET；以及奶罐和洗涤剂容器中的塑料-高密度
+P5:L64: 聚乙烯或HDPE。
+===== 选择1.pdf | PAGE 6 =====
+P6:L1: 106. With plastic collecting everywhere from the top of Mount Everest 【埃佛勒斯
+P6:L2: 峰, 喜马拉雅山主峰之一，中国称珠穆朗玛峰】to the bottom of the Mariana Trench
+P6:L3: 【马里亚纳海沟（太平洋海底）】, there’s an urgent need to reduce the amount of
+P6:L4: plastic that gets thrown away
+P6:L5: 107. Since, realistically, plastic is not going away any time soon, chemists who
+P6:L6: understand the ins and outs of all this pesky【讨厌的，麻烦的】plastic are working to
+P6:L7: make it easier to recycle and turn into higher-quality material that’s useful for more
+P6:L8: things.实际上，由于塑料不会很快消失，因此，了解所有讨厌塑料的来龙去脉的
+P6:L9: 化学家正在努力使其更容易回收利用，并转变为可用于更多用途的更高质量的材
+P6:L10: 料。
+P6:L11: 108. But not for items like deodorant【除臭的，防臭的】containers — where the bottle,
+P6:L12: crank and cap could all be made of different kinds of plastic.
+P6:L13: 109. The team tested the technique on a packaging film that contained polyethylene
+P6:L14: and PET, as well as a plastic oxygen barrier made of ethylene vinyl alcohol【乙烯，乙
+P6:L15: 烯醇】, or EVOH, that keeps food fresh.
+P6:L16: 110. Stirring the film into a toluene【甲苯】solvent first dissolved the polyethylene
+P6:L17: layer. 将薄膜搅拌到甲苯溶剂中，首先溶解聚乙烯层。
+P6:L18: 111. Huber and colleagues next plan to look for solvents to dissolve more kinds of
+P6:L19: plastic, such as the polystyrene【聚苯乙烯】in Styrofoam【泡沫聚苯乙烯】.
+P6:L20: 112. Additives called compatibilizers【增容剂】help different melted-down plastics
+P6:L21: blend, so that unsorted materials can be treated as one.
+P6:L22: 113. Few manufacturers can use plastic with a random mishmash【混杂物】of
+P6:L23: properties to make something new.很少有制造商可以使用具有随机特性的塑料来制
+P6:L24: 造新的东西。
+P6:L25: 114. The molecules that make up plastics are called polymers, which are made of
+P6:L26: smaller monomers【单体】. 组成塑料的分子称为聚合物，由较小的单体制成。
+P6:L27: 115. Microbes normally use the enzyme, called leaf-branch compost【堆肥；混合物】
+P6:L28: cutinase【角质酶】, to decompose the waxy coating on plant leaves. But the cutinase is
+P6:L29: also good at breaking PET down into its monomers: ethylene glycol【乙二醇】and
+P6:L30: terephthalic acid【对苯二甲酸】.微生物通常使用一种叫做叶分支堆肥角质酶的
+P6:L31: 酶来分解植物叶片上的蜡状涂层。但角质酶还擅长将PET 分解为其单体：乙二
+P6:L32: 醇和对苯二甲酸。
+P6:L33: 116. She and colleagues recently came up with a way to transform polyethylene into
+P6:L34: alkylaromatic【烷基芳烃的】compounds, which can be used as biodegradable
+P6:L35: ingredients in shampoos, detergents and other products.
+P6:L36: 117. The process involves placing polyethylene inside a reaction chamber set to 280° C,
+P6:L37: with a catalyst powder containing platinum nanoparticles【铂纳米颗粒】.
+P6:L38: 118. The development of a class of next-gen polymers, called PDKs, for
+P6:L39: poly(diketoenamine)s【聚二酮烯胺】, was reported in Nature Chemistry in 2019.
+P6:L40: Unit 6
+P6:L41: 119. “These results suggest that vaccines inducing durable protective immunity against
+P6:L42: SARS-CoV-2 do so by stimulating robust germinal【与生殖细胞（或胚胎）有关的；
+P6:L43: 具生殖细胞（或胚胎）性质的；根源的；初期的；孕育新思想的，开创性的】center
+P6:L44: responses — a question that can be effectively answered using the rhesus【猕猴;恒河
+P6:L45: 猴（一种猕猴，多用于实验）】model,” said Smita Iyer，assistant professor of pathology
+P6:L46: 【病理学】, microbiology and immunology at the UC Davis School of Veterinary【兽
+P6:L47: 医的】Medicine and Center for Immunology and Infectious Diseases.
+P6:L48: 病理学，微生物学和免疫学助理教授史密塔·艾耶尔（Smita Iyer）表示：“这些
+P6:L49: 结果表明，疫苗可通过刺激强大的生发中心反应来诱导针对SARS-CoV-2 的持久
+P6:L50: 保护性免疫，这一问题可以通过恒河猴模型有效地回答。” 在加州大学戴维斯分
+P6:L51: 校的兽医学院和免疫学和传染病中心。
+P6:L52: 120. But an uncontrolled immune response or “cytokine【细胞活素】storm” is also
+P6:L53: implicated in causing severe complications in some people.但不受控制的免疫反应或
+P6:L54: “细胞因子风暴”也会导致一些人的严重并发症。
+P6:L55: 121. They made a type of helper cell called Th1 cells in the blood, lungs and lymph
+P6:L56: nodes【淋巴结】, and produced both IgM-type antibodies and the higher-affinity IgG
+P6:L57: antibodies associated with long-term immune protection.他们在血液，肺部和淋巴结
+P6:L58: 中制造了一种名为Th1 细胞的辅助细胞，并产生了与长期免疫保护相关的IgM 型
+P6:L59: 抗体和更高亲和力的IgG 抗体。
+P6:L60: 122. Germinal centers and Tfh cells are associated with generating plasma cells【血浆
+P6:L61: 细胞】, which remain in the body for many years to produce antibodies against
+P6:L62: pathogens【病原体】the immune system has seen before. 生殖中心和Tfh 细胞与生
+===== 选择1.pdf | PAGE 7 =====
+P7:L1: 成的浆细胞相关，它们在体内保留了许多年，以产生针对免疫系统以前见过的病
+P7:L2: 原体的抗体。
+P7:L3: 123. Using a new gene editing strategy, researchers from Yale University can correct
+P7:L4: mutations that cause thalassemia【珠蛋白生成障碍性贫血】, a form of anemia【贫
+P7:L5: 血症】.耶鲁大学的研究人员使用一种新的基因编辑策略，可以纠正引起地中海贫
+P7:L6: 血的突变，这是一种贫血。
+P7:L7: 124. Gene editing techniques have the potential to treat blood disorders that run in
+P7:L8: families, such as thalassemia and sickle cell anemia【镰状细胞血症】, but their
+P7:L9: application has been largely limited to cells in a laboratory and not living animals.
+P7:L10: 基因编辑技术具有治疗家族性血液系统疾病的潜力，例如地中海贫血和镰状细胞
+P7:L11: 性贫血，但它们的应用在很大程度上仅限于实验室中的细胞，而不是活体动物。
+P7:L12: 125. To achieve gene editing in mice with thalassemia, professor of therapeutic
+P7:L13: radiology and of genetics Dr. Peter M. Glazer and his co-authors developed an
+P7:L14: alternative approach using a novel combination of nanoparticles【纳米粒子】, synthetic
+P7:L15: pieces of DNA, and a simple IV injection.为了在地中海贫血小鼠中实现基因编辑，
+P7:L16: 放射线学和遗传学教授Peter M.Glazer 博士和他的合著者开发了一种替代方法，
+P7:L17: 该方法使用了纳米颗粒，DNA 合成片段和简单的IV 注射的新型组合。
+P7:L18: 126. The cross-disciplinary research team identified a protein derived from bone
+P7:L19: marrow【骨髓】that has the ability to activate stem cells — the cells that are the most
+P7:L20: responsive to gene editing.跨学科研究小组确定了一种源自骨髓的蛋白质，该蛋白
+P7:L21: 质具有激活干细胞的能力，而干细胞是对基因编辑最敏感的细胞。
+P7:L22: 127. They combined the protein with synthetic molecules, known as PNAs, that mimic
+P7:L23: DNA and bind to the target gene to form a triple helix【螺旋结构】. 他们将蛋白质与
+P7:L24: 合成分子（称为PNA）结合，该分子模拟DNA 并与靶基因结合形成三重螺旋。
+P7:L25: 128. After 140 days, they tested hemoglobin【血红素; 血红蛋白】levels in the animals
+P7:L26: and found them to be normal.140 天后，他们测试了动物的血红蛋白水平，发现它
+P7:L27: 们是正常的。
+P7:L28: 129. In addition, because the research team used tiny pieces of DNA that were
+P7:L29: produced chemically, this technique avoided the type of unintended outcomes that
+P7:L30: other techniques, like CRISPR, can cause when they alter the genome【基因组】.此外，
+P7:L31: 由于研究团队使用的是化学合成的微小DNA 片段，因此该技术避免了CRISPR 等
+P7:L32: 其他技术改变基因组时可能导致的意外结果。

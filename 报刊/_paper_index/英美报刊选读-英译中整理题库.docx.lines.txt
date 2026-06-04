@@ -1,0 +1,27 @@
+===== 英美报刊选读-英译中整理题库.docx | DOCX =====
+DOC:L1: Now that chatbots are going the way of Google — moving from the miraculous to the taken-for-granted — the anxiety has shifted, too, from apocalypse to atrophy.
+DOC:L2: Because higher detection rates mean fewer missed cancers, this ‘centaur’ approach was plainly beneficial.
+DOC:L3: Knowledge, once imagined as a possession, has become a relation — a matter of how well we can locate, interpret, and synthesize what others know.
+DOC:L4: Boston Consulting Group (BCG), a management consultancy, foresees quantum computers improving the operating income of their users by between $450bn and $850bn a year by 2050.
+DOC:L5: Unfortunately, big, stable quantum computers do not yet exist. But small, ornery, unstable ones do.
+DOC:L6: A report published last year by America’s National Academy of Sciences reminded readers that no commercial applications are currently known to exist.
+DOC:L7: The first step, then, is to go looking.
+DOC:L8: The industry has been cheered by Google's demonstration last year of "quantum supremacy", in which it used a NISQ machine to perform, with minutes of computing time, a calculation that would have taken thousands of years on classical hardware.
+DOC:L9: Google's calculation was highly contrived and of little use in the real world. But it proved a point.
+DOC:L10: A commonly used hardware accelerator is the graphics processing unit (GPU), a chip specialized for parallel processing.
+DOC:L11: The system then designs a hardware architecture specialized to run calculations only on the non-zero values in the matrices.
+DOC:L12: Unlike most of its peripatetic predecessors, though, ByteDance has built its empire by making products that appeal beyond China. It is China’s first global software giant.
+DOC:L13: It has also courted foreign investors.
+DOC:L14: In statements, TikTok has said that it stores all American “user data in the United States” and that its American operations are “not influenced by any foreign government, including the Chinese government”.
+DOC:L15: The firm is trying to mollify critics and has hired prominent security and legal experts in America to help it.
+DOC:L16: That, most lawyers and technologists reckon, may help get CFIUS off its back.
+DOC:L17: Listing ByteDance in Hong Kong, which is under consideration, may also foster trust.
+DOC:L18: So would anointing a non-Chinese successor—though, at 37, Mr Zhang may not be ready to retire.
+DOC:L19: Major carriers are in the process of rolling out ultra-high-speed mobile-phone networks that use fifth-generation (5G) technology, transmitting data up to 50 times faster than current phone networks.
+DOC:L20: This deluge of data flooding through our society will enable a host of new services, including connecting new devices and equipment.
+DOC:L21: Around the home, that could be tomato plants in the garden that can ask for water, roofs that warn of weaknesses after extreme weather, jackets that keep parents updated on a child’s location, trash cans that ask to be emptied, and milk cartons that point out expiration dates.
+DOC:L22: But 5G networks can zip data back and forth quickly enough to mean that much of the processing can move to the cloud.
+DOC:L23: Traditionally, Qualcomm has developed and manufactured chipsets and modems that can connect to 5G networks, but now it wants to play a bigger role in the actual infrastructure behind 5G.
+DOC:L24: The speed was achieved with a bunch of fancy tech on a mmWave network and using what’s called carrier aggregation, which combines multiple channels to make for faster speeds.
+DOC:L25: The advance could fuel a variety of robotics applications, including, potentially, frontline medical care of contagious patients.
+DOC:L26: “For robots to be deployed into the field and safely operate in dynamic environments around humans, they need to be able to think and react very quickly,” says Plancher. “Current algorithms cannot be run on current CPU hardware fast enough.”
